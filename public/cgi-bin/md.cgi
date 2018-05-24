@@ -1,7 +1,14 @@
+#!/usr/bin/env ruby
+
+ENV['GEM_PATH'] = '/home/cubpack/.gems'
+
+#built in
 require 'date'
 #require 'file'
 require "erb"
-require 'redcarpet'
+
+#external
+require 'redcarpet'	#gem install redcarpet
 
 class MarkdownToHTML
     def initialize()
