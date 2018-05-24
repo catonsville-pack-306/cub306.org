@@ -1,0 +1,9 @@
+table, td, th{border:1px solid black;}
+
+footer
+{
+    font-size:smaller;
+    border-top:1px solid black;
+    margin-top:1em;
+    padding-top:0.25em;
+}

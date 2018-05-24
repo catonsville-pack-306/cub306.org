@@ -1,0 +1,9 @@
+
+DirectoryIndex index.html index.md
+
+#Action markdown /cgi-bin/Markdown.cgi
+
+Action markdown /cgi-bin/md.cgi
+
+AddHandler markdown .md
+
