@@ -28,6 +28,7 @@ header h1
     margin:0;
     padding:0em;
     line-height: 120px;
+    line-height: 10vw;
     display:flex;/* needed to make text centered vertically */
 }
 header h1 *
