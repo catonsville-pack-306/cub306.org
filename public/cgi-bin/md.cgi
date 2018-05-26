@@ -35,7 +35,7 @@ class MarkdownToHTML
     end
     
     def local_mode()
-        if ENV["local_mode"]="on"
+        if ENV["local_mode"]=="on"
             @template=ERB.new "<%=page%>"
         end
     end
