@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <title><%=title%></title>
     <link rel="stylesheet" href="styles/default.css">
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"
+        integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="scripts/default.js"></script>
     <!--
     req_uri=<%=@req_uri%>
     doc_uri=<%=@doc_uri%>
@@ -15,9 +19,7 @@
 <body>
 
 <header>
-    <h1 onclick="document.location='index.md'">
-        Cub Scout Pack 306!
-    </h1>
+    <h1 id="header_title">Cub Scout Pack 306</h1>
     <menu>
         <menuitem>
             <a href="index.md"><i class="fas fa-home"></i> Home</a>
@@ -51,7 +53,7 @@
 </main>
 
 <footer>
-Catonsville Cub Pack 306 copyright 2018
+Catonsville Cub Pack 306 copyright <%=DateTime.now.strftime("%Y")%>
 </footer>
 
 </body>
