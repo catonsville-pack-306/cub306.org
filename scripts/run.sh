@@ -5,4 +5,6 @@ export HTTP_ACCEPT="text/html"
 export DOCUMENT_URI="/index.md"
 export REQUEST_URI="/index.md#section1"
 
-ruby public/cgi-bin/md.rb
+export local_mode="on"
+
+ruby public/cgi-bin/md.cgi

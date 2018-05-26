@@ -31,6 +31,13 @@ class MarkdownToHTML
         
         @template=ERB.new "Content-type: <%=ctype%>; charset=utf-8\n\n<%=page%>"
         @debug = false
+        local_mode()
+    end
+    
+    def local_mode()
+        if ENV["local_mode"]="on"
+            @template=ERB.new "<%=page%>"
+        end
     end
     
     def read_env(name, default=nil)
@@ -79,7 +86,11 @@ class MarkdownToHTML
         text = handle.read
         text
     end
-    
+    #    <%= ERB.new(File.read(File.expand_path("#{@root}/alerts.md")), nil, nil, '_sub01').result(binding) %>
+
+    def sub_page(path)
+        return ERB.new(File.read(File.expand_path(path)), nil, nil, '_sub01').result(binding)
+    end
 end
 
 mth = MarkdownToHTML.new

@@ -1,9 +1,111 @@
-table, td, th{border:1px solid black;}
+body
+{
+    margin:0;
+    padding:0;
+}
+
+header
+{
+    margin:0;
+    padding:0;
+    color:white;
+    background-color:#0A5694;
+}
+header h1::before
+{
+    padding:0;
+    margin:0;
+    margin-right:32px;
+    width:120px;
+    height:120px;
+    line-height:120px;
+    content: url(../images/logo.png);
+}
+header h1
+{
+    font-size:3em;
+    margin:0;
+    padding:0em;
+    line-height: 120px;
+    display:flex;/* needed to make text centered vertically */
+}
+header h1 *
+{
+    margin-top:auto;
+    margin-bottom:auto;
+}
+
+#construction
+{
+    position:absolute;
+    top:10px;
+    right:10px;
+    border:2px dashed red;
+    margin:0.5em;
+    padding:0.25em;
+}
+
+menu
+{
+    display: flex;
+    justify-content: space-between;
+    margin:0;
+    padding:0;
+    margin-top:1em;
+    padding-bottom:0.25em;
+}
+menuitem:first-child
+{
+    padding-left:1em;
+}
+menuitem:last-child
+{
+    padding-right:1em;
+}
+menuitem
+{
+    white-space: nowrap;
+    text-align:center;
+}
+menuitem a, menuitem a:visited
+{
+    color:white;   
+}
+article
+{
+    margin:0.55em;
+    padding:0.5em;
+    /*margin-right:5em;*/
+    border:1px solid grey;
+    text-align: Justify;
+}
+
+aside
+{
+    /*display:none;*/
+    margin:1em;
+    padding:0.5em;
+    border:8px solid #0A5694;
+    float:right;
+}
+
+main
+{
+    margin:0.5em;
+    padding:0.5em;
+}
 
 footer
 {
     font-size:smaller;
-    border-top:1px solid black;
+    border-top:1px solid #0A5694;
     margin-top:1em;
     padding-top:0.25em;
+    padding-left: 0.5em;
 }
+
+table, td, th{border:1px solid black;}
+
+p img {float:left;margin-right:25px;}
+
+hr {border-top-color:#0A5694;}
