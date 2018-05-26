@@ -1,7 +1,8 @@
 #!/bin/bash
 
+pushd /home/cubpack/cub306.org
 if [ -n "$(git fetch --dry-run)" ] ; then
-    cd /home/cubpack/cub306.org
     git pull
 fi
+popd
 
