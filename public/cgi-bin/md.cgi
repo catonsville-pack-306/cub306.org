@@ -25,7 +25,7 @@ class MarkdownToHTML
         DOC
         
         @root = read_env("DOCUMENT_ROOT")
-        @doc_uri = read_env("DOCUMENT_URI", "/index.md")
+        @doc_uri = read_env("PATH_INFO", "/index.md")
         @req_uri = read_env("REQUEST_URI", "/index.md")
         @accept = read_env("HTTP_ACCEPT", "*/*")
         
