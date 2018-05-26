@@ -1,4 +1,4 @@
-# Cub scout pack 306 of Catonsville #
+# Cub Scout Pack 306 of Catonsville #
 
 We Meet Wednesday Nights 7-8 pm at Catonsville Presbyterian Church between September and May.
 
