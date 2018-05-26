@@ -1,0 +1,16 @@
+/******************************************************************************/
+/* print view */
+
+@media print
+{
+    header h1
+    {
+        color:black;
+        background-color:white;
+    }
+    menu {display:none;}
+    aside{display:none;}
+    footer{border-top:1px solid black;}
+    hr {border-top-color:black;}
+
+}
