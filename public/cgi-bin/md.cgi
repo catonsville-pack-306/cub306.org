@@ -26,7 +26,7 @@ class MarkdownToHTML
         
         @root = read_env("DOCUMENT_ROOT")
         @doc_uri = read_env("PATH_INFO", "/index.md")
-        @req_uri = read_env("REQUEST_URI", "/index.md")
+        @req_uri = read_env("REQUEST_URI", "/index.md?utf8=✓")
         @accept = read_env("HTTP_ACCEPT", "*/*")
         
         @template=ERB.new "Content-type: <%=ctype%>; charset=utf-8\n\n<%=page%>"
@@ -48,7 +48,6 @@ class MarkdownToHTML
         ctype = "text/html" #@accept
         page = ""
         title = File.basename(@doc_uri, ".*")
-        now = DateTime.now.strftime("%Y-%m-%d %H:%M:%S")
         
         #read in markdown
         contents = load_file(@root, @doc_uri)
@@ -86,11 +85,20 @@ class MarkdownToHTML
         text = handle.read
         text
     end
-    #    <%= ERB.new(File.read(File.expand_path("#{@root}/alerts.md")), nil, nil, '_sub01').result(binding) %>
-
-    def sub_page(path)
-        return ERB.new(File.read(File.expand_path(path)), nil, nil, '_sub01').result(binding)
+    
+    def now
+        DateTime.now.strftime("%Y-%m-%d %H:%M:%S")
     end
+    
+    def inject(path)
+        contents = load_file(@root, path)
+        page = markdown(contents)
+
+        wrapper_erb = ERB.new page
+        result = wrapper_erb.result(binding)
+        result
+    end
+    
 end
 
 mth = MarkdownToHTML.new
