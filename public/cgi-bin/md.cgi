@@ -26,7 +26,7 @@ class MarkdownToHTML
         
         @root = read_env("DOCUMENT_ROOT")
         @doc_uri = read_env("PATH_INFO", "/index.md")
-        @req_uri = read_env("REQUEST_URI", "/index.md?utf8=✓")
+        @req_uri = read_env("REQUEST_URI", "/index.md?")
         @accept = read_env("HTTP_ACCEPT", "*/*")
         
         @template=ERB.new "Content-type: <%=ctype%>; charset=utf-8\n\n<%=page%>"
