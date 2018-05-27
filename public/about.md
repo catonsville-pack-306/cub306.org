@@ -5,4 +5,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 # Our Cub Masters #
 1. Jon Bartel (founder)
 1. Richard Pearl
-1. Thomas Cherry
+1. Thomas Cherry (current)

@@ -1,6 +1,6 @@
 # Cub Scout Pack 306 of Catonsville #
 
-We Meet Wednesday Nights 7-8 pm at Catonsville Presbyterian Church between September and May.
+We Meet Wednesday Nights 7-8 pm at Catonsville Presbyterian Church between the first Wednesday of September and the last Wednesday of May.
 
 * [Catonsville Presbyterian Church](http://www.catonsvillepresb.org) <i class="fas fa-external-link-alt"></i>
 * [1400 Frederick Road, Catonsville, MD 21228](https://goo.gl/maps/4m8ACB65TAn) <i class="fas fa-map-marker-alt"></i>
