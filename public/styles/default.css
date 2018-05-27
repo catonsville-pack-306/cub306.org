@@ -26,10 +26,10 @@ header h1
     font-size:3em;
     font-size:6vw;
     margin:0;
-    padding:0em;
+    padding:0;
     line-height: 120px;
     line-height: 10vw;
-    display:flex;/* needed to make text centered vertically */
+    display:flex;
 }
 header h1 *
 {
@@ -111,3 +111,8 @@ table, td, th{border:1px solid black;}
 p img {float:left;margin-right:25px;}
 
 hr {border-top-color:#0A5694;}
+
+#footer_debug{display:none;}
+#ios8, #iosSEland, #iosSEport, #iosOther {display:none;}
+
+
