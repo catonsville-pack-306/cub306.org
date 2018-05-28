@@ -24,10 +24,10 @@ class MarkdownToHTML
         'REQUEST_URI' => '/test.php/foo/bar.php?v=1'
         DOC
         
-        @root = read_env("DOCUMENT_ROOT")
-        @doc_uri = read_env("PATH_INFO", "/index.md")
-        @req_uri = read_env("REQUEST_URI", "/index.md?")
-        @accept = read_env("HTTP_ACCEPT", "*/*")
+        @root = read_env("DOCUMENT_ROOT", nil, /[^\w\/\.-]/)
+        @doc_uri = read_env("PATH_INFO", "/index.md", /[^\/\w\?&=\.#%]*/)
+        @req_uri = read_env("REQUEST_URI", "/index.md?", /[^\/\w\?&=\.#%]*/)
+        @accept = read_env("HTTP_ACCEPT", "*/*", /[^\/\w\+\.,;=: \*]/)
         
         @template=ERB.new "Content-type: <%=ctype%>; charset=utf-8\n\n<%=page%>"
         @debug = false
@@ -40,8 +40,15 @@ class MarkdownToHTML
         end
     end
     
-    def read_env(name, default=nil)
-        if ENV[name].nil? ; default else ENV[name] end
+    #"/hello world - test_this_1?name=value&a=%20b#item".downcase.gsub(/[^\/\w\?&=\.#%]*/,'\1')
+    #Accept: text/html, application/xhtml+xml, application/xml;q=0.9, */*;q=0.8
+    #/[^\/\w\+\.,;=: \*]/ - accept
+    #/[^\/\w\?&=\.#%]*/ - doc
+    def read_env(name, default=nil, filter=/[^\w]*/)
+        raw = if ENV[name].nil? ; default else ENV[name] end
+        raw = raw.downcase.downcase.gsub(filter,'\1')
+        #STDERR.puts ("#{name}=#{raw}")
+        raw
     end
     
     def render()
