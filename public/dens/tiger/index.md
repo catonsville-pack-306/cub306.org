@@ -2,6 +2,8 @@
 
 ![alt text](../../images/dens/tiger.png "cub scout tiger rank")
 
+<br clear="both">
+
 **Tiger Den Leader**: Eric Fielding - [tiger@cub306.org](mailto:tiger@cub306.org)
 
 ## For more information ##

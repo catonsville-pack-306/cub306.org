@@ -12,11 +12,11 @@ What is cub scouts and what do we do? Games, activities, crafts, STEM, leadershi
 
 (links to cub scouts)
 
-* [Tigers](https://cubscouts.org/library/welcome-to-tiger-cub-scouting/) - first grade
-* [Wolf](https://cubscouts.org/library/welcome-to-wolf-cub-scouting/) - second grade
-* [Bear](https://cubscouts.org/library/welcome-to-bear-cub-scouting/) - third grade
-* [Webelos 1](https://cubscouts.org/library/welcome-to-webelos-cub-scouting/) - fourth grade
-* [Webelos 2](https://cubscouts.org/library/welcome-to-arrow-of-light-cub-scouting/) - fifth grade
+* [Tigers](dens/tiger/) - first grade
+* [Wolf](dens/wolf/) - second grade
+* [Bear](dens/bear/) - third grade
+* [Webelos 1](dens/webelos1) - fourth grade
+* [Webelos 2](dens/webelos2/) (arrow of light cub scouting) - fifth grade
 
 <br clear="both">
 

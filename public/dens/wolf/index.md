@@ -2,6 +2,8 @@
 
 ![alt text](../../images/dens/wolf.png "cub scout wolf rank")
 
+<br clear="both">
+
 **Den Leader**: Melissa Cherry - [wolf@cub306.org](mailto:wolf@cub306.org)
 
 ## For more information ##
