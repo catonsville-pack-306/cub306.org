@@ -1,6 +1,6 @@
 # Wolf Den 2018-2019 #
 
-![alt text](../../images/wolf.png "cub scout wolf rank")
+![alt text](../../images/dens/wolf.png "cub scout wolf rank")
 
 **Den Leader**: Melissa Cherry - [wolf@cub306.org](mailto:wolf@cub306.org)
 

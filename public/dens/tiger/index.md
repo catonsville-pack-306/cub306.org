@@ -1,6 +1,6 @@
 # Tiger Den 2018-2019 #
 
-![alt text](../../images/tiger.png "cub scout tiger rank")
+![alt text](../../images/dens/tiger.png "cub scout tiger rank")
 
 **Tiger Den Leader**: Eric Fielding - [tiger@cub306.org](mailto:tiger@cub306.org)
 

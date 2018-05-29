@@ -1,5 +1,8 @@
 # Webelos 2 Den 2018-2019 #
 
+
+![alt text](../../images/dens/arrowoflightinsignia.png "cub scout webelos rank")
+
 **Den Leader**: Kim Mason - [webelos2@cub306.org](mailto:webelos2@cub306.org)
 
 ## For more information ##
