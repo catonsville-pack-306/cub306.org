@@ -1,11 +1,15 @@
 #!/usr/bin/env ruby
 
 ENV['GEM_PATH'] = '/home/cubpack/.gems'
+$LOAD_PATH.unshift("./public/cgi-bin")
+
 
 #built in
 require 'date'
-#require 'file'
 require "erb"
+
+#local
+#require "MarkdownToHTML"
 
 #external
 require 'redcarpet'	#gem install redcarpet
@@ -47,7 +51,6 @@ class MarkdownToHTML
     def read_env(name, default=nil, filter=/[^\w]*/)
         raw = if ENV[name].nil? ; default else ENV[name] end
         raw = raw.downcase.downcase.gsub(filter,'\1')
-        #STDERR.puts ("#{name}=#{raw}")
         raw
     end
     
@@ -88,7 +91,7 @@ class MarkdownToHTML
     end
     
     def load_file(path, name)
-        handle = File.open(path + name, "r")
+        handle = File.open("#{path}#{name}", "r")
         text = handle.read
         text
     end
