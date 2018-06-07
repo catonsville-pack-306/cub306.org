@@ -1,5 +1,13 @@
 # Contact Us #
 
+* For our announcement email list you can subscribe [here](subscribe.md)
+* For our email list server you can subscribe [here](http://lists.cub306.org/listinfo.cgi/talk-cub306.org)
+
+(these are Electronic mailing list, for more information see [wikipedia](https://en.wikipedia.org/wiki/Electronic_mailing_list)).
+
+
+You can also email us directly with one of the following emails:
+
 | Position            | Name            | Contact                              |
 | ------------------- | --------------- | ------------------------------------ |
 | Cub Master          | Thomas Cherry   | [cubmaster@cub306.org](mailto:cubmaster@cub306.org) |
