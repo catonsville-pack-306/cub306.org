@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title><%=title%></title>
+    
+    <meta name="viewport" content="width=device-width" />
+    
+    <link rel="stylesheet" href="/styles/default.css">
+    <link rel="stylesheet" href="/styles/default-ios.css">
+    <!--link rel="stylesheet" type="text/css"
+        media="only screen and (max-device-width: 480px)"
+        href="styles/default-ios.css" /-->
+    <link rel="stylesheet" href="/styles/default-print.css" media="print">
+    
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"
+        integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="/scripts/default.js"></script>
+    
+    <!--
+    req_uri=<%=@req_uri%>
+    doc_uri=<%=@doc_uri%>
+    accept=<%=@accept%>
+    now=<%=now%>
+    -->
+</head>
+<body>
+
+<header>
+    <h1 id="header_title">Cub Scout Pack 306</h1>
+    <h2 id="sub-head">Test page</h2>
+    <!--menu>
+        <menuitem>
+            <a href="/index.md"><i class="fas fa-home"></i> Home</a>
+        </menuitem>
+        <menuitem>
+            <a href="/about.md"><i class="fas fa-info-circle"></i> About</a>
+        </menuitem>
+        <menuitem>
+            <a href="/schedule.md"><i class="fas fa-calendar-alt"></i> Schedule</a>
+        </menuitem>
+        <menuitem>
+            <a href="/join.md"><i class="fas fa-sign-in-alt"></i> Join</a>
+        </menuitem>
+        <menuitem>
+            <a href="/contact.md"><i class="far fa-address-card"></i> Contact Us</a>
+        </menuitem>
+        <menuitem>
+            <a href="https://www.facebook.com/groups/1638534726165407/"><i class="fab fa-facebook"></i> Facebook</a>
+        </menuitem>
+    </menu-->
+    <div id="construction">This site is under development</aside>
+</header>
+
+<!--aside>
+    <div>Tools</div>
+    <div>
+        <%=inject "/alerts.md"%>
+    </div>
+</aside-->
+
+<main>
+<%=page%>
+</main>
+
+<footer>
+    <div id="foot_copy">
+        Copyright &copy; <%=DateTime.now.strftime("%Y")%> -
+        Catonsville Cub Scout Pack 306. All rights reserved.
+    </div>
+    <div id="foot_contact">
+        About this site <a href="site.md">software</a>.
+        For more information contact the <a href="mailto:cubmaster@cub306.org">Cub Master</a>.
+    </div>
+    <br clear="both">
+    
+    <div id="footer_debug">
+        <div id="ios8">iPhone 8 plus</div>
+        <div id="iosSEland">iPhone SE - landscape</div>
+        <div id="iosSEport">iPhone SE - portrait</div>
+        <div id="iosOther">other</div>
+    </div>
+</footer>
+
+</body>
+</html>
