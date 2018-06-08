@@ -34,7 +34,7 @@ describe MarkdownToHTML, "basic" do
             
             raw = markdown.read_env("test", nil, filter=/[^\w\/]*/)
             expect(raw).to eq "/some/path"
-
+            
             ENV["test"] = "/hello world - test_this_1?name=value&a=%20b#item"
             raw = markdown.read_env("test", nil, /[^\w\/\.-]/)
             expect(raw).to eq "/helloworld-test_this_1namevaluea20bitem"
@@ -77,6 +77,59 @@ DOC
 
             raw = markdown.markdown("_underline_")
             expect(raw).to eq ("<p><u>underline</u></p>\n")
+            
+        end
+    end
+
+    context "with ERB wrappers" do
+        it "it can find default ERB" do
+            markerdowner = MarkdownToHTML.new
+            erb = markerdowner.find_wrapper_page("./public", "index.md")
+            expect(erb).to eq "/default.erb"
+
+            erb = markerdowner.find_wrapper_page("./public", "RaNdOm.md")
+            expect(erb).to eq "/default.erb"
+        end
+        it "it can find custom ERB" do
+            markerdowner = MarkdownToHTML.new
+            erb = markerdowner.find_wrapper_page("./public", "test.md")
+            expect(erb).to eq "/test.md.erb"
+        end
+
+        it "can find an erb with just envs" do
+            ENV["DOCUMENT_ROOT"] = "./public"
+            ENV["PATH_INFO"] = "test.md"
+            markerdowner = MarkdownToHTML.new
+            erb = markerdowner.find_wrapper_page
+            expect(erb).to eq "/test.md.erb"
+        end
+    end
+    
+    context "markdown content" do
+        it "can find a title" do
+            markerdowner = MarkdownToHTML.new
+            
+            contents = "\n# Title #\n\n"
+            expect(markerdowner.find_title(contents)).to eq "Title"
+            
+            contents = "\n# Title #\n# Another Title #\n"
+            expect(markerdowner.find_title(contents)).to eq "Title"
+            
+            contents = "\n<!-- Title: Title -->\n\n"
+            expect(markerdowner.find_title(contents)).to eq "Title"
+            
+        end
+        it "can not find a title" do
+            markerdowner = MarkdownToHTML.new
+            
+            contents = "1\n2\n3\n4\n5\n# Sixth Line Title #\n\n"
+            expect(markerdowner.find_title(contents)).to eq nil
+            
+            contents = "\n## Title ##\n\n"
+            expect(markerdowner.find_title(contents)).to eq nil
+
+            contents = "\n### Title ###\n\n"
+            expect(markerdowner.find_title(contents)).to eq nil
             
         end
     end
