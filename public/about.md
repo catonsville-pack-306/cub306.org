@@ -1,3 +1,5 @@
+<!-- Title: About Pack 306 -->
+
 # History #
 
 We are the cub pack associated with the [Boy Scout Troop 306](http://ourtroop306.org/).  Troop 306 was founded in 1911 and has been in continuous operations since.
