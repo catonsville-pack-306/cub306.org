@@ -77,7 +77,7 @@ class MarkdownToHTML
         if !requested_title.nil?
             title = requested_title
         else
-            requested_title = contents.lines[0, 5].join[/^# (.*) #\s*$/, 1]
+            requested_title = contents.lines.to_a[0, 5].join[/^# (.*) #\s*$/, 1]
             title = requested_title unless requested_title.nil?
         end
         title
