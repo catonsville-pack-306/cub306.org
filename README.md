@@ -1,8 +1,49 @@
-# web_site
-The public web site for pack 306
+# cub306.org #
+The public web site for pack 306 of Catonsville Maryland.
 
-maintained by thomas.cherry@gmail.com
+maintained by [Thomas Cherry](mailto:thomas.cherry@gmail.com)
 
+## Overview ##
+
+The site is constructed around an Apache [action](https://httpd.apache.org/docs/2.4/mod/mod_actions.html)
+which executes a [CGI](https://help.dreamhost.com/hc/en-us/articles/217297307-CGI-overview)
+script that coverts [Markdown](https://en.wikipedia.org/wiki/Markdown)
+to HTML via the [Redcarpet gem](https://github.com/vmg/redcarpet).
+
+## Writing Pages ##
+
+Apache of course will deliver HTML files as normal, however, with this setup one
+can also write Markdown files. All Markdown files will be converted to HTML and
+embedded into the `default.erb` file. This file is an HTML file with Ruby
+[ERB](https://ruby-doc.org/stdlib-2.5.1/libdoc/erb/rdoc/ERB.html) statements. The
+basic web site layout will be handled by this file leaving the content to be handled
+by the Markdown file. Each Markdown file can optionally have a matching ERB file
+to handle more complicated layout issues. Both files must share the same name, only
+changing by extension.
+
+* default.erb
+    * most_files.md
+* fancy.erb
+    * fancy.md
+
+### Other Features ###
+
+ERB files can include markdown files with:
+    
+    <%=inject "/alerts.md"%>
+
+Explicit HTML title setting by adding the following to the top of the page:
+
+    <!-- Title: Title_goes_here -->
+
+If HTML title not set by title comment, then the first H1 header (single hash)
+in the first 5 lines is the HTML title.
+    
+    # Title_goes_here #
+
+Can add current ISO date and time with the "now" function
+
+    <!= now %>
 
 ## Running on a Mac ##
 
