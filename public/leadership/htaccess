@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /home/cubpack/path/to/.htpasswd
+Require valid-user
