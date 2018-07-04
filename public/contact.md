@@ -16,11 +16,11 @@ You can also email us directly with one of the following emails:
 | Webelos 2           | Kim Mason       | [webelos2@cub306.org](mailto:webelos2@cub306.org) |
 | Webelos 1           | Matt Straffin   | [webelos1@cub306.org](mailto:webelos1@cub306.org) |
 | Bear Den Leader     | Melissa Cherry  | [bear@cub306.org](mailto:bear@cub306.org) |
-| Wolf Den Leader     | Eric Silva      | [wolf@cub306.org](mailto:bear@cub306.org) |
-| Tiger Den Leader    | Eric Fielding   | [tiger@cub306.org](mailto:bear@cub306.org) |
+| Wolf Den Leader     | Eric Silva      | [wolf@cub306.org](mailto:wolf@cub306.org) |
+| Tiger Den Leader    | Eric Fielding   | [tiger@cub306.org](mailto:tiger@cub306.org) |
 | **Other Roals:**    |                 | |
-| "Popcorn Kernel"    | Tracy Soltesz   | [wolf@cub306.org](mailto:bear@cub306.org) |
-| Outdoor Coordinator | Wil Heslop      | wil @ nationalcia . org |
+| "Popcorn Kernel"    | Tracy Soltesz   | [popcorn@cub306.org](mailto:popcorn@cub306.org) |
+| Outdoor Coordinator | Wil Heslop      | [camping@cub306.org](mailto:camping@cub306.org) |
 
 Rolls needing a leader/Coordinator:
 
