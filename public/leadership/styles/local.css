@@ -1,0 +1,33 @@
+body, footer
+{
+    color:white;
+    background:#0A5694;
+}
+
+header
+{
+    color:#0A5694;
+    background:white;
+}
+
+header h2
+{
+    margin-left:1em;
+    font-size:small;
+}
+
+header svg, header a, header a:visited {color:#0A5694;}
+
+aside
+{
+    border-color:black;
+    color:#0A5694;
+    background:white;
+}
+
+main{}
+
+body main a, body footer a {color:white;}
+body main a:visited, body main a:visited {color:lightgray;}
+
+footer {border-top-color:white;}
