@@ -2,7 +2,7 @@ $( document ).ready(function()
 {
     $("#header_title").click(function()
     {
-        document.location.href="index.md"
+        document.location.href="/index.md"
     });
     
     $('#header_title').hover(function()
