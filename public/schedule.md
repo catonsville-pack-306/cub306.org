@@ -23,6 +23,7 @@
 
 * [Direct link](https://calendar.google.com/calendar?cid=cWVmN3U2MTEwc21jMmlpZGs3dXU3N2g3a3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) - google calendar
 * [Download Schedule](schedule.csv) - as a CSV.
+* [Download Schedule](schedule.pdf) - as a PDF.
 
 <!--
 | Date | Event | Notes |
