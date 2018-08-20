@@ -153,4 +153,14 @@ hr {border-top-color:#0A5694;}
 #footer_debug{display:none;}
 #ios8, #iosSEland, #iosSEport, #iosOther {display:none;}
 
-
+#draft_marker
+{
+    font-size: 10em;
+    color: #0A5694;
+    position: absolute;
+    top:45%;
+    width:700px;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    opacity: 0.25;
+}
