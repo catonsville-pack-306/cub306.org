@@ -1,15 +1,34 @@
+<div id="draft_marker">DRAFT</div>
+
 # Events #
 
-* Summer planning meeting
-* Sign up night
-* Den Meetings
-* Den Meeting
-* Pack meeting
+* Sign Up Night - 2018-09-05
+* Den/Pack Meeting - most Wednesdays
+* Parent/Leader Meeting - Second Thurdsday of every Month
+* Camping - 2018-10-13
+* Pow Wow (Leader Training) - 2018-11-03
+* Lazer Tag - 2018-11-21
+* CPC Service Project - 2018-11-24
+* Snow Tubing - 2019-02-03
+* Scout Sunday - 2019-02-10
+* Pinewood Derby - 2019-02-23
+* Blue and Gold Dinner - 2019-03-23
+* Camping - 2019-04-27
+* We Remember Flags - 2019-05-24
+* Final Pack meeting - 2019-05-29
 
-## Tentative Calendar for 2018-2019 ##
+## Draft Calendar for 2018-2019 ##
 
+<iframe src="https://calendar.google.com/calendar/embed?src=qef7u6110smc2iidk7uu77h7ks%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="1024" height="768" frameborder="0" scrolling="no"></iframe>
+
+* [Direct link](https://calendar.google.com/calendar?cid=cWVmN3U2MTEwc21jMmlpZGs3dXU3N2g3a3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) - google calendar
+* [Download Schedule](schedule.csv) - as a CSV.
+
+<!--
 | Date | Event | Notes |
 | ---- | ----- | ----- |
+| July 21 | Trolly Trail Hike |
+|  |
 | September 5 | Sign Up Night |
 | September 12 | Den Meeting |
 | September 13 | Parent/Leader Meeting |
@@ -72,3 +91,4 @@
 | May 22 | Den Meeting |
 | May 24 | We Remember Flags |
 | May 29 | Pack Meeting |
+-->
