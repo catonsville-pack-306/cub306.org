@@ -8,5 +8,6 @@
 
 ## For more information ##
 
-* https://meritbadge.org/wiki/index.php/Tiger_Cub_Scout
+* [https://meritbadge.org/wiki/index.php/Tiger_Cub_Scout](https://meritbadge.org/wiki/index.php/Tiger_Cub_Scout)
 * [Tigers](https://cubscouts.org/library/welcome-to-tiger-cub-scouting/)
+* [Tiger Requirment Addendum](https://filestore.scouting.org/filestore/cubscouts/pdf/Tiger_Addendum.pdf)
