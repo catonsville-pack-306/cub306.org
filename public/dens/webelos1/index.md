@@ -8,3 +8,4 @@
 
 * https://meritbadge.org/wiki/index.php/Bear_Cub_Scout
 * [Webelos 1](https://cubscouts.org/library/welcome-to-webelos-cub-scouting/) - fourth grade
+* [Webelos Requirement Addendum](https://filestore.scouting.org/filestore/cubscouts/pdf/WEBELOS_AOL_Addendum.pdf)

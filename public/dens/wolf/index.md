@@ -4,9 +4,10 @@
 
 <br clear="both">
 
-**Den Leader**: Melissa Cherry - [wolf@cub306.org](mailto:wolf@cub306.org)
+**Den Leader**: Eric Silva - [wolf@cub306.org](mailto:wolf@cub306.org)
 
 ## For more information ##
 
 * https://meritbadge.org/wiki/index.php/Wolf_Cub_Scout
 * [Wolf](https://cubscouts.org/library/welcome-to-wolf-cub-scouting/) - second grade
+* [Wolf Requirement Addendum](https://filestore.scouting.org/filestore/cubscouts/pdf/Wolf_Addendum.pdf)

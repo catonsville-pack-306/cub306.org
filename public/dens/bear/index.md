@@ -10,3 +10,4 @@
 
 * https://meritbadge.org/wiki/index.php/Bear_Cub_Scout
 * [Bear](https://cubscouts.org/library/welcome-to-bear-cub-scouting/) - second grade
+* [Bear Addendum](https://filestore.scouting.org/filestore/cubscouts/pdf/Bear_Addendum.pdf)
