@@ -5,7 +5,7 @@
     * [alerts](/alerts.md) - some tools and alerts
     * [contact](/contact.md) - contact info
     * [join](/join.md) - joining the pack (kids/adults)
-    * [schedule](/schedule.md) - what is coming up
+    * [schedule](/schedule) - what is coming up
     * site - this page
 
 # This site Software #
