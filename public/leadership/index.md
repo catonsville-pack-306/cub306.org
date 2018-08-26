@@ -9,6 +9,7 @@
 * general discution
     * talk@cub306.org
     * talk-join@lists.cub306.org
+* [Wood Badge Registration](http://www.baltimorebsa.org/programs/wood-badge/n6-220-18-2/67186)
 
 ## Books and Documents ##
 
@@ -18,15 +19,11 @@
     1. [Bear Addendum](https://filestore.scouting.org/filestore/cubscouts/pdf/Bear_Addendum.pdf)
     1. [Webelos Addendum](https://filestore.scouting.org/filestore/cubscouts/pdf/WEBELOS_AOL_Addendum.pdf)
 * [Summer Passport](http://www.baltimorebsa.org/cubpassport)
-* 
-
-<!--
-* [Summer Passport](http://www.baltimorebsa.org/document/super-cub-summer-passport/149765)
--->
 
 ## Youth Protection Training ##
 
 All adult leaders must take this:
 
-1. [YPT](https://www.scouting.org/training/youth-protection/ "Youth Protection Training")
+1. [Youth Protection Training](https://www.scouting.org/training/youth-protection/ "Youth Protection Training")
+* If you need help, try [How to take YPT](/ypt)
 
