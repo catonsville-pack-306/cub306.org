@@ -5,19 +5,40 @@ We Meet Wednesday Nights 7-8 pm at Catonsville Presbyterian Church between the f
 * [Catonsville Presbyterian Church](http://www.catonsvillepresb.org "external link to their web page")
 * [1400 Frederick Road, Catonsville, MD 21228](https://goo.gl/maps/4m8ACB65TAn "a link to google maps") <i class="fas fa-map-marker-alt"></i>
 
+----
+
 ## Popcorn Season ##
+<style>
+img[alt=Popcorn]
+{
+	height:300px;
+	float:right;
+}
+img[alt=Popcorn] ul{margin:2em;}
+</style>
+
+<!--![Popcorn](popcorn/images/popcorn.png)-->
+
+![Popcorn](https://d37mnsw8zzt2rh.cloudfront.net/Shopify/TE/Premium+Caramel+With+Nuts+.png)
 
 Popcorn season is upon us.
 
-If you would like to sign up a scout for online sales go to:
+### Online Sales Sign Up ###
+<i class="fas fa-user-plus"></i>
+Parent/Scout Signup for online sales go to:
 
 * [https://www.trails-end.com/registration/parent](https://www.trails-end.com/registration/parent)
+* See our [Popcorn Page](popcorn/popcorn2018.md) for help account setup.
 
+### Find a Scout ###
+<i class="fas fa-search"></i>
 If you are a friend or family of a scout and you have a code, you can look up online pages at:
 
 * [Find by Scout Code](https://www.trails-end.com/sellers/support/code)
 
-For more details on how to set up your account see our [Popcorn Page](popcorn/popcorn2018.md).
+<br style="clear:both">
+
+----
 
 ## Our Dens ##
 ![image of cub scout ranks][cub_scout_ranks]
@@ -33,6 +54,8 @@ What is cub scouts and what do we do? Games, activities, crafts, STEM, leadershi
 * [Webelos 2](dens/webelos2/) (arrow of light cub scouting) - fifth grade
 
 <br clear="both">
+
+----
 
 ## Links ##
 * [Scouting](https://www.scouting.org)
