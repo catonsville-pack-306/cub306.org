@@ -1,14 +1,18 @@
 <!-- Title: Leadership -->
 
-## Tools ##
+## EMail ##
 
 * The [Web Mail](https://webmail.cub306.org) interface
 * leadership list
     * leadership-join@lists.cub306.org
     * leadership@lists.cub306.org
+    * [Manage](http://lists.cub306.org/admin.cgi/leadership-cub306.org/)
 * general discution
     * talk@cub306.org
     * talk-join@lists.cub306.org
+    * [Manage](http://lists.cub306.org/admin.cgi/talk-cub306.org)
+
+## Tools ##
 * [Wood Badge Registration](http://www.baltimorebsa.org/programs/wood-badge/n6-220-18-2/67186)
 
 ## Books and Documents ##

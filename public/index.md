@@ -43,7 +43,7 @@ If you are a friend or family of a scout and you have a code, you can look up on
 ## Our Dens ##
 ![image of cub scout ranks][cub_scout_ranks]
 
-What is cub scouts and what do we do? Games, activities, crafts, STEM, leadership, community service projects and more. We have dens for boys in 1-5 grades. Each year we work towards preparing scouts for citizenship and the hiking and camping program of boy scouts.
+What is cub scouts and what do we do? Games, activities, crafts, STEM, leadership, community service projects and more. We have dens for boys in 1-5 grades. Each year we work towards preparing scouts for citizenship and the [hiking](events/2017-2018/2018-07_hike/group.jpg) and camping program of boy scouts.
 
 (links to cub scouts)
 
