@@ -2,15 +2,31 @@
 
 ## EMail ##
 
+The Pack News is run by an [Electronic mailing list](https://en.wikipedia.org/wiki/Electronic_mailing_list) run by software called [Mailman](http://www.list.org). We do not currently have an expert at this system. We also offer [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol) Email address for leaders.
+
 * The [Web Mail](https://webmail.cub306.org) interface
-* leadership list
-    * leadership-join@lists.cub306.org
-    * leadership@lists.cub306.org
+* leadership discution list
+    * leadership-join@lists.cub306.org - *send email here*
+    * leadership@lists.cub306.org - *send email to join*
     * [Manage](http://lists.cub306.org/admin.cgi/leadership-cub306.org/)
-* general discution
-    * talk@cub306.org
-    * talk-join@lists.cub306.org
+* general discution and anouncments
+    * talk@cub306.org - *send email here*
+    * talk-join@lists.cub306.org - *send email to join*
     * [Manage](http://lists.cub306.org/admin.cgi/talk-cub306.org)
+
+## Schedules ##
+
+Here is a list of known dates when people will not be able to attend events. Please let the [Cub Master](mailto:cubmaster@cub306.org) know if something will prevent you from covering a Den meeting. We will will use this list to make sure we are double covered for your Den.
+
+| Name    | Date  | Note | Covered |
+| ------- | ----- | ---- | ------- |
+| Thomas C. | 09/11 | work | Eric S.
+| Eric S. | 09/19 | work | Wil H.
+| Eric S. | 10/24 | work | Pack Meeting
+| Eric S. | 11/21 | work | Wil H.
+| Eric S. | 12/19 | work | Pack Meeting
+ 
+At this time there are no outages that need coverage. 
 
 ## Tools ##
 * [Wood Badge Registration](http://www.baltimorebsa.org/programs/wood-badge/n6-220-18-2/67186)
