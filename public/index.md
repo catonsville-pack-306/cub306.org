@@ -15,6 +15,10 @@ img[alt=Popcorn]
 	float:right;
 }
 img[alt=Popcorn] ul{margin:2em;}
+img[alt=hike]
+{
+    height:200px;
+}
 </style>
 
 <!--![Popcorn](popcorn/images/popcorn.png)-->
@@ -47,7 +51,8 @@ What is cub scouts and what do we do? Games, activities, crafts, STEM, leadershi
 
 (links to cub scouts)
 
-* [Tigers](dens/tiger/) - first grade
+* [Lion](dens/lion/) - Kindergarten grade - **NEW**
+* [Tiger](dens/tiger/) - first grade
 * [Wolf](dens/wolf/) - second grade
 * [Bear](dens/bear/) - third grade
 * [Webelos 1](dens/webelos1) - fourth grade
@@ -58,6 +63,7 @@ What is cub scouts and what do we do? Games, activities, crafts, STEM, leadershi
 ----
 
 ## Links ##
+
 * [Scouting](https://www.scouting.org)
     * [Baltimore Area Council](http://www.baltimorebsa.org)
         * [Arrow Head District](http://www.baltimorebsa.org/2409)
@@ -67,5 +73,10 @@ What is cub scouts and what do we do? Games, activities, crafts, STEM, leadershi
 * Scout training
     * [Cyber Chip](https://www.scouting.org/training/youth-protection/cyber-chip/)
 
+<br clear="both">
+
 <!-- image links -->
 [cub_scout_ranks]: images/CubScouts-ranks-small.png  "image of cub scout rank"
+[wet_cub_scouts]: events/2017-2018/2018-07_hike/group_small.jpg "image of cub scouts on a wet hike"
+
+
