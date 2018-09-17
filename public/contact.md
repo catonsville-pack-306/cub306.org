@@ -18,12 +18,14 @@ You can also email us directly with one of the following emails:
 | Bear Den Leader     | Melissa Cherry  | [bear@cub306.org](mailto:bear@cub306.org) |
 | Wolf Den Leader     | Eric Silva      | [wolf@cub306.org](mailto:wolf@cub306.org) |
 | Tiger Den Leader    | Eric Fielding   | [tiger@cub306.org](mailto:tiger@cub306.org) |
+| Lion Den Leader     | Katherine Peach | [lion@cub306.org](mailto:lion@cub306.org) |
 | **Other Roals:**    |                 | |
 | "Popcorn Kernel"    | Tracy Soltesz   | [popcorn@cub306.org](mailto:popcorn@cub306.org) |
 | Outdoor Coordinator | Wil Heslop      | [camping@cub306.org](mailto:camping@cub306.org) |
 
 Rolls needing a leader/Coordinator:
 
+* Holiday Party (December, 2018) - 
 * CPC Service Project Coordinator ( November 24, 2018)
 * Pinewood Durby Coordinator (~ Febuary 23, 2019)
 * Blue & Gold Dinner Coordinator (~ March 23, 2019)
