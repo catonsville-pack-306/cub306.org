@@ -4,9 +4,18 @@
 
 <br clear="both">
 
-**Den Leader**: Katherine Beem - [lion@cub306.org](mailto:lion@cub306.org)
+**Den Leader**: Katherine Peach - [lion@cub306.org](mailto:lion@cub306.org)
 
 **NEW** - we are just starting up a Lion Den this year. 
+
+Lions meet once a month and currently do not have a fixed schedule. Their
+meeting dates will be posted here:
+
+| Date       | Event | Notes |
+| ---------- | ----- | ----- |
+| 2018-09-19 | Den   | First |
+| 2018-09-26 | Pack  | First Pack Meeting |
+| 2018-10-?? | Den   | Will decided with parents |
 
 ## For more information ##
 
