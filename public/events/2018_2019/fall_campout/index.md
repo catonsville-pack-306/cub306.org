@@ -29,4 +29,3 @@ Here is a list of items to get you started. There are other things you could
 bring, but for those who are new to camping this is a great place to start:
 
 * [Packing check list](checklist.md) - [docx version](equipment_checklist.docx)
-
