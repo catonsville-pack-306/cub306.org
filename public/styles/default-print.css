@@ -7,9 +7,11 @@
     {
         color:black;
         background-color:white;
+        font-size:50px;
     }
     menu {display:none;}
     aside{display:none;}
+    button{display:none;}
     footer{border-top:1px solid black;}
     hr {border-top-color:black;}
 
