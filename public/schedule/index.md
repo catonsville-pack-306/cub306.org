@@ -3,7 +3,7 @@
 * Sign Up Night - 2018-09-05
 * Den/Pack Meeting - most Wednesdays
 * Parent/Leader Meeting - Second Thurdsday of every Month
-* Camping - 2018-10-13
+* [Fall Campout - 2018-10-13](/events/2018_2019/fall_campout/)
 * Pow Wow (Leader Training) - 2018-11-03
 * Lazer Tag - 2018-11-21
 * CPC Service Project - 2018-11-24

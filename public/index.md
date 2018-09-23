@@ -44,6 +44,15 @@ If you are a friend or family of a scout and you have a code, you can look up on
 
 ----
 
+## Fall Campout ##
+Our Fall Campout is upon us. Set your calendar for October 13 to 14. For more info see our [camping page](/events/2018_2019/fall_campout/).
+
+![hilton](http://dnr.maryland.gov/publiclands/PublishingImages/PVSP_hiltonplayground.jpg)
+
+<br clear="both">
+
+----
+
 ## Our Dens ##
 ![image of cub scout ranks][cub_scout_ranks]
 
