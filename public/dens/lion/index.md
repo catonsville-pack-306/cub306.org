@@ -17,6 +17,12 @@ meeting dates will be posted here:
 | 2018-09-26 | Pack  | First Pack Meeting |
 | 2018-10-?? | Den   | Will decided with parents |
 
+<iframe src="https://calendar.google.com/calendar/embed?src=tlap6psjg3l9fvpqke6a1g4t3o%40group.calendar.google.com&ctz=America%2FNew_York"
+    style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+* [Web Calendar](https://calendar.google.com/calendar/embed?src=tlap6psjg3l9fvpqke6a1g4t3o%40group.calendar.google.com&ctz=America%2FNew_York) - view
+* [iCal](https://calendar.google.com/calendar/ical/tlap6psjg3l9fvpqke6a1g4t3o%40group.calendar.google.com/public/basic.ics) - subscribe
+
 ## For more information ##
 
 * [Wiki page on Lions](https://meritbadge.org/wiki/index.php/Lion_Scout)
