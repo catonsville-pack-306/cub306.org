@@ -11,7 +11,7 @@ Saturday to Sunday to allow for more day time adventures such as more hikes,
 more running, and by all means noise!
 
 * When :
-    * **Signup by** - 2018-10-06 (Saturday Befor)
+    * **Signup by** - 2018-10-06 (Saturday Before)
     * **Event** - 2018-10-13 to 2018-10-14 (Saturday - Sunday)
 * Where :
     * [Hilton Area][hilton] @ the Patapsco State Park - 
