@@ -43,7 +43,7 @@ bring, but for those who are new to camping this is a great place to start:
 * [Packing check list](checklist.md) - [docx version](equipment_checklist.docx)
 
 <!-- image links -->
-[hilton_img]: http://dnr.maryland.gov/publiclands/PublishingImages/PVSP_hiltonplayground.jpg "Hilton Park Area"
+[hilton_img]: https://dnr.maryland.gov/publiclands/PublishingImages/PVSP_hiltonplayground.jpg "Hilton Park Area"
 [camp]: mailto:camping@cub306.org "Camping Cordinator Email address"
 [hilton]: https://dnr.maryland.gov/publiclands/Pages/central/patapscohilton.aspx "Patapsco Hilton Area"
 [sheet]: https://www.google.com/sheets/about/ "What is google sheets"

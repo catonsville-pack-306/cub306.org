@@ -11,14 +11,15 @@ ul li:before
 	content: "\2610";
 	margin-right:0.1em;
 }
-ul li {font-size:9%em;}
+ul li {font-size:0.95em;}
+
 h2{margin-top:0;font-size:1.25em;}
-#sub-head, h1, _main{margin:0;padding:0;}
+#sub-head, h1{margin:0;padding:0;}
 div#sections div {width:50%;float:left;}
 @media print
 {
     main{margin:0;padding:0;}
-	.header h1{display:none;}
+	header h1{font-size:50px;}
 	#foot_contact{display:none;}
 }
 </style>
