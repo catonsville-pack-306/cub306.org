@@ -27,6 +27,9 @@ camping coordinator [Wil Heslop][camp].
 
 * [Google Sheets][menu]
 
+## Camp Schedule ##
+* [Events](schedule.md) - Printable time table of events while at the camp site.
+
 ## Signup ##
 There are two ways to signup.
 
