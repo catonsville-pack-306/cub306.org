@@ -4,6 +4,7 @@
 * Den/Pack Meeting - most Wednesdays
 * Parent/Leader Meeting - Second Thurdsday of every Month
 * [Fall Campout - 2018-10-13](/events/2018_2019/fall_campout/)
+* [61st Jamboree on the air](http://www.baltimorebsa.org/event/61th-jamboree-on-the-air-jota-22nd-jamboree-on-the-internet-joti/2415159) - 2018-10-20
 * Pow Wow (Leader Training) - 2018-11-03
 * Lazer Tag - 2018-11-21
 * CPC Service Project - 2018-11-24
