@@ -22,6 +22,7 @@ To personalize the sales site you can upload an image and provide a short bio or
 
 ## Our Scouts Popcorn Links ##
 
+* [Asher S. - J9C27ERV](https://www.trails-end.com/scout/J9C27ERV)
 * [Leif S. - 2XCRUHVW](https://www.trails-end.com/scout/2XCRUHVW)
 * [Leo C. - CL4QCUY5](https://www.trails-end.com/scout/CL4QCUY5)
 
