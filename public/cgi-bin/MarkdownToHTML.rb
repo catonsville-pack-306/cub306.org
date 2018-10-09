@@ -22,8 +22,8 @@ class MarkdownToHTML
         # 'REQUEST_URI' => '/test.php/foo/bar.php?v=1'
 
         @root = read_env('DOCUMENT_ROOT', nil, %r{[^\w\/\.-]})
-        @doc_uri = read_env('PATH_INFO', '/index.md', %r{[^\/\w\?&=\.#%]*})
-        @req_uri = read_env('REQUEST_URI', '/index.md?', %r{[^\/\w\?&=\.#%]*})
+        @doc_uri = read_env('PATH_INFO', '/index.md', %r{[^-\/\w\?&=\.#%]*})
+        @req_uri = read_env('REQUEST_URI', '/index.md?', %r{[^-\/\w\?&=\.#%]*})
         @accept = read_env('HTTP_ACCEPT', '*/*', %r{[^\/\w\+\.,;=: \*]})
 
         # template = 'Content-type: <%=ctype%>; charset=utf-8\n\n<%=page%>'
