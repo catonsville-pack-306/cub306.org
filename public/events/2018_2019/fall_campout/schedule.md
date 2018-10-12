@@ -22,8 +22,7 @@ Pack 306 - Fall Camping Trip (October 13 - 14, 2018) - Hilton Camping Area (Tire
 * 3:00pm - Campsite Check-in/Setup 
 * 4:00pm - Camp Welcome & Den Activity 1; Webelos 1 & 2 begin dinner preparation
 * 5:30pm - Dinner
-* 6:00pm - Clean-up
-* 7:00pm - Den Activity 2
+* 6:30pm - Clean-up
 * 8:00pm - Campfire 
 * 9:00pm - Lights out  
 
@@ -31,7 +30,7 @@ Pack 306 - Fall Camping Trip (October 13 - 14, 2018) - Hilton Camping Area (Tire
 * 7:00am - Wake-up; Wolf & Bear Dens begin breakfast preparation
 * 8:00am - Breakfast
 * 8:30am - Clean-up
-* 9:00am - Den Activity 3
+* 9:00am - Den Activity 2
 * 10:30am - Strike camp/police area
 * 12:30pm - Camp Closing
 
@@ -39,9 +38,10 @@ Pack 306 - Fall Camping Trip (October 13 - 14, 2018) - Hilton Camping Area (Tire
 * Saturday Dinner: Tinfoil Dinners (Hamburgers, Potatoes, Carrots), Chicken & Dumplings, Peach Cobbler
 * Sunday Breakfast: Scrambled Eggs, Sausage Links, Toast
 
-## Registration ##
-Registration, Potluck, and Allergy/Dietary Needs sign-up via [Google Sheets][sheet] (first announcement via e-mail by Cubmaster)
-Announcements and sign-ups at September 26th Pack Meeting & October 3rd Den Meetings.
+## ~~Registration~~ ##
+~~Registration, Potluck, and Allergy/Dietary Needs sign-up via [Google Sheets][sheet] (first announcement via e-mail by Cubmaster)
+Announcements and sign-ups at September 26th Pack Meeting & October 3rd Den Meetings.~~
+
 For more information email [camping@cub306.org][camp].
 
 <!-- image links -->
