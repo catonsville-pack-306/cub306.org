@@ -22,11 +22,12 @@ You can also email us directly with one of the following emails:
 | **Other Roals:**    |                 | |
 | "Popcorn Kernel"    | Tracy Soltesz   | [popcorn@cub306.org](mailto:popcorn@cub306.org) |
 | Outdoor Coordinator | Wil Heslop      | [camping@cub306.org](mailto:camping@cub306.org) |
+| Events Coordinator  | Tricia May      | [events@cub306.org](mailto:events@cub306.org) |
 
 Rolls needing a leader/Coordinator:
 
-* Holiday Party (December, 2018) - 
 * CPC Service Project Coordinator ( November 24, 2018)
+* ~~Holiday Party (December, 2018) - Decemeber 19, 2018~~
 * Pinewood Durby Coordinator (~ Febuary 23, 2019)
 * Blue & Gold Dinner Coordinator (~ March 23, 2019)
 * "We Remember Flag" Coordinator (May 24, 2019)
