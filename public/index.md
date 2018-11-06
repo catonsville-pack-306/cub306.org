@@ -29,6 +29,8 @@ Popcorn season is upon us.
 
 ### Online Sales Sign Up ###
 <i class="fas fa-user-plus"></i>
+Final sales sheets must be in by Friday, October 26th.
+
 Parent/Scout Signup for online sales go to:
 
 * [https://www.trails-end.com/registration/parent](https://www.trails-end.com/registration/parent)
@@ -41,15 +43,6 @@ If you are a friend or family of a scout and you have a code, you can look up on
 * [Find by Scout Code](https://www.trails-end.com/sellers/support/code)
 
 <br style="clear:both">
-
-----
-
-## Fall Campout ##
-Our Fall Campout is upon us. Set your calendar for October 13 to 14. For more info see our [camping page](/events/2018_2019/fall_campout/).
-
-![hilton](http://dnr.maryland.gov/publiclands/PublishingImages/PVSP_hiltonplayground.jpg)
-
-<br clear="both">
 
 ----
 
@@ -81,11 +74,15 @@ What is cub scouts and what do we do? Games, activities, crafts, STEM, leadershi
     * [Youth Protection](https://www.scouting.org/training/youth-protection/)
 * Scout training
     * [Cyber Chip](https://www.scouting.org/training/youth-protection/cyber-chip/)
+* [Local Scout Shops][shops]
+    * [5 Bel Air S Pkwy J1009, Bel Air, MD 21015][shop_map]
 
 <br clear="both">
 
 <!-- image links -->
 [cub_scout_ranks]: images/CubScouts-ranks-small.png  "image of cub scout rank"
 [wet_cub_scouts]: events/2017-2018/2018-07_hike/group_small.jpg "image of cub scouts on a wet hike"
+[shops]: http://www.baltimorebsa.org/scout-shops/30010 "Local Scout Shops"
+[shop_map]: https://www.google.com/maps/place/5+Bel+Air+S+Pkwy+Suite+J,+1009,+Bel+Air,+MD+21015 "Map to Bel Air Scout Shop"
 
 

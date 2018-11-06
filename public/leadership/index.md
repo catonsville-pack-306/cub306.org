@@ -30,6 +30,7 @@ At this time there are no outages that need coverage.
 
 ## Tools ##
 * [Wood Badge Registration](http://www.baltimorebsa.org/programs/wood-badge/n6-220-18-2/67186)
+* [Holiday Party Sheet](https://docs.google.com/spreadsheets/d/1r09A5cOu5ShuX7bVW-HlU0yzR9TqAG0v9Jep3ALC9_s/edit?usp=sharing)
 
 ## Books and Documents ##
 
