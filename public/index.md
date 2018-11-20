@@ -7,42 +7,14 @@ We Meet Wednesday Nights 7-8 pm at Catonsville Presbyterian Church between the f
 
 ----
 
-## Popcorn Season ##
-<style>
-img[alt=Popcorn]
-{
-	height:300px;
-	float:right;
-}
-img[alt=Popcorn] ul{margin:2em;}
-img[alt=hike]
-{
-    height:200px;
-}
-</style>
+## Laser Tag ##
 
-<!--![Popcorn](popcorn/images/popcorn.png)-->
-
-![Popcorn](https://d37mnsw8zzt2rh.cloudfront.net/Shopify/TE/Premium+Caramel+With+Nuts+.png)
-
-Popcorn season is upon us.
-
-### Online Sales Sign Up ###
-<i class="fas fa-user-plus"></i>
-Final sales sheets must be in by Friday, October 26th.
-
-Parent/Scout Signup for online sales go to:
-
-* [https://www.trails-end.com/registration/parent](https://www.trails-end.com/registration/parent)
-* See our [Popcorn Page](popcorn/popcorn2018.md) for help account setup.
-
-### Find a Scout ###
-<i class="fas fa-search"></i>
-If you are a friend or family of a scout and you have a code, you can look up online pages at:
-
-* [Find by Scout Code](https://www.trails-end.com/sellers/support/code)
-
-<br style="clear:both">
+Pack 306 Laser Tag Night! Wednesday, November 21, 2018 - 4:00pm to 9:00pm at
+Ultrazone Laser Tag located in the Eastpoint Mall ([7835 Eastpoint Mall, Baltimore,
+MD 21224](https://www.google.com/maps/place/7835+Eastpoint+Mall,+Baltimore,+MD+21224)).
+The cost is $10.99/person, unlimited laser tag from 4:00pm to 9:00pm (food and
+video/arcade games are not included).  Upon arrival, please tell the Ultrazone
+staff that you are with Cub Scout Pack 306.
 
 ----
 
