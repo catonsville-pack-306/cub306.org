@@ -28,14 +28,14 @@ Don't miss out on the fun!
     * $19, if signed up by 1/9/2019
     * Comparable tickets are $28-$30 at the box office
 * Sign-up information :
-    * Contact Gregory Emrick, Assistant Tiger Den Leader @ [emrickg@gmail.com][email] or 202.641.3166
+    * Contact Gregory Emrick, Assistant Tiger Den Leader @ [tiger2@cub306.org][email] or 202.641.3166
     * Payment can be made by cash, check or venmo.
     * Let us know how many patches you will need for your scouts.
 
 Sign-up & money for the discounted tickets **must** be received by january 9, 2019.
 
 <!-- image links -->
-[email]: mailto:emrickg@gmail.com "Gregory Emrick's Email address"
+[email]: mailto:tiger2@cub306.org "Gregory Emrick's Email address"
 [balt_blast_home]: https://www.baltimoreblast.com "Baltimore Blast Home Page"
 [haris_heat_home]: https://harrisburgheat.com "Harrisburg Heat Home Page"
 
