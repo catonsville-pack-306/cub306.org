@@ -7,14 +7,9 @@ We Meet Wednesday Nights 7-8 pm at Catonsville Presbyterian Church between the f
 
 ----
 
-## Laser Tag ##
+## Holiday Party ##
 
-Pack 306 Laser Tag Night! Wednesday, November 21, 2018 - 4:00pm to 9:00pm at
-Ultrazone Laser Tag located in the Eastpoint Mall ([7835 Eastpoint Mall, Baltimore,
-MD 21224](https://www.google.com/maps/place/7835+Eastpoint+Mall,+Baltimore,+MD+21224)).
-The cost is $10.99/person, unlimited laser tag from 4:00pm to 9:00pm (food and
-video/arcade games are not included).  Upon arrival, please tell the Ultrazone
-staff that you are with Cub Scout Pack 306.
+2018-12-19 will be our holiday party. Come enjoy some fun and snacks.
 
 ----
 

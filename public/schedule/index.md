@@ -1,5 +1,6 @@
 # Major Events #
 
+<!--
 * Sign Up Night - 2018-09-05
 * Den/Pack Meeting - most Wednesdays
 * Parent/Leader Meeting - Second Thurdsday of every Month
@@ -8,6 +9,9 @@
 * Pow Wow (Leader Training) - 2018-11-03
 * Lazer Tag - 2018-11-21
 * CPC Service Project - 2018-11-24
+-->
+* Holiday Party - 2018-12-19
+* [Baltimore Blast](/events/2018_2019/baltimore_blast/) - 2019-01-19
 * Snow Tubing - 2019-02-03
 * Scout Sunday - 2019-02-10
 * Pinewood Derby - 2019-02-23
