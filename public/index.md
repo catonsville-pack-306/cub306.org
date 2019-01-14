@@ -7,9 +7,11 @@ We Meet Wednesday Nights 7-8 pm at Catonsville Presbyterian Church between the f
 
 ----
 
-## Holiday Party ##
+## Upcoming Events ##
 
-2018-12-19 will be our holiday party. Come enjoy some fun and snacks.
+* 2019-01-19 - [Baltimore Blast](/events/2018_2019/baltimore_blast/) - The Soccer team's Scout day
+* 2019-02-03 - [Snow Tubing](/events/2018_2019/snowtubing/) - Pack's annual ski event
+* 2019-02-23 - [Pinewood Derby](/events/2018_2019/pinewood-derby/) - Race day
 
 ----
 
