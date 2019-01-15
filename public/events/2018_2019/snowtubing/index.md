@@ -14,7 +14,7 @@ For payment please submit your check (made payable) to `BSA Pack 306` to [Wil He
 * [Map][pdf_map] (PDF)
 * [Release Form][release_form] (PDF)
 * [Google Map][google_map]
-* [skiroundtop@skiroundtop.com][mailto:skiroundtop@skiroundtop.com]
+* [skiroundtop@skiroundtop.com](mailto:skiroundtop@skiroundtop.com)
 * Phone: 717-432-9631
 
 ## Super Saver Meal Ticket ##
