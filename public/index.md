@@ -5,13 +5,11 @@ We Meet Wednesday Nights 7-8 pm at Catonsville Presbyterian Church between the f
 * [Catonsville Presbyterian Church](http://www.catonsvillepresb.org "external link to their web page")
 * [1400 Frederick Road, Catonsville, MD 21228](https://goo.gl/maps/4m8ACB65TAn "a link to google maps") <i class="fas fa-map-marker-alt"></i>
 
-----
+## Upcoming Events ##
 
-## Holiday Party ##
-
-2018-12-19 will be our holiday party. Come enjoy some fun and snacks.
-
-----
+* 2019-01-19 - [Baltimore Blast](/events/2018_2019/baltimore_blast/) - The Soccer team's Scout day
+* 2019-02-03 - [Snow Tubing](/events/2018_2019/snowtubing/) - Pack's annual ski event
+* 2019-02-23 - [Pinewood Derby](/events/2018_2019/pinewood-derby/) - Race day
 
 ## Our Dens ##
 ![image of cub scout ranks][cub_scout_ranks]
