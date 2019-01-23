@@ -7,7 +7,6 @@ We Meet Wednesday Nights 7-8 pm at Catonsville Presbyterian Church between the f
 
 ## Upcoming Events ##
 
-* 2019-01-19 - [Baltimore Blast](/events/2018_2019/baltimore_blast/) - The Soccer team's Scout day
 * 2019-02-03 - [Snow Tubing](/events/2018_2019/snowtubing/) - Pack's annual ski event
 * 2019-02-06 - Popcorn / Movie / Bandsaw night
 * 2019-02-10 - Scout Sunday
