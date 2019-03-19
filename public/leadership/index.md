@@ -1,8 +1,10 @@
 <!-- Title: Leadership -->
 
-## EMail ##
+<div id="toc"></div>
 
-The Pack News is run by an [Electronic mailing list](https://en.wikipedia.org/wiki/Electronic_mailing_list) run by software called [Mailman](http://www.list.org). We do not currently have an expert at this system. We also offer [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol) Email address for leaders.
+## E-Mail ##
+
+The Pack News is run by an [Electronic mailing list](https://en.wikipedia.org/wiki/Electronic_mailing_list) run by software called [Mailman](http://www.list.org). We do not currently have an expert on running this kind of email system. We also offer [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol) Email address for leaders.
 
 * The [Web Mail](https://webmail.cub306.org) interface
 * leadership discution list
@@ -14,23 +16,33 @@ The Pack News is run by an [Electronic mailing list](https://en.wikipedia.org/wi
     * talk-join@lists.cub306.org - *send email to join*
     * [Manage](http://lists.cub306.org/admin.cgi/talk-cub306.org)
 
+### Setting up email ###
+We use Dreamhost for our email and web hosting. They allow us to have unlimited IMAP email accounts.
+Below are some setup instructions.
+
+* [General Setup](https://help.dreamhost.com/hc/en-us/articles/214918038-Email-client-configuration-overview)
+* [Certificate Help](https://help.dreamhost.com/hc/en-us/articles/215306748-Certificate-domain-mismatch-error-when-connecting-to-a-DreamHost-mail-server)
+
+<!--
 ## Schedules ##
 
 Here is a list of known dates when people will not be able to attend events. Please let the [Cub Master](mailto:cubmaster@cub306.org) know if something will prevent you from covering a Den meeting. We will will use this list to make sure we are double covered for your Den.
 
-| Name    | Date  | Note | Covered |
-| ------- | ----- | ---- | ------- |
+| Name      | Date  | Note | Covered |
+| --------- | ----- | ---- | ------- |
 | Thomas C. | 09/11 | work | Eric S.
-| Eric S. | 09/19 | work | Wil H.
-| Eric S. | 10/24 | work | Pack Meeting
-| Eric S. | 11/21 | work | Wil H.
-| Eric S. | 12/19 | work | Pack Meeting
+| Eric S.   | 09/19 | work | Wil H.
+| Eric S.   | 10/24 | work | Pack Meeting
+| Eric S.   | 11/21 | work | Wil H.
+| Eric S.   | 12/19 | work | Pack Meeting
  
-At this time there are no outages that need coverage. 
+At this time there are no outages that need coverage.
+-->
 
 ## Tools ##
 * [Wood Badge Registration](http://www.baltimorebsa.org/programs/wood-badge/n6-220-18-2/67186)
 * [Holiday Party Sheet](https://docs.google.com/spreadsheets/d/1r09A5cOu5ShuX7bVW-HlU0yzR9TqAG0v9Jep3ALC9_s/edit?usp=sharing)
+* [operation manual](operationmanual)
 
 ## Books and Documents ##
 

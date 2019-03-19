@@ -27,6 +27,12 @@ aside
 
 main{}
 
+body main h2
+{
+    padding-top:1em;
+    border-bottom: solid 1px white;
+}
+
 body main a, body footer a {color:white;}
 body main a:visited, body main a:visited {color:lightgray;}
 
