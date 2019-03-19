@@ -24,9 +24,16 @@ Emergency Assistance.
 
 <br clear="both">
 
+## Blue & Gold ##
+2019-03-23 - 5:30
+
+Join us for the Blue & Gold pot luck Dinner. Everyone is invited.
+
+* [Info Page](events/2018_2019/blue-and-gold/)
+* [Signup Sheet][blue_gold_menu]
+
 ## Upcoming Events ##
 
-* 2019-03-23 - Blue & Gold Dinner [Signup Sheet][blue_gold_menu]
 * Cub Scout Day Camp has been announced - [flyer](announcements/2019-03-13/CampArrowheadDayCamp2019flyer.pdf)
 
 ## Our Dens ##

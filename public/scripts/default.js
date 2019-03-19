@@ -15,6 +15,7 @@ $( document ).ready(function()
 {
     $("a").each(function(index)
     {
+        if ($(this).has("img").length>0) {return;}
         let href = $(this).attr("href");
         if ( href.startsWith("http://") || href.startsWith("https://") )
         {
