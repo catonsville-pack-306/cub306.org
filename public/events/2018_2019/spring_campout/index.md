@@ -13,7 +13,7 @@ special diet needs let us know.
 * When :
     * **Signup by** - 2019-04-24 (Wednesday Meeting Before)
     * **Event** - 2019-04-27 to 2019-04-28 (Saturday - Sunday)
-    * **How Much** - $10 per person
+    * **How Much** - $10 per camper (payment due by April 24th)
 * Where :
     * Apache Bluff Site @ [Camp Oest][bc_oest_map] in [Broad Creek Scout Reservation](http://www.broadcreekbsa.org) 
     * [Google Map][map] - [Directions][bc_direction]
@@ -22,6 +22,16 @@ special diet needs let us know.
 >Broad Creek Memorial Scout Reservation<br>
 >1929 Susquehanna Hall Road<br>
 >Whiteford, Maryland 21160-1703<br>
+
+We also ask that every scout attending have a medical form filled out. Having
+these forms on hand is a [BSA requirement](https://www.scouting.org/health-and-safety/ahmr/)
+for overnight camping and allows for any adult leader to have medical services
+administered to a scout. We ask that these forms be turned in at the same time
+as payment is given.
+
+[BSA Medical Form A & B](https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_AB.pdf)
+
+If you have any questions please email [Wil][camp] or [Thomas][mast].
 
 ## Menu ##
 
@@ -54,6 +64,8 @@ bring, but for those who are new to camping this is a great place to start:
 [bc_oest_map]: https://5a6a246dfe17a1aac1cd-b99970780ce78ebdd694d83e551ef810.ssl.cf1.rackcdn.com/orgheaders/2527/oest_map.jpg "Camp Oest Map"
 
 [camp]: mailto:camping@cub306.org "Camping Cordinator Email address"
+[mast]: mailto:cubmaster@cub306.org "Cub Master Email address"
+
 
 [map]: https://goo.gl/maps/2auWRVoBE642 "Google Map to camp site"
 
