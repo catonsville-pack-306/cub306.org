@@ -24,12 +24,12 @@ special diet needs let us know.
 >Whiteford, Maryland 21160-1703<br>
 
 We also ask that every scout attending have a medical form filled out. Having
-these forms on hand is a [BSA requirement](https://www.scouting.org/health-and-safety/ahmr/)
+these forms on hand is a [BSA requirement][bsa_requirement]
 for overnight camping and allows for any adult leader to have medical services
 administered to a scout. We ask that these forms be turned in at the same time
-as payment is given.
+as payment is given (April 24th).
 
-[BSA Medical Form A & B](https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_AB.pdf)
+[BSA Medical Form A & B][bsa_med_a_b]
 
 If you have any questions please email [Wil][camp] or [Thomas][mast].
 
@@ -66,6 +66,8 @@ bring, but for those who are new to camping this is a great place to start:
 [camp]: mailto:camping@cub306.org "Camping Cordinator Email address"
 [mast]: mailto:cubmaster@cub306.org "Cub Master Email address"
 
+[bsa_requirement]: https://www.scouting.org/health-and-safety/ahmr/ "BSA Medical Form Page"
+[bsa_med_a_b]: https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_AB.pdf "Medical Form A & B"
 
 [map]: https://goo.gl/maps/2auWRVoBE642 "Google Map to camp site"
 
