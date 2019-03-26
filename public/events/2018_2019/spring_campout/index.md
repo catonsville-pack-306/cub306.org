@@ -1,5 +1,8 @@
 # Spring Campout #
-<style>img[alt="Broad Creek"]{float:right;padding:1em;height:15em;}</style>
+<style>
+img[alt="Broad Creek"]{float:right;padding:1em;height:15em;}
+img[alt="Oest Map"]{height:8em;}
+</style>
 
 ![Broad Creek][bc_img]
 This spring we will be camping in [Broad Creek Scout Reservation][bc_home]
@@ -15,7 +18,7 @@ special diet needs let us know.
     * **Event** - 2019-04-27 to 2019-04-28 (Saturday - Sunday)
     * **How Much** - $10 per camper (payment due by April 24th)
 * Where :
-    * Apache Bluff Site @ [Camp Oest][bc_oest_map] in [Broad Creek Scout Reservation](http://www.broadcreekbsa.org) 
+    * Apache Bluff Site @ [Camp Oest][bc_oest_map] in [Broad Creek Scout Reservation][bc_home]
     * [Google Map][map] - [Directions][bc_direction]
     * [Parking Rules][bc_parking]
 
@@ -33,24 +36,33 @@ as payment is given (April 24th).
 
 If you have any questions please email [Wil][camp] or [Thomas][mast].
 
-## Menu ##
+## Parking ##
+[![Oest Map][bc_oest_map]][bc_oest_map]
+We can not park more then one car at Apache Bluff. A parking lot is available to
+use just below the site (see [map][bc_oest_map]). When showing up to the camp
+site, you can stop and park at the camp, unload and then move your car for the
+next Camper. Overnight Wil's van will take the spot and serve as both our 
+emergency vehicle and food storage.
 
+<br style="clear:both">
+
+## Menu ##
 * Saturday Dinner: Chili (including vegetarian chili option), Cornbread, Hot dogs, Cobbler, Fruit, Snacks, Juice Drink
 * Sunday Breakfast: Pancakes, Sausage, Milk, Orange Juice, Coffee, Tea
 
 ## Camp Schedule ##
 * [Events](schedule.md) - Printable time table of events while at the camp site.
 
+Note: Dens should be prepared to perform a skit or song at the campfire.
+
 ## Signup ##
 There are two ways to signup.
 
 1. The primary way is to put your name down
 on the [signup][signup] as shown above, we can find you in our roster from that. 
-2. The second way is to
-send an email to [camping@cub306.org][camp]
+2. The second way is to send an email to [camping@cub306.org][camp].
 
-
-## Packing List ##
+## Suggested Packing List ##
 Here is a list of items to get you started. There are other things you could
 bring, but for those who are new to camping this is a great place to start:
 
