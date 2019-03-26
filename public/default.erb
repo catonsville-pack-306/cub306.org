@@ -69,10 +69,30 @@
     </div>
 </aside>
 
+<% if blog_exists %>
+
+<style>
+section {column-count:2;}
+section article {break-inside: avoid-column;}
+section article h2 {margin-top:0.25em;}
+section article .tools {text-align:right;font-size:smaller;}
+</style>
+
+<%=inject "/always_top.md"%>
+<h2> Announcements </h2>
+
+<section>
+<%=blog_here%>
+</section>
+<%=inject "/always_bottom.md"%>
+
+<% else %>
+
 <main>
 <%=page%>
 </main>
 
+<% end %>
 <br style="clear:both;">
 
 <footer>
