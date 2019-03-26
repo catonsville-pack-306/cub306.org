@@ -26,6 +26,11 @@ class MarkdownToHTML
         @req_uri = read_env('REQUEST_URI', '/index.md?', %r{[^-\/\w\?&=\.#%]*})
         @accept = read_env('HTTP_ACCEPT', '*/*', %r{[^\/\w\+\.,;=: \*]})
 
+        @file_base_name = File.basename(@req_uri)
+        @file_path = File.path(@req_uri)
+        @file_extname = File.extname(@req_uri)
+        @file_dirname = File.dirname(@req_uri)
+
         # template = 'Content-type: <%=ctype%>; charset=utf-8\n\n<%=page%>'
         template = "Content-type: text/html; charset=utf-8\n\n<%=page%>"
         @template = ERB.new template
@@ -128,10 +133,71 @@ class MarkdownToHTML
     # @return HTML content
     def inject(path)
         contents = load_file(@root, path)
+        
+        # try first
+        wrapper_erb = ERB.new contents
+        contents = wrapper_erb.result(binding)
+        
         page = markdown(contents)
 
         wrapper_erb = ERB.new page
         result = wrapper_erb.result(binding)
+
         result
     end
+    
+    def blog_exists
+        if @req_uri.end_with? '.md'
+            if @req_uri.end_with? 'index.md'
+                return true
+            end
+            return false
+        end
+        uri = @req_uri
+        File.directory?(@root + uri + "blog")
+    end
+    
+    def blog_here
+        blog(@file_dirname + "/blog")
+    end
+    
+    def blog(path)
+        result = ""
+        todays_file = Time.now.strftime("%Y-%m-%d")
+
+        Dir[@root + path + "/*.md"].each do |full_path|
+            file_name = File.basename(full_path)
+            file_name_no_ext = File.basename(full_path, ".*")
+            parts = file_name_no_ext.split("-to-")
+            inject_file = path + "/" + file_name
+            
+            begin
+                if parts.count == 1 && todays_file==file_name_no_ext
+                    result = result + helper_wrap_in_article( inject_file )
+                elsif parts.count == 2
+                    start = Date.parse(parts[0])
+                    stop = Date.parse(parts[1])
+                    if Date.today.between?(start, stop)
+                        result = result + helper_wrap_in_article( inject_file )
+                    end
+                end
+            rescue StandardError => e
+                result = e
+            end
+        end
+        result
+    end
+    
+    def helper_wrap_in_article(inject_file)
+        c = inject(inject_file)
+        inject_file["//"] = "/"
+        %Q(
+<article>
+    #{c}
+    <div class="tools">
+        <a href="#{inject_file}"><i class="fas fa-link"></i></a>
+    </div>
+</article>) unless c.length < 1
+    end
+
 end
