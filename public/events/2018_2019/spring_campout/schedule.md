@@ -35,7 +35,7 @@ h3 {margin-bottom:0.25em}
 
 * When: Pack 306 - Spring Camping Trip - April 27 to 28, 2019 
 * Where: Broad Creek Scout Reservation > Camp Oest > Apache Bluffs
-* Cost: $5 per camper
+* Cost: $10 per camper
 
 ## Schedule ##
 Event Iterarary
