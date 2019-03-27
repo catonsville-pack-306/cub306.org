@@ -132,6 +132,8 @@ class MarkdownToHTML
     # @param path URI for the markdown file to load
     # @return HTML content
     def inject(path)
+        return "#{path} does not exist" unless File.exists?(@root + path)
+        
         contents = load_file(@root, path)
         
         # try first
@@ -159,6 +161,10 @@ class MarkdownToHTML
     
     def blog_here
         blog(@file_dirname + "/blog")
+    end
+    
+    def blog_path file
+        @file_dirname + "/blog/" + file
     end
     
     def blog(path)
