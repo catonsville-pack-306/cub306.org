@@ -106,7 +106,12 @@ aside
 
 aside ol{margin:0;padding:0em 0em 0em 1em;}
 
-main
+section.blog {column-count:2;}
+section.blog article {break-inside: avoid-column;}
+section.blog article h2 {margin-top:0.25em;}
+section.blog article .tools {text-align:right;font-size:smaller;}
+
+main, section
 {
     margin:0.5em;
     padding:0.5em;
