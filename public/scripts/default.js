@@ -19,8 +19,19 @@ $( document ).ready(function()
         let href = $(this).attr("href");
         if ( href.startsWith("http://") || href.startsWith("https://") )
         {
-            $('<span>&nbsp;</span>').appendTo(this);
-            $('<i style="font-size:0.75em;" class="fas fa-external-link-alt"></i>').appendTo(this);
+            //$(this).addClass("external_link")
+            $('<i class="added fas fa-external-link-alt"></i>').appendTo(this);
+        }
+        else if ( href.startsWith("mailto:") )
+        {
+            $(this).addClass("mailto");
+            $('<i class="added far fa-envelope"></i>').prependTo(this);
+        }
+
+        if ( href.endsWith(".pdf") )
+        {
+            $(this).addClass("pdf");
+            $('<i class="added far fa-file-pdf"></i>').prependTo(this);
         }
     });
     
