@@ -1,0 +1,42 @@
+<style>
+    .gallery
+    {
+        column-count: 4;
+    }
+    img
+    {
+        width:100%;
+        /*width:8cm;*/
+        border:black solid 5px;
+    }
+</style>
+
+<script>
+
+$( document ).ready(function()
+{
+    $("imgs").each(function(index)
+    {
+        var left = Math.random() * window.outerWidth/1.25;
+        var top = Math.random() * window.outerHeight/2;
+        $(this).css({"position":"absolute","left": left, "top": top});
+
+        $(this).click(function()
+        {
+            //$(this).hide();
+            $(this).css({"position":"inherit", "left":"inherit", "top":"inherit"});
+        });
+
+        /*$(this).hover(
+            function ()
+            {
+                $(this).hide();
+            }, function(){}
+        );*/
+    });
+
+});
+
+</script>
+
+<%=img_list("/events/2018_2019/blue-and-gold/slides")%>
