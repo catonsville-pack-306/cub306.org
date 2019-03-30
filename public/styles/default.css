@@ -124,11 +124,24 @@ main p {text-align: justify;}
     content:" - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
 }
 
-main ul li a svg{font-size: 0.25em important!;}
+/*main ul li a svg{font-size: 0.25em important!;}*/
 
 a[href^="http://"]::after
 {
     content:"";
+}
+
+a i.added, a svg.added/*, a i, a svg*/
+{
+    margin: 0 0.25em;
+    padding: 0em;
+    font-size: 0.67em;
+}
+
+.fa-external-link-alt
+{
+    font-size: 0.5em;
+    vertical-align: super;
 }
 
 /*form table, form table tr, form table td{border:0;}*/
