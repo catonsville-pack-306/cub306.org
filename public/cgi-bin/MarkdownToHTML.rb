@@ -73,6 +73,21 @@ class MarkdownToHTML
         @template.result(binding)
     end
 
+    # pull in and render a specific ERB file to the calling ERB file
+    def render_erb (path = @file_path)
+        content = ""
+        begin
+            content = File.read(@root + @file_path + path)
+            t = ERB.new(content)
+            content = t.result(binding)
+        rescue StandardError => e
+            #content = e.message
+            #content = "<!--#{e.message}-->"
+            content = ""
+        end
+        content
+    end
+
     # extract a title from the content of markdown
     # @param contents markdown text
     # @param title default title to use, assumes nil
@@ -204,6 +219,25 @@ class MarkdownToHTML
         <a href="#{inject_file}"><i class="fas fa-link"></i></a>
     </div>
 </article>) unless c.length < 1
+    end
+
+    # display a list of images in a given path, an image gallery. Supports jpg and png
+    # path directory that contains images
+    # return HTML content with a dif tag and a list of img tags
+    def img_list(path)
+        result = "<div class='gallery'>"
+
+        Dir[@root + path + "/*.*"].each do |full_path|
+            if full_path.end_with?(".png") or full_path.end_with?(".jpg")
+
+                file_name = File.basename(full_path)
+                file_name_no_ext = File.basename(full_path, ".*")
+                inject_file = path + "/" + file_name
+
+                result = result + "<img src='#{inject_file}'><br>"
+            end
+        end
+        result + "</div>"
     end
 
 end
