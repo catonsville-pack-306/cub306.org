@@ -40,6 +40,9 @@ At this time there are no outages that need coverage.
 -->
 
 ## Tools ##
+* [Family Scouting](https://www.scouting.org/familyscouting/)
+    * [FAQ](https://i9peu1ikn3a16vg4e45rqi17-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/UPDATED-Family-Scouting-FAQ-2-11-191.pdf)
+* [Safe Scouting Chart](http://www.broadcreekbsa.org/document/2013-safe-scouting-chart/125709)
 * [Wood Badge Registration](http://www.baltimorebsa.org/programs/wood-badge/n6-220-18-2/67186)
 * [Holiday Party Sheet](https://docs.google.com/spreadsheets/d/1r09A5cOu5ShuX7bVW-HlU0yzR9TqAG0v9Jep3ALC9_s/edit?usp=sharing)
 * [operation manual](operationmanual)
