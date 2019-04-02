@@ -76,8 +76,11 @@ class MarkdownToHTML
     # pull in and render a specific ERB file to the calling ERB file
     def render_erb (path = @file_path)
         content = ""
+        # need to make sure we are only the main index and not sub page
+        base_dir = @file_path
+        base_dir = "/" if @file_path==("/index.md")
         begin
-            content = File.read(@root + @file_path + path)
+            content = File.read(@root + base_dir + path)
             t = ERB.new(content)
             content = t.result(binding)
         rescue StandardError => e
@@ -163,6 +166,27 @@ class MarkdownToHTML
         result
     end
     
+    def include(name = "extra", debug=false)
+        content = ""
+        
+        base_dir = @file_path
+        base_dir = "/" if base_dir.end_with?("index.md")
+        
+        begin
+            if File.exists?(@root + base_dir + "#{name}.erb")
+                content = render_erb "#{name}.erb"
+            elsif File.exists?(@root + base_dir + "#{name}.md")
+                content = inject base_dir + "#{name}.md"
+            #else
+            #    content = "#{name} does not exist in #{base_dir}<br>"
+            #    content = content + @root + base_dir + "#{name}.[erb|md]" + "<br>"
+            end
+        rescue StandardError => e
+            content = e.message if debug
+        end
+        content
+    end
+
     def blog_exists
         if @req_uri.end_with? '.md'
             if @req_uri.end_with? 'index.md'
@@ -240,4 +264,14 @@ class MarkdownToHTML
         result + "</div>"
     end
 
+end
+
+class CustomRender < Redcarpet::Render::HTML
+  def image(link, title, alt_text)
+    if title =~ /=(\d+)x(\d+)/
+      %(<img src="#{link}" width="#{$1}" height="#{$2}" alt="#{alt_text}>")
+    else
+      %(<img src="#{link}" title="#{title}" alt="#{alt_text}">)
+    end
+  end
 end
