@@ -1,0 +1,94 @@
+<style>
+    .gallery
+    {
+        column-count: 4;
+    }
+    img
+    {
+        width:100%;
+        /*width:8cm;*/
+        border:black solid 5px;
+    }
+    img:hover
+    {
+        border: red dashed 8px;
+        cursor: pointer;
+        cursor: hand;
+    }
+    .large
+    {
+        position:fixed;
+        left:30%;
+        top:50%;
+        margin-top:-350px;
+        margin-left:-350px;
+        height:700px;
+        width:inherit;
+    }
+</style>
+
+<script>
+
+$( document ).ready(function()
+{
+    console.log("here1");
+    $("imgs").each(function(index)
+    {
+        console.log("an image #{index}")
+        var left = Math.random() * window.outerWidth/1.25;
+        var top = Math.random() * window.outerHeight/2;
+        $(this).css({"position":"absolute","left": left, "top": top});
+
+        /*$(this).click(function()
+        {
+            //$(this).hide();
+            $(this).css({"position":"inherit", "left":"inherit", "top":"inherit"});
+        });*/
+
+        /*$(this).hover(
+            function ()
+            {
+                $(this).hide();
+            }, function(){}
+        );*/
+    })
+    
+    $("img").each(function(index)
+    {
+        //${ document }
+        $(this).hover(
+            function ()
+            {
+                //$(this).css({"border":"red dashed 8px"})
+            },
+            function()
+            {
+                //$(this).css({"border":"black solid 5px"})
+            }
+        );
+        
+        $(this).click(function()
+        {
+            if ($(this).hasClass("large"))
+            {
+                $( ".large" ).removeClass( "large" );
+            }
+            else
+            {
+                $( ".large" ).removeClass( "large" );
+                $(this).addClass("large");
+                
+                width = $(this).width()/2 * -1;
+                $(this).css({"width":"-"+width})
+
+                height = $(this).height()/2 * -1;
+                $(this).css({"height":"-"+height})
+            }
+        });
+
+    });
+});
+
+</script>
+
+<%=img_list("/events/2018_2019/blue-and-gold/slides")%>
