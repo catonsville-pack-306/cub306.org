@@ -80,22 +80,24 @@
     </div>
 </aside>
 
+<!--h1>include</h1>
+<%=include "alerts", true%>
+<hr>
+<%=include "test", true%>
+<hr-->
+
 <main>
     <% if blog_exists %>
-        <!--%=render_erb blog_path "always_top.erb"%-->
-        <%=inject blog_path "always_top.md"%>
+        <%=include blog_path "blog_before"%>
         <h2><i class="fas fa-bullhorn"></i> Announcements</h2>
         <section class="blog">
             <%=blog_here%>
         </section>
-        <%=inject blog_path "always_bottom.md"%>
-        <!--%=render_erb blog_path "always_bottom.erb"%-->
+        <%=include blog_path "blog_after"%>
     <% else %>
-        <%=render_erb "before_page.erb"%>
-        <!--%=inject @file_path + "before.md"%-->
+        <%=include "page_before"%>
         <%=page%>
-        <!--%=inject @file_path + "after.md"%-->
-        <%=render_erb "after_page.erb"%>
+        <%=include "page_after"%>
     <% end %>
 </main>
 
