@@ -70,11 +70,12 @@ Cub Scouts is broken down into "Dens" by grade and given names:
 
 ## <i class="fas fa-hiking"></i> Our Activities ##
 ![Pine Wood Derby][cars]
-![Science][science]
+![A Pine Wood Derby Winner][win]
 
 We meet every Wednesday during the school year and once a month durring the summer. In our weekly Den meetings scouts learn citizenship, character, and leadership. Once a month we also meet as a whole Pack. These Pack Meetings
 <br style="clear:both">
 
+![Science][science]
 ### Activities ###
 
 * Camping
@@ -187,6 +188,7 @@ If your interested in joining us outside of a signup event, by all means contact
 [bears]: /events/2018_2019/blue-and-gold/slides/fort_wall_bears.jpg "Bears"
 [webs2]: /events/2018_2019/blue-and-gold/slides/hanging_around.jpg "Webelos"
 
+[win]: /events/2018_2019/pinewood-derby/a_winner.jpg "A Pine Wood Derby winner"
 [cars]: /events/2018_2019/blue-and-gold/slides/cars.jpg "Pine Wood Derby"
 [fire]: /events/2018_2019/blue-and-gold/slides/fire.jpg "Camping"
 [foodme]: /events/2018_2019/blue-and-gold/slides/food_me.jpg "Camping"
