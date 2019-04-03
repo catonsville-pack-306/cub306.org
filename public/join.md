@@ -75,6 +75,7 @@ Cub Scouts is broken down into "Dens" by grade and given names:
 We meet every Wednesday during the school year and once a month durring the summer. In our weekly Den meetings scouts learn citizenship, character, and leadership. Once a month we also meet as a whole Pack. These Pack Meetings
 <br style="clear:both">
 
+![Pack Meeting][pack]
 ![Science][science]
 ### Activities ###
 
@@ -188,6 +189,7 @@ If your interested in joining us outside of a signup event, by all means contact
 [bears]: /events/2018_2019/blue-and-gold/slides/fort_wall_bears.jpg "Bears"
 [webs2]: /events/2018_2019/blue-and-gold/slides/hanging_around.jpg "Webelos"
 
+[pack]: /events/2018_2019/pack_meetings/March_Pack_Meeting_Fire.jpg "A Pack Meeting"
 [win]: /events/2018_2019/pinewood-derby/a_winner.jpg "A Pine Wood Derby winner"
 [cars]: /events/2018_2019/blue-and-gold/slides/cars.jpg "Pine Wood Derby"
 [fire]: /events/2018_2019/blue-and-gold/slides/fire.jpg "Camping"
