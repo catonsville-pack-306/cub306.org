@@ -1,14 +1,12 @@
-#!/usr/bin/env ruby
+#!/bin/bash
 
-#connect the CGI script to standard ruby paths
-ENV['GEM_PATH'] = '/home/cubpack/.gems'
+# Ruby does not let me set this, do it in bash first
+GEM_HOME=/home/cubpack/.gems
+export GEM_HOME
 
-if File.exist?("#{ENV['DOCUMENT_ROOT']}/cgi-bin")
-    $LOAD_PATH.unshift("#{ENV['DOCUMENT_ROOT']}/cgi-bin")
-end
+# Does not seam to be needed
+#GEM_PATH=/home/cubpack/.gems
+#export GEM_PATH
 
-#local
-require "MarkdownToHTML"
+./md.ruby.cgi
 
-mth = MarkdownToHTML.new
-puts mth.render()
