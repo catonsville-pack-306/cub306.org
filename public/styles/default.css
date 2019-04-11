@@ -107,9 +107,21 @@ aside
 aside ol{padding:0;margin:0em 0em 0em 1em;}
 
 section.blog {column-count:2;}
-section.blog article {break-inside: avoid-column;padding:0.5em; margin:0;}
+section.blog article
+{
+    break-inside:avoid-column;
+    padding:0.5em;
+    margin:0.5em 0;
+    /*margin-bottom:0.5em;*/
+}
 section.blog article h2 {margin-top:0.25em;}
-section.blog article .tools {text-align:right;font-size:smaller;padding:0em;margin:0;}
+section.blog article .tools
+{
+    text-align:right;
+    font-size:smaller;
+    padding:0em;
+    margin:0;
+}
 
 main, section
 {
