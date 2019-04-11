@@ -40,6 +40,7 @@
     aside{display:none;}
     
     #ios8 {display: list-item;}
+    section.blog {column-count:inherit;}
 }
 
 /******************************************************************************/
@@ -68,6 +69,7 @@
     aside{display:none;}
     
     #iosSEport { display: list-item; }
+    section.blog {column-count:inherit;}
 }
 
 @media only screen

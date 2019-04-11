@@ -73,6 +73,24 @@ class MarkdownToHTML
         @template.result(binding)
     end
 
+    # pull in and render a specific ERB file to the calling ERB file
+    def render_erb (path = @file_path)
+        content = ""
+        # need to make sure we are only the main index and not sub page
+        base_dir = @file_path
+        base_dir = "/" if @file_path==("/index.md")
+        begin
+            content = File.read(@root + base_dir + path)
+            t = ERB.new(content)
+            content = t.result(binding)
+        rescue StandardError => e
+            #content = e.message
+            #content = "<!--#{e.message}-->"
+            content = ""
+        end
+        content
+    end
+
     # extract a title from the content of markdown
     # @param contents markdown text
     # @param title default title to use, assumes nil
@@ -148,6 +166,27 @@ class MarkdownToHTML
         result
     end
     
+    def include(name = "extra", debug=false)
+        content = ""
+        
+        base_dir = @file_path
+        base_dir = "/" if base_dir.end_with?("index.md")
+        
+        begin
+            if File.exists?(@root + base_dir + "#{name}.erb")
+                content = render_erb "#{name}.erb"
+            elsif File.exists?(@root + base_dir + "#{name}.md")
+                content = inject base_dir + "#{name}.md"
+            #else
+            #    content = "#{name} does not exist in #{base_dir}<br>"
+            #    content = content + @root + base_dir + "#{name}.[erb|md]" + "<br>"
+            end
+        rescue StandardError => e
+            content = e.message if debug
+        end
+        content
+    end
+
     def blog_exists
         if @req_uri.end_with? '.md'
             if @req_uri.end_with? 'index.md'
@@ -206,4 +245,33 @@ class MarkdownToHTML
 </article>) unless c.length < 1
     end
 
+    # display a list of images in a given path, an image gallery. Supports jpg and png
+    # path directory that contains images
+    # return HTML content with a dif tag and a list of img tags
+    def img_list(path)
+        result = "<div class='gallery'>"
+
+        Dir[@root + path + "/*.*"].each do |full_path|
+            if full_path.end_with?(".png") or full_path.end_with?(".jpg")
+
+                file_name = File.basename(full_path)
+                file_name_no_ext = File.basename(full_path, ".*")
+                inject_file = path + "/" + file_name
+
+                result = result + "<img src='#{inject_file}'><br>"
+            end
+        end
+        result + "</div>"
+    end
+
+end
+
+class CustomRender < Redcarpet::Render::HTML
+  def image(link, title, alt_text)
+    if title =~ /=(\d+)x(\d+)/
+      %(<img src="#{link}" width="#{$1}" height="#{$2}" alt="#{alt_text}>")
+    else
+      %(<img src="#{link}" title="#{title}" alt="#{alt_text}">)
+    end
+  end
 end

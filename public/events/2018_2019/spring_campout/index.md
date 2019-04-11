@@ -19,14 +19,14 @@ special diet needs let us know.
     * **How Much** - $10 per camper (payment due by April 24th)
 * Where :
     * Apache Bluff Site @ [Camp Oest][bc_oest_map] in [Broad Creek Scout Reservation][bc_home]
-    * [Google Map][map] - [Directions][bc_direction]
+    * [<i class="fas fa-map-marker-alt"></i> Google Map][map] - [Directions][bc_direction]
     * [Parking Rules][bc_parking]
 
 >Broad Creek Memorial Scout Reservation<br>
 >1929 Susquehanna Hall Road<br>
 >Whiteford, Maryland 21160-1703<br>
 
-We also ask that every scout attending have a medical form filled out. Having
+<i class="fas fa-ambulance"></i> We also ask that every scout attending have a medical form filled out. Having
 these forms on hand is a [BSA requirement][bsa_requirement]
 for overnight camping and allows for any adult leader to have medical services
 administered to a scout. We ask that these forms be turned in at the same time

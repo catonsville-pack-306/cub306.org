@@ -19,9 +19,54 @@ $( document ).ready(function()
         let href = $(this).attr("href");
         if ( href.startsWith("http://") || href.startsWith("https://") )
         {
-            $('<span>&nbsp;</span>').appendTo(this);
-            $('<i style="font-size:0.75em;" class="fas fa-external-link-alt"></i>').appendTo(this);
+            //$(this).addClass("external_link")
+            $('<i class="added fas fa-external-link-alt"></i>').appendTo(this);
+        }
+        else if ( href.startsWith("mailto:") )
+        {
+            $(this).addClass("mailto");
+            $('<i class="added far fa-envelope"></i>').prependTo(this);
+        }
+
+        if ( href.endsWith(".pdf") )
+        {
+            $(this).addClass("pdf");
+            $('<i class="added far fa-file-pdf"></i>').prependTo(this);
         }
     });
     
 });
+
+/** create a table of contents */
+$( document ).ready(function()
+{
+    toc = "Table of Contents:<ol>"
+    $("h2").each(function(index)
+    {
+        let title = $(this).text();
+        if ($.trim(title)!="")
+        {
+            let hash = title.replace(/[^\w]/ig, "-")
+            $("<a name='" + hash + "'></a>").insertBefore(this);
+            toc += "<li><a href='#" + hash +"'>" + title + "</a></li>"
+        }
+    });
+    toc += "</ol>"
+    $("#toc").append(toc)
+    $("a[href='toc']").replaceWith(toc)
+});
+
+/*$( document ).ready(function()
+{
+    toc = "Table of Contents:<ol>"
+    $("h2").each(function(index)
+    {
+        let title = $(this).text();
+        let hash = title.replace(/[^\w]/ig, "-")
+        $("<a name='" + hash + "'></a>").insertBefore(this);
+        toc += "<li><a href='#" + hash +"'>" + title + "</a></li>"
+    });
+    toc += "</ol>"
+    
+    $("a[href='toc']").replaceWith(toc)
+});*/

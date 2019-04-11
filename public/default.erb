@@ -33,6 +33,12 @@
     doc_uri=<%=@doc_uri%>
     accept=<%=@accept%>
     now=<%=now%>
+
+    base=<%=@file_base_name %>
+    path=<%=@file_path %>
+    ext=<%=@file_extname %>
+    dir=<%=@file_dirname %>
+
     -->
 </head>
 <body>
@@ -74,16 +80,24 @@
     </div>
 </aside>
 
+<!--h1>include</h1>
+<%=include "alerts", true%>
+<hr>
+<%=include "test", true%>
+<hr-->
+
 <main>
     <% if blog_exists %>
-        <%=inject blog_path "always_top.md"%>
-        <h2> Announcements </h2>
+        <%=include blog_path "blog_before"%>
+        <h2><i class="fas fa-bullhorn"></i> Announcements</h2>
         <section class="blog">
             <%=blog_here%>
         </section>
-        <%=inject blog_path "always_bottom.md"%>
+        <%=include blog_path "blog_after"%>
     <% else %>
+        <%=include "page_before"%>
         <%=page%>
+        <%=include "page_after"%>
     <% end %>
 </main>
 
