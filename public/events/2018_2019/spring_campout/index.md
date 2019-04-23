@@ -2,6 +2,21 @@
 <style>
 img[alt="Broad Creek"]{float:right;padding:1em;height:15em;}
 img[alt="Oest Map"]{height:8em;}
+
+main p a[title="Signup"]
+{
+    display:block;
+    /*font-size:larger;*/
+    color:white;
+    background-color:#0A5694;
+    margin:auto;
+    text-align:center;
+    width:6em;
+    padding:0.5em;
+    padding-right:0.67em;
+    border-radius: 25px;
+}
+
 </style>
 
 ![Broad Creek][bc_img]
@@ -61,6 +76,8 @@ There are two ways to signup.
 1. The primary way is to put your name down
 on the [signup][signup] as shown above, we can find you in our roster from that. 
 2. The second way is to send an email to [camping@cub306.org][camp].
+
+[Sign Up][signup]
 
 ## Suggested Packing List ##
 Here is a list of items to get you started. There are other things you could
