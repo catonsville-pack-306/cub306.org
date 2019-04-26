@@ -3,7 +3,7 @@
 img[alt="Broad Creek"]{float:right;padding:1em;height:15em;}
 img[alt="Oest Map"]{height:8em;}
 
-main p a[title="Signup"]
+main p a[title="Signup"], main p a[title="Printable Directions"]
 {
     display:block;
     /*font-size:larger;*/
@@ -15,9 +15,14 @@ main p a[title="Signup"]
     padding:0.5em;
     padding-right:0.67em;
     border-radius: 25px;
+    text-decoration:none;
 }
 
 </style>
+
+[toc](toc)
+
+## Overview ##
 
 ![Broad Creek][bc_img]
 This spring we will be camping in [Broad Creek Scout Reservation][bc_home]
@@ -50,6 +55,16 @@ as payment is given (April 24th).
 [BSA Medical Form A & B][bsa_med_a_b]
 
 If you have any questions please email [Wil][camp] or [Thomas][mast].
+
+## Directions to Camp Oest##
+
+1. From the south take U.S. Rt. 1 to Route 136 (WAWA).
+2. Turn left on Route 136.
+3. Turn right at the flashing light (the town of Dublin) on Rt. 440 for a block, then turn left on Castleton Rd. 
+4. After 1.5 miles, left on Day Rd. for a block.
+5. Turn right on Robinson Mill Rd. (camp signs will help for those last three turns) for 1 mile to the Camp Oest parking lot.
+
+[Printable Directions][print_directions]
 
 ## Parking ##
 [![Oest Map][bc_oest_map]][bc_oest_map]
@@ -102,3 +117,5 @@ bring, but for those who are new to camping this is a great place to start:
 
 [sheet]: https://www.google.com/sheets/about/ "What is google sheets"
 [signup]: https://docs.google.com/spreadsheets/d/1Ww8VIJoBJvnpNW-HK3_sJEKXPdFskV6K1nKwN8Sgo_Q/edit?usp=sharing "Signup"
+[print_directions]: directions.md "Printable Directions"
+
