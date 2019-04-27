@@ -1,7 +1,7 @@
 # Pack 306 - Spring Campout Directions #
 
 <style>
-img[alt="Oest Map"]{width:3.75in;}
+img[alt="Oest Map"]{width:3.8in;}
 
 main p a[title="Signup"]
 {
@@ -34,7 +34,7 @@ main p a[title="Signup"]
 
 * When : 2019-04-27 to 2019-04-28 (Saturday - Sunday)
 * Where : Apache Bluff Site @ [Camp Oest][bc_oest_map] in [Broad Creek Scout Reservation][bc_home]
-* Help : [camping@cub306.org][camp] or [cubmaster@cub306.org][mast] (443-956-9666).
+* Help : Wil @ 443-977-9770 or Thomas @ 443-956-9666.
 * Broad Creek phone number for use from 5 PM Friday through 10 AM Sunday is 410-420-4079 
 
 ## Physical Address ##
@@ -46,11 +46,11 @@ main p a[title="Signup"]
 
 ## Directions Camp Oest##
 
-1. From the south take U.S. Rt. 1 to Route 136 (WAWA).
-2. Turn left on Route 136.
-3. Turn right at the flashing light (the town of Dublin) on Rt. 440 for a block, then turn left on Castleton Rd. 
-4. After 1.5 miles, left on Day Rd. for a block.
-5. Turn right on Robinson Mill Rd. (camp signs will help for those last three turns) for 1 mile to the Camp Oest parking lot.
+1. North on I-95 through Baltimore to Exit 80 (where you go left at the end of ramp) onto MD 543 for 1.9 miles.
+2. At the light, turn right on Rt. 136 north (for 10.1 miles)
+3. Turn right at the flashing light (the town of Dublin) on Rt. 440 for a block, then turn left on Castleton Rd.
+4. After 1.5 miles, left on Day Rd. for a block
+5. Turn right on Robinson Mill Rd. Camp signs will help for the last three turns for 1 mile to the Camp Oest parking lot.
 
 ## Parking ##
 We can not park more then one car at Apache Bluff. A parking lot is available to
