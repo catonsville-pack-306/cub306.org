@@ -92,6 +92,7 @@ article
     /*margin-right:5em;*/
     border:1px solid grey;
     text-align: Justify;
+    margin-bottom:1em;
 }
 
 aside
@@ -110,8 +111,10 @@ section.blog {column-count:2;}
 section.blog article
 {
     break-inside:avoid-column;
-    padding:0.5em;
-    margin:0.5em;
+    /*padding:0.25em;*/
+    margin:0.25em;
+    padding-bottom:0em;
+    margin-bottom:0.25em;
     /*margin-bottom:0.5em;*/
 }
 section.blog article h2 {margin-top:0.5em;}
@@ -121,12 +124,15 @@ section.blog article .tools
     font-size:smaller;
     padding:0em;
     margin:0em;
-    margin-bottom:0.25em;
+    margin-bottom:0;
+    padding-bottom:5px;
+    padding-right:0.25em;
 }
 
 section.blog article .tools a
 {
-    padding-bottom:1em;
+    padding-bottom:0;
+    margin:0;
 }
 
 main, section
