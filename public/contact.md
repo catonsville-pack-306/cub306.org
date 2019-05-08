@@ -34,7 +34,9 @@ You can also email us directly with one of the following emails:
 | "Popcorn Kernel"    | Tracy Soltesz   | [popcorn@cub306.org](mailto:popcorn@cub306.org) |
 | Outdoor Coordinator | Wil Heslop      | [camping@cub306.org](mailto:camping@cub306.org) |
 | Treasurer           | Christy Cherry  | [treasurer@cub306.org](mailto:treasurer@cub306.org) |
-| Events Coordinator  | Tricia May      | [events@cub306.org](mailto:events@cub306.org) |
+| Advancement Coordinator| Sparky Zivin | awards@cub306.org |
+| Events Coordinator  | Tracy Soltesz   | [events@cub306.org](mailto:events@cub306.org) |
+| Events Coordinator  | Dawn Wolfe | pending |
 
 <!--
 | Lion	| Matthew Galeone pending | pending | 
