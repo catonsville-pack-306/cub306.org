@@ -112,19 +112,25 @@ section.blog article
 {
     break-inside:avoid-column;
     /*padding:0.25em;*/
-    margin:0.25em;
+    margin:0px;
+    padding:2px;
     padding-bottom:0em;
     margin-bottom:0.25em;
     /*margin-bottom:0.5em;*/
 }
-section.blog article h2 {margin-top:0.5em;}
+section.blog article .content
+{
+    padding:0.25em;
+    margin:0.25em;
+}
+section.blog article h2 {margin-top:0em;}
 section.blog article .tools
 {
     text-align:right;
     font-size:smaller;
     padding:0em;
     margin:0em;
-    margin-bottom:0;
+    margin-bottom:0px;
     padding-bottom:5px;
     padding-right:0.25em;
 }
