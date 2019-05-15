@@ -90,7 +90,9 @@ class MarkdownToHTML
         end
         content
     end
-
+    
+    # #mark - Human Readable Comment
+    
     # extract a title from the content of markdown
     # @param contents markdown text
     # @param title default title to use, assumes nil
@@ -237,8 +239,10 @@ class MarkdownToHTML
         c = inject(inject_file)
         inject_file["//"] = "/"
         %Q(
-<article>
-    #{c}
+<article class="blog_item">
+    <div class="content">
+        #{c}
+    </div>
     <div class="tools">
         <a href="#{inject_file}"><i class="fas fa-link"></i></a>
     </div>
