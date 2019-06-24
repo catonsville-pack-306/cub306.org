@@ -1,4 +1,4 @@
-# Join Park 306 #
+# Join Pack 306 #
 <style>
     main h2 {border-bottom:1px black solid;}
     main img {padding:0.25em;}
