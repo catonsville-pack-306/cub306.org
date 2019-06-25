@@ -15,4 +15,7 @@
     footer{border-top:1px solid black;}
     hr {border-top-color:black;}
 
+    section.blog article .tools .qrcode {display:inherit;}
+    section.blog article .tools .direct{ display:none;}
+
 }
