@@ -83,11 +83,19 @@ Then enter in the following, change as needed:
         </Directory>
     </VirtualHost>
     
-Finally restart apache
-    sudo /usr/sbin/apachectl
+Finally restart apache with `sudo /usr/sbin/apachectl`
 
 
-Apache may not find the gems installed for your user account, so you can try to update the version of ruby for the entire operating system as so:
+Apache may not find the gems installed for your user account, so you can try to update the version of ruby for the entire operating system (Macintosh in this case) as so:
 
     cd /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin
     sudo ./gem install redcarpet
+    
+In other cases, such as on a hosting service, you may nat be able to install gems in this way. For these cases, you will need to use a "wrapper" such as [qrc.cgi](public/cgi-bin/qrc.cgi). Here the idea is to set the gem path and then call ruby:
+
+	#!/bin/bash
+	GEM_HOME=/home/<account_name_here>/.gems
+	export GEM_HOME
+	./qrcode.cgi
+
+After making changes on a hosted system, you may need to run `touch ~/cub306.org/public/tmp/restart.txt` to get "[Passenger](https://help.dreamhost.com/hc/en-us/articles/215769578-Passenger-overview)" to recognize the change.

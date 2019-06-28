@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'cgi'
+require 'rubygems'
 require 'rqrcode'
 
 begin
@@ -9,7 +10,7 @@ protocol = ENV["Server_Protocol"].nil? ? "http" : ENV["Server_Protocol"]
 server = ENV["SERVER_NAME"] == "" ? "" : ENV["SERVER_NAME"]
 port = ENV["SERVER_PORT"] == "" ? "" : ENV["SERVER_PORT"]
 
-port = "" if port = ":80"
+port = "" if port == ":80"
 port = ":"+port unless port == ""
 
 base = protocol + "://" + server + port
