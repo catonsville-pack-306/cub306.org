@@ -42,5 +42,5 @@ For a full calendar, contact info for our Dens, and more, go to
 | ![code_main][code_main] | ![code_join][code_join] |
 
 
-[code_main]: /cgi-bin/qrcode.cgi?path=/index.md&size=100 "Cub 306 Web site"
-[code_join]: /cgi-bin/qrcode.cgi?path=/join.md&size=100 "Cub 306 Web site"
+[code_main]: /cgi-bin/qrc.cgi?path=/index.md&size=100 "Cub 306 Web site"
+[code_join]: /cgi-bin/qrc.cgi?path=/join.md&size=100 "Cub 306 Web site"
