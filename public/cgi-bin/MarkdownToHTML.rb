@@ -247,7 +247,7 @@ class MarkdownToHTML
         #{c}
     </div>
     <div class="tools">
-        <img class="qrcode" src="/cgi-bin/qrcode.cgi?path=#{inject_file}&amp;size=100" alt="qrcode" title="QR Code">
+        <img class="qrcode" src="/cgi-bin/qrc.cgi?path=#{inject_file}&amp;size=100" alt="qrcode" title="QR Code">
         <a class="direct" href="#{inject_file}"><i class="fas fa-link"></i></a>
     </div>
 </article>
