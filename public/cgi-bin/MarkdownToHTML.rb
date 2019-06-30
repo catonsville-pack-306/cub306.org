@@ -90,7 +90,9 @@ class MarkdownToHTML
         end
         content
     end
-
+    
+    # #mark - Human Readable Comment
+    
     # extract a title from the content of markdown
     # @param contents markdown text
     # @param title default title to use, assumes nil
@@ -210,7 +212,9 @@ class MarkdownToHTML
         result = ""
         todays_file = Time.now.strftime("%Y-%m-%d")
 
-        Dir[@root + path + "/*.md"].each do |full_path|
+        files = Dir[@root + path + "/*.md"]
+        sorted = files.sort_by { |x| File.basename(x, "md") }
+        sorted.each do |full_path|
             file_name = File.basename(full_path)
             file_name_no_ext = File.basename(full_path, ".*")
             parts = file_name_no_ext.split("-to-")
@@ -237,12 +241,18 @@ class MarkdownToHTML
         c = inject(inject_file)
         inject_file["//"] = "/"
         %Q(
-<article>
-    #{c}
-    <div class="tools">
-        <a href="#{inject_file}"><i class="fas fa-link"></i></a>
+<!-- article start -->
+<article class="blog_item">
+    <div class="content">
+        #{c}
     </div>
-</article>) unless c.length < 1
+    <div class="tools">
+        <img class="qrcode" src="/cgi-bin/qrcode.cgi?path=#{inject_file}&amp;size=100" alt="qrcode" title="QR Code">
+        <a class="direct" href="#{inject_file}"><i class="fas fa-link"></i></a>
+    </div>
+</article>
+<!-- article end -->
+) unless c.length < 1
     end
 
     # display a list of images in a given path, an image gallery. Supports jpg and png

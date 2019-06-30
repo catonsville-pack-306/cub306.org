@@ -1,5 +1,9 @@
 
 DirectoryIndex index.html index.md
+
 Action markdown /cgi-bin/md.cgi
 AddHandler markdown .md
+
+Action qrcode /cgi-bin/qr.cgi
+AddHandler qrcode .qr .qr.png .qr_png
 

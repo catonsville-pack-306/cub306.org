@@ -107,7 +107,14 @@ aside
 
 aside ol{padding:0;margin:0em 0em 0em 1em;}
 
-section.blog {column-count:2;}
+section.blog
+{
+    margin-left:0;
+    margin-right:0;
+    padding-left:0;
+    padding-right:0;
+    column-count:2;
+}
 section.blog article
 {
     break-inside:avoid-column;
@@ -140,6 +147,9 @@ section.blog article .tools a
     padding-bottom:0;
     margin:0;
 }
+
+section.blog article .tools .qrcode {display:none;}
+section.blog article .tools .direct{}
 
 main, section
 {

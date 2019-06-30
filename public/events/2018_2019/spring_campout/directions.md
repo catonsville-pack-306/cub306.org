@@ -59,6 +59,8 @@ site, you can stop and park at the camp, unload and then move your car for the
 next Camper. Overnight Wil's van will take the spot and serve as both our 
 emergency vehicle and food storage.
 
+![qrcode][qrcode]
+
 <br style="clear:both">
 
 <!-- image links -->
@@ -78,3 +80,5 @@ emergency vehicle and food storage.
 
 [sheet]: https://www.google.com/sheets/about/ "What is google sheets"
 [signup]: https://docs.google.com/spreadsheets/d/1Ww8VIJoBJvnpNW-HK3_sJEKXPdFskV6K1nKwN8Sgo_Q/edit?usp=sharing "Signup"
+
+[qrcode]: http://cub306.local/cgi-bin/qrcode.cgi?path=events/2018_2019/spring_campout/directions.md&size=128 "QR Code"
