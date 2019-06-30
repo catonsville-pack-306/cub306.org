@@ -38,6 +38,6 @@ For a full calendar, contact info for our Dens, and more, go to cub306.org or co
 | ![code_main][code_main] | ![code_join][code_join] | ![code_this][code_this] |
 
 
-[code_main]: /cgi-bin/qrc.cgi?size=100&path=index.md "Pack 306 Web site"
-[code_join]: /cgi-bin/qrc.cgi?size=100&path=join.md "Info on joining Pack 306"
-[code_this]: /cgi-bin/qrc.cgi?size=100&path=events/2019-2020/4thjuly-handout.md "This flyer"
+[code_main]: /cgi-bin/qrc.cgi?size=128&path=index.md "Pack 306 Web site"
+[code_join]: /cgi-bin/qrc.cgi?size=128&path=join.md "Info on joining Pack 306"
+[code_this]: /cgi-bin/qrc.cgi?size=128&path=events/2019-2020/4thjuly-handout.md "This flyer"
