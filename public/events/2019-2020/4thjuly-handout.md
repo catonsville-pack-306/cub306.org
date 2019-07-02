@@ -24,7 +24,7 @@ This summer you can join us for:
 
     Meeting at 10:00 at the Breadery for a walk down to Ellicott City
 
-### <i class="fas fa-rocket"></i> Sunday, August 3 - Rockets @ Goddard Space Flight Center
+### <i class="fas fa-rocket"></i> Sunday, August 4 - Rockets @ Goddard Space Flight Center
 
     Goddard hosts model rocket launches on the First Sunday of each month.
     Launches start at 1 p.m. (weather, security conditions permitting)
