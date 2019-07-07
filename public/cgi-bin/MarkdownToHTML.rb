@@ -219,11 +219,13 @@ class MarkdownToHTML
             file_name_no_ext = File.basename(full_path, ".*")
             parts = file_name_no_ext.split("-to-")
             inject_file = path + "/" + file_name
-            
+            #last_title_processes = ''
             begin
                 if parts.count == 1 && todays_file==file_name_no_ext
                     result = result + helper_wrap_in_article( inject_file )
                 elsif parts.count == 2
+                    err_msg = parts[0].slice! "calendar-"
+                    parts[0].slice!("calendar-")
                     start = Date.parse(parts[0])
                     stop = Date.parse(parts[1])
                     if Date.today.between?(start, stop)
@@ -232,6 +234,7 @@ class MarkdownToHTML
                 end
             rescue StandardError => e
                 result = e
+                result = "#{e} while processing #{file_name}"
             end
         end
         result

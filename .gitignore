@@ -1,4 +1,6 @@
 out
+public/blog/calendar-*-to-*.md
+public/events/events.ics
 public/out.html
 public/tmp
 *.swp
