@@ -25,7 +25,7 @@ end
 # ******************************************************************************
 
 class ReadIcal
-    ICON_LEAF = '<i class="fas fa-user-friends"></i>'
+    ICON_LEAF = '<i class="fas fa-leaf"></i>'
     ICON_CAMP = '<i class="fas fa-campground"></i>'
     ICON_FRIENDS = '<i class="fas fa-user-friends"></i>'
     ICON_CALENDAR = '<i class="far fa-calendar-alt"></i>'
