@@ -2,12 +2,12 @@
 
 <style>
     ul li {list-style-type: none;}
-    ul li:before {font-size:2em;content: "\2610";}
+    ul li:before {margin:0;padding:0;font-size:2em;content: "\2610";}
+    ul {margin:0;padding:0;}
 @media print
 {
     main{margin:0;padding:0;}
-	header h1{font-size:50px;}
-	#foot_contact{display:none;}
+	header, #foot_contact{display:none;}
 }
 </style>
 
