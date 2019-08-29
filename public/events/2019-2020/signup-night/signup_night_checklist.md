@@ -1,9 +1,10 @@
 # Signup night checklist
 
 <style>
+    body{font-size:11pt;}
     ul li {list-style-type: none;}
     ul li:before {margin:0;padding:0;font-size:2em;content: "\2610";}
-    ul {margin:0;padding:0;}
+    ul, li, ul li ul, ul li ul li {margin:0;padding:0;}
 @media print
 {
     main{margin:0;padding:0;}
