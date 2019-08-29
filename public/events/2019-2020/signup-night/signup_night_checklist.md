@@ -2,7 +2,13 @@
 
 <style>
     ul li {list-style-type: none;}
-    ul li:before {font-size:2em;content: "☐";}
+    ul li:before {font-size:2em;content: "\2610";}
+@media print
+{
+    main{margin:0;padding:0;}
+	header h1{font-size:50px;}
+	#foot_contact{display:none;}
+}
 </style>
 
 Inside the scout rooms we will have several stations to answer questions and try to speed you along through the sign-up. We want to try to get as much paper work done up front as we can so we don't have to ask to many questions latter in the year.
