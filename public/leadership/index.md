@@ -23,6 +23,51 @@ Below are some setup instructions.
 * [General Setup](https://help.dreamhost.com/hc/en-us/articles/214918038-Email-client-configuration-overview)
 * [Certificate Help](https://help.dreamhost.com/hc/en-us/articles/215306748-Certificate-domain-mismatch-error-when-connecting-to-a-DreamHost-mail-server)
 
+## Contact info ##
+
+Format for addresses:
+
+* den [1 or 2] asst# @cub306.org -> one leader
+* dens@cub306.org -> group email
+* den-leaders@cub306.org -> all leaders
+
+| Position | Name | Personal Email | Pack Email |
+| -------- | ---- | -------------- | ---------- |
+| Lions: | | | lion-leaders@cub306.org | 
+| Lion Den Leader | James Marthe | jmarthe1@gmail.com | lion@cub306.org |
+| &nbsp;
+| Tiger: | | | tiger-leaders@cub306.org |
+| Tiger Den Leader (b) | Katherine Peach | | tiger1@cub306.org
+| Tiger Den Leader (**g**) | Jennifer Horwath | jphorwath@gmail.com | tiger2@cub306.org |
+| Asst Tiger Den Leader (b) | Matthew Galeone | mgaleone@outlook.com | tiger1.asst1@cub306.org
+| &nbsp;
+| Wolf: | | | wolf-leaders@cub306.org |
+| Wolf Den Leader (b) | Eric Fielding | | wolf1@cub306.org
+| Asst Wolf Den Leader (b) | Greg Emrick | emrickg@gmail.com | wolf1.asst1@cub306.org
+| Asst Wolf Den Leader (b) | Ryan Horwath | ryan.horwath@gmail.com | wolf1.asst2@cub306.org
+| &nbsp;
+| Bear: | | | bear-leaders@cub306.org |
+| Bear Den Leader (b) | Eric Silva | | bear1@cub306.org
+| Asst. Bear Den Leader (b) | Wil Heslop | | bear1.asst1@cub306.org
+| &nbsp;
+| Webelos: | | | webelos-leaders@cub306.org
+| Webelos y1 Den Leader (b) | Melissa Cherry | | webelos1@cub306.org
+| Asst. Den Leader (b) | Thomas Cherry | thomas.cherry@gmail.com | webelos1.asst1@cub306.org
+| Arrow Of Light: | | | aol-leaders@cub306.org
+| Webelos y2 Den Leader (b) | Matt Straffin | | arrowoflight1@cub306.org
+
+
+Den parent emails
+
+| Den email |
+| -------- |
+| lions@cub306.org |
+| tigers@cub306.org |
+| wolfs@cub306.org |
+| bears@cub306.org |
+| webelos1@cub306.org |
+| webelos2@cub306.org |
+
 <!--
 ## Schedules ##
 
