@@ -69,11 +69,12 @@ class ReadIcal
                     text = "#{before}#{text}"
                 end
                 #un-escape things
-                text.sub! '\\\\', '\\'
-                text.sub! '\\;', ';'
-                text.sub! '\\,', ','
-                text.sub! '\\N', '\n'
-                text.sub! '\\n', '\n'
+                text.gsub! '\\;', ';'
+                text.gsub! '\\,', ','
+                text.gsub! '\,', ','
+                text.gsub! '\\N', '\n'
+                text.gsub! '\\n', '\n'
+                text.gsub! '\\\\', '\\'
                 lines << text
             end
         end
@@ -235,7 +236,7 @@ if __FILE__ == $PROGRAM_NAME
             description = details['description'] unless details['description'].nil?
             
             w = DateTime.parse details['start']
-            W = DateTime.parse details['stop']
+            #W = DateTime.parse details['stop']
             when_str = "#{w.strftime '%B %d'}"
             #when_str "#{w.strftime '%B %d - %I:%M'} to W.strftime '%I:%M'"
 
