@@ -1,20 +1,17 @@
 <!-- Title: Leadership -->
 
-<div id="toc"></div>
+[toc](toc)
 
 ## E-Mail ##
+The Pack News is run by an [Electronic mailing list](https://en.wikipedia.org/wiki/Electronic_mailing_list) run by software called [Mailman](http://www.list.org). We do not currently have an expert on running this kind of email system.
 
-The Pack News is run by an [Electronic mailing list](https://en.wikipedia.org/wiki/Electronic_mailing_list) run by software called [Mailman](http://www.list.org). We do not currently have an expert on running this kind of email system. We also offer [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol) Email address for leaders.
+| Mailing List Name | Manage | Brodcast Address | Join Address |
+| ----------------- | ------ | ---------------- | ------------ |
+| Pack Email list       | [Manage](http://lists.cub306.org/admin.cgi/talk-cub306.org/) | talk@cub306.org | talk-join@cub306.org |
+| Leadership Email list | [Manage](http://lists.cub306.org/admin.cgi/leadership-cub306.org/) | leadership@cub306.org | leadership-join@cub306.org |
 
-* The [Web Mail](https://webmail.cub306.org) interface
-* leadership discution list
-    * leadership-join@lists.cub306.org - *send email here*
-    * leadership@lists.cub306.org - *send email to join*
-    * [Manage](http://lists.cub306.org/admin.cgi/leadership-cub306.org/)
-* general discution and anouncments
-    * talk@cub306.org - *send email here*
-    * talk-join@lists.cub306.org - *send email to join*
-    * [Manage](http://lists.cub306.org/admin.cgi/talk-cub306.org)
+### Leader Emails ###
+We also offer [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol) Email address for leaders.
 
 ### Setting up email ###
 We use Dreamhost for our email and web hosting. They allow us to have unlimited IMAP email accounts.
@@ -24,6 +21,8 @@ Below are some setup instructions.
 * [Certificate Help](https://help.dreamhost.com/hc/en-us/articles/215306748-Certificate-domain-mismatch-error-when-connecting-to-a-DreamHost-mail-server)
 
 ## Contact info ##
+
+* The [Web Mail](https://webmail.cub306.org) interface
 
 Format for addresses:
 
@@ -59,30 +58,44 @@ Format for addresses:
 
 Den parent emails
 
-| Den email |
-| -------- |
-| lions@cub306.org |
-| tigers@cub306.org |
-| wolfs@cub306.org |
-| bears@cub306.org |
-| webelos1@cub306.org |
-| webelos2@cub306.org |
+| Den     | Den email               | Join Email |
+| ------- | ----------------------- | ----------------------- |
+| Lions   | lions@cub306.org        | lions-join@cub306.org   |
+| Tigers  | tigers@cub306.org       | tigers-join@cub306.org  |
+| Wolfs   | wolfs@cub306.org        | wolfs-join@cub306.org   |
+| Bears   | bears@cub306.org        | bears-join@cub306.org   |
+| Webelos | webelos@cub306.org      | webelos-join@cub306.org |
+| AOL     | arrowoflight@cub306.org | arrowoflight-join@cub306.org |
 
-<!--
-## Schedules ##
+## Lion Mailing Lists
+* http://lists.cub306.org/admin.cgi/lions-cub306.org
+* http://lists.cub306.org/admin.cgi/lions-cub306.org/members/add
+* http://lists.cub306.org/admin.cgi/lions-cub306.org/members/list
 
-Here is a list of known dates when people will not be able to attend events. Please let the [Cub Master](mailto:cubmaster@cub306.org) know if something will prevent you from covering a Den meeting. We will will use this list to make sure we are double covered for your Den.
+## Tiger Mailing Lists
+* http://lists.cub306.org/admin.cgi/tigers-cub306.org
+* http://lists.cub306.org/admin.cgi/tigers-cub306.org/members/add
+* http://lists.cub306.org/admin.cgi/tigers-cub306.org/members/list
 
-| Name      | Date  | Note | Covered |
-| --------- | ----- | ---- | ------- |
-| Thomas C. | 09/11 | work | Eric S.
-| Eric S.   | 09/19 | work | Wil H.
-| Eric S.   | 10/24 | work | Pack Meeting
-| Eric S.   | 11/21 | work | Wil H.
-| Eric S.   | 12/19 | work | Pack Meeting
- 
-At this time there are no outages that need coverage.
--->
+## Wolf Mailing Lists
+* http://lists.cub306.org/admin.cgi/wolfs-cub306.org
+* http://lists.cub306.org/admin.cgi/wolfs-cub306.org/members/add
+* http://lists.cub306.org/admin.cgi/wolfs-cub306.org/members/list
+
+## Bear Mailing Lists
+* http://lists.cub306.org/admin.cgi/bears-cub306.org
+* http://lists.cub306.org/admin.cgi/bears-cub306.org/members/add
+* http://lists.cub306.org/admin.cgi/bears-cub306.org/members/list
+
+## Webelos Mailing Lists
+* http://lists.cub306.org/admin.cgi/webelos-cub306.org
+* http://lists.cub306.org/admin.cgi/webelos-cub306.org/members/add
+* http://lists.cub306.org/admin.cgi/webelos-cub306.org/members/list
+
+## Arrow Of Light Mailing Lists
+* http://lists.cub306.org/admin.cgi/arrowoflight-cub306.org
+* http://lists.cub306.org/admin.cgi/arrowoflight-cub306.org/members/add
+* http://lists.cub306.org/admin.cgi/arrowoflight-cub306.org/members/list
 
 ## Tools ##
 * [Family Scouting](https://www.scouting.org/familyscouting/)
