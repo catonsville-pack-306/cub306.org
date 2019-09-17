@@ -47,11 +47,16 @@ Can add current ISO date and time with the "now" function
 
 ## Running on a Mac ##
 
-Make the following changes to apache:
+Make the following changes to the apache config file :
 
+    ...
     LoadModule cgi_module libexec/apache2/mod_cgi.so
-    #ScriptAliasMatch...
+    LoadModule actions_module libexec/apache2/mod_actions.so
+    ...
+    #ScriptAliasMatch...    #yes remove this
+    ...
     AddHandler cgi-script .cgi
+    ...
     Include /private/etc/apache2/vhosts/*.conf
     
 Then create and edit the following file:
@@ -90,6 +95,7 @@ Apache may not find the gems installed for your user account, so you can try to 
 
     cd /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin
     sudo ./gem install redcarpet
+    sudo ./gem install rqrcode
     
 In other cases, such as on a hosting service, you may nat be able to install gems in this way. For these cases, you will need to use a "wrapper" such as [qrc.cgi](public/cgi-bin/qrc.cgi). Here the idea is to set the gem path and then call ruby:
 

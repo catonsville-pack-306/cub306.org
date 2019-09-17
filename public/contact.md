@@ -41,6 +41,11 @@ You can also email us directly with one of the following emails:
 | Events Coordinator  | Tracy Soltesz   | [events@cub306.org](mailto:events@cub306.org) |
 | Events Coordinator  | Dawn Wolfe | pending |
 
+----
+
+So do you know what [slack](https://slack.com) is, well we have an account and we would like to try it out with everyone:
+[<i class="fab fa-slack-hash"></i>Pack 306 Slack](https://cubscoutpack306.slack.com/)
+
 <!--
 | Lion	| Matthew Galeone pending | pending | 
 -->
