@@ -45,9 +45,6 @@
 
 [toc](toc)
 
-![Tigers][tigers]
-<br style="clear:both">
-
 Visit [us](https://goo.gl/maps/4m8ACB65TAn), meet our Scouts and [Leaders](/contact.md). For information on joining you can send an email to us.
 
 [join][join].
