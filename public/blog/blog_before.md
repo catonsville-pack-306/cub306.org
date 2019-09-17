@@ -14,10 +14,13 @@ img[alt='tigers']
 <br style="clear:both">
 -->
 
+<!--
 Currently we are in **summer mode** and we will only be meeting once a month. weekly meetings will begine in September.
+-->
 
 </article>
 
+Catonsville Cub Scout Pack 306
 
 * When we meet:
     * We meet Wednesday Nights 7-8 pm at Catonsville Presbyterian Church between the first Wednesday of September and the last Wednesday of May.
