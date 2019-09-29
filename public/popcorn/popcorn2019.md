@@ -35,7 +35,7 @@ For more information on Popcorn please email [Tracy Soltesz](mailto:popcorn@cub3
 ----
 
 * QR code to Prizes
-	* ![prices](images/Prizes.qr.png)
+	* ![prices](images/qr.Prizes.png)
 * QR code to Trails End Web Site
-	* ![prices](images/TrailsEnd.qr.png)
+	* ![prices](images/qr.TrailsEnd.png)
 
