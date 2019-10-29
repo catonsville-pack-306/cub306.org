@@ -235,6 +235,9 @@ if __FILE__ == $PROGRAM_NAME
             end
             description = details['description'] unless details['description'].nil?
             
+            description.gsub! '\n', '
+'
+            
             w = DateTime.parse details['start']
             #W = DateTime.parse details['stop']
             when_str = "#{w.strftime '%B %d'}"

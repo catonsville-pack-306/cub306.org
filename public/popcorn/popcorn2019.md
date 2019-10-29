@@ -1,7 +1,9 @@
-<style>p img{height:100vh}</style>
+<style>p img[alt="An example view of the left navigation menu in Trails End"]{height:100vh}</style>
 
 ## Popcorn Fundraiser 2019 ##
 ![An example view of the left navigation menu in Trails End](images/example_left_menu-2019.png)
+
+![popcorn sales](images/lpop_200.png)
 
 Popcorn Sales Begin in August! Please take a moment to follow the steps below and prepare for a fun, easy season.
 

@@ -58,14 +58,14 @@ Format for addresses:
 
 Den parent emails
 
-| Den     | Den email               | Join Email |
-| ------- | ----------------------- | ----------------------- |
-| Lions   | lions@cub306.org        | lions-join@cub306.org   |
-| Tigers  | tigers@cub306.org       | tigers-join@cub306.org  |
-| Wolfs   | wolfs@cub306.org        | wolfs-join@cub306.org   |
-| Bears   | bears@cub306.org        | bears-join@cub306.org   |
-| Webelos | webelos@cub306.org      | webelos-join@cub306.org |
-| AOL     | arrowoflight@cub306.org | arrowoflight-join@cub306.org |
+| Den     | Used | Den email               | Join Email                   | Leave Email |
+| ------- | ---- | ----------------------- | ---------------------------- | ----------- |
+| Lions   |      | lions@cub306.org        | lions-join@cub306.org        | lions-leave@cub306.org |
+| Tigers  | Yes  | tigers@cub306.org       | tigers-join@cub306.org       | tigers-leave@cub306.org |
+| Wolfs   |      | wolfs@cub306.org        | wolfs-join@cub306.org        | wolfs-leave@cub306.org |
+| Bears   | No   | bears@cub306.org        | bears-join@cub306.org        | bears-leave@cub306.org |
+| Webelos | No   | webelos@cub306.org      | webelos-join@cub306.org      | webelos-leave@cub306.org |
+| AOL     |      | arrowoflight@cub306.org | arrowoflight-join@cub306.org | arrowoflight-leave@cub306.org |
 
 ## Lion Mailing Lists
 * http://lists.cub306.org/admin.cgi/lions-cub306.org
