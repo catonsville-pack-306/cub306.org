@@ -1,5 +1,4 @@
-1. [Fall Campout](http://cub306.org/events/2019-2020/fall_campout/)
-1. [Popcorn](http://cub306.org/popcorn/popcorn2019.md)
+1. [Pinewood Derby](/events/2019-2020/pinewood-derby/)
 
 ----
 
