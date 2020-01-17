@@ -1,15 +1,26 @@
 <!-- Title: Pinewood Derby -->
 # <i class="fas fa-car-side"></i> Pinewood Derby #
 
-<span style="color:red">NOTE: <i class="fas fa-tools"></i> this page is under construction!!!!!!!!!!!!!! <i class="fas fa-tools"></i></span>
-
+<style>
+img[alt='QR Code to Rules']
+{
+float:right;
+margin:0;
+padding:0;
+}
+</style>
 [toc](toc)
 
 ## <i class="fas fa-pencil-ruler"></i> Rules ##
 
+![QR Code to Rules](https://cub306.org/cgi-bin/qrc.cgi?path=/events/2019-2020/pinewood-derby/rules.md&size=128)
 Cars must follow the rules or they will not be accepted. Cars may also not come into contact with other cars and may be removed from racing if we can not make accommodations. Please avoid adding to many decorations on the sides of the cars.
 
 * [Official Race Car Rules](rules.md)
+
+
+
+<br style="clear:both">
 
 Cars should be built by the scout according to their age. As scouts age up, they should be taking more control over their car. Webelos should be doing everything, on the other end Lions will need help with everything. Bear and up should be able to use tools. Tiger and Wolf will need supervision. No one runs a power tool.
 
@@ -37,9 +48,24 @@ Race day starts at 9:00 AM on the 22th (Saturday) and will go till Noon or until
 This section to be finalized in the next couple of days
 
 * Voted by attendees
-    * ~~Not a Car~~
-    * ~~Cub Scout Theme~~
-    * ~~Scout Choice~~
-    * ~~Futuristic~~
-    * ~~Scariest~~
-* Leader's Choice
+    * <i class="fas fa-paw"></i> Cub Scout Theme
+    * <i class="fas fa-space-shuttle"></i> Futuristic
+    * <i class="fas fa-horse"></i> Not a Car
+    * <i class="fas fa-ghost"></i> Scariest
+    * <i class="fas fa-users"></i> Scout Choice
+
+## Resources ##
+* [Print Flyer](PinewoodDerbyFlyer2020.pdf)
+* [EASY Pinewood Derby Car WINS using Science!!!](https://www.youtube.com/watch?v=-RjJtO51ykY) - youtube
+
+----
+
+<i class="fas fa-tree"></i>
+<i class="fas fa-arrow-right"></i>
+<i class="fas fa-cube"></i>
+<i class="fas fa-arrow-right"></i>
+<i class="fas fa-car-side"></i>
+<i class="fas fa-arrow-right"></i>
+<i class="fas fa-stopwatch"></i>
+<i class="fas fa-arrow-right"></i>
+<i class="fas fa-trophy"></i>
