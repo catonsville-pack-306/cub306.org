@@ -13,7 +13,7 @@ padding:0;
 
 ## <i class="fas fa-pencil-ruler"></i> Rules ##
 
-![QR Code to Rules](https://cub306.org/cgi-bin/qrc.cgi?path=/events/2019-2020/pinewood-derby/rules.md&size=128)
+![QR Code to Rules](/cgi-bin/qrc.cgi?size=128&path=events/2019-2020/pinewood-derby/rules.md)
 Cars must follow the rules or they will not be accepted. Cars may also not come into contact with other cars and may be removed from racing if we can not make accommodations. Please avoid adding to many decorations on the sides of the cars.
 
 * [Official Race Car Rules](rules.md)
