@@ -37,7 +37,7 @@ class ReadIcal
     EVENTS_FILE = 'public/events/events.ics'
 
     FILE_TEMPLATE = %q{
-## <%=icon%> <%=date%> - <%=summary%> ##
+## <%=icon%> <%=date%> - <%=summary%>
 
 <%=description%>
 
@@ -152,11 +152,23 @@ class ReadIcal
             item.each do |key, value|
                 if key.start_with? "DTSTART"
                     details['start'] = value
-                    details['start_date'] = Date.parse value unless value.nil?
+                    unless value.nil?
+                        if value.end_with?("Z")
+                            details['start_date'] = DateTime.parse(value).new_offset('-5')
+                        else
+                            details['start_date'] = Date.parse value unless value.nil?
+                        end
+                    end
                 end
                 if key.start_with? "DTEND"
                     details['stop'] = value
-                    details['stop_date'] = Date.parse value unless value.nil?
+                    unless value.nil?
+                        if value.end_with?("Z")
+                            details['end_date'] = DateTime.parse(value).new_offset('-5')
+                        #else
+                            #details['stop_date'] = Date.parse value unless value.nil?
+                        end
+                    end
                 end
                 if key == "SUMMARY"
                     details['summary'] = value
@@ -187,6 +199,10 @@ class ReadIcal
             end
         end
     end
+
+    def format_date (raw)
+        raw.strftime("%m-%d %I:%M%P")
+    end
 end
 
 # ******************************************************************************
@@ -202,12 +218,20 @@ if __FILE__ == $PROGRAM_NAME
     reader.events do |details|
         date = ""
         if details['start_date'] == details['end_date']
-            date = "#{details['start_date']}"
+            if details['start_date'].to_s.include? "T"
+                date = "#{details['start_date'].strftime("%Y-%m-%d %I:%M%P")}"
+            else
+                date = "#{details['start_date']}"
+            end
         else
-            date = "#{details['start_date']} to #{details['end_date']}\n"
+            if details['start_date'].to_s.include? 'T'
+                date = "#{details['start_date'].strftime("%Y-%m-%d %I:%M%P")} to #{details['end_date'].strftime("%I:%M%P")}\n"
+            else
+                date = "#{details['start_date']} to #{details['end_date']}\n"
+            end
         end
         
-        base_file_name = "#{details['show_date']}-to-#{details['hide_date']}.md"
+        base_file_name = "#{details['show_date'].to_s[0..9]}-to-#{details['hide_date'].to_s[0..9]}.md"
         file_name = "#{destination}/calendar-#{base_file_name}"
         alt_file_name = "#{destination}/#{base_file_name}"
         if File.file?(alt_file_name)
