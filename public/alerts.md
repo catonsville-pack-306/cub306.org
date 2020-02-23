@@ -1,4 +1,4 @@
-1. [Pinewood Derby](/events/2019-2020/pinewood-derby/)
+1. [Race Results](/events/2019-2020/pinewood-derby/results/results.md)
 
 ----
 
