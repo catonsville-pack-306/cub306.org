@@ -35,7 +35,7 @@ page_counts ()
 {
     log_path="${1}"
     alt_path="${2}"
-    "Top 20 Page Counts:"
+    echo "Top 20 Page Counts:"
     cat "${log_path}" "${alt_path}" \
         | grep ' 200 ' \
         | grep -v '\.css' \
