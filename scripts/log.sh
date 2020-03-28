@@ -19,8 +19,9 @@ visitor_counts ()
 {
     log_path="${1}"
     alt_path="${2}"
+    echo "Top 20 Visitor Counts:"
     cat "${log_path}" "${alt_path}" \
-        grep ' 200 ' \
+        | grep ' 200 ' \
         | grep -v '\.css' \
         | grep -v '\.js' \
         | awk '{print $1}' \
@@ -34,6 +35,7 @@ page_counts ()
 {
     log_path="${1}"
     alt_path="${2}"
+    "Top 20 Page Counts:"
     cat "${log_path}" "${alt_path}" \
         | grep ' 200 ' \
         | grep -v '\.css' \
@@ -49,6 +51,7 @@ email_counts ()
 {
     log_path="${1}"
     alt_path="${2}"
+    echo "Top 20 Email Counts"
     cat "${log_path}" "${alt_path}" \
         | grep -o '/images/PackLogo_.*\?\w\sHTTP' "${log_path}" \
         | sed 's/HTTP//' \
@@ -60,7 +63,7 @@ email_counts ()
 
 work()
 {
-    echo done
+    echo EOL
 }
 
 while getopts "cehl:L:ps" opt; do
