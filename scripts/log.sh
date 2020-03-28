@@ -41,6 +41,7 @@ page_counts ()
         | grep -v '\.css' \
         | grep -v '\.js' \
         | gawk 'BEGIN { FPAT="([^ ]+)|(\"[^\"]+\")|(\\[[^\\]]+\\])" } { print $5 }' \
+        | sed 's/ HTTP\/1\.1//' \
         | sort \
         | uniq -c \
         | sort --numeric-sort --reverse \
