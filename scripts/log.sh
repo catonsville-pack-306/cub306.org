@@ -3,6 +3,7 @@
 LOG_MAIN=~/logs/cub306.org/http/access_log
 LOG_DEV=~/logs/develop.cub306.org/http/access_log
 log="${LOG_MAIN}"
+log2="${LOG_DEV}"
 
 help()
 {
@@ -17,7 +18,9 @@ help()
 visitor_counts ()
 {
     log_path="${1}"
-    grep ' 200 ' "${log_path}" \
+    alt_path="${2}"
+    cat "${log_path}" "${alt_path}" \
+        grep ' 200 ' \
         | grep -v '\.css' \
         | grep -v '\.js' \
         | awk '{print $1}' \
@@ -30,7 +33,9 @@ visitor_counts ()
 page_counts ()
 {
     log_path="${1}"
-    grep ' 200 ' "${log_path}" \
+    alt_path="${2}"
+    cat "${log_path}" "${alt_path}" \
+        | grep ' 200 ' \
         | grep -v '\.css' \
         | grep -v '\.js' \
         | gawk 'BEGIN { FPAT="([^ ]+)|(\"[^\"]+\")|(\\[[^\\]]+\\])" } { print $5 }' \
@@ -43,16 +48,14 @@ page_counts ()
 email_counts ()
 {
     log_path="${1}"
-    grep -o '/images/PackLogo_.*\?\w\sHTTP' "${log_path}" \
+    alt_path="${2}"
+    cat "${log_path}" "${alt_path}" \
+        | grep -o '/images/PackLogo_.*\?\w\sHTTP' "${log_path}" \
         | sed 's/HTTP//' \
         | sort \
         | uniq -c \
         | sort --numeric-sort --reverse \
         | head -n 20
-
-#grep 'GET /images/PackLogo_' ~/logs/cub306.org/https/access.log | sort | grep -o '/images/PackLogo_.*\?\w\sHTTP' | sed 's/HTTP//' |  uniq -c | sort --numeric-sort --reverse
-
-
 }
 
 work()
@@ -60,18 +63,18 @@ work()
     echo done
 }
 
-while getopts "cehl:ps" opt; do
-    # OPTARG - not used yet
+while getopts "cehl:L:ps" opt; do
     case $opt in
-        c) visitor_counts "${log}" ;;
-        e) email_counts "${log}" ;;
-        p) page_counts "${log}" ;;
+        c) visitor_counts "${log}" "${log2}" ;;
+        e) email_counts "${log}" "${log2}" ;;
+        p) page_counts "${log}" "${log2}" ;;
         s) echo '----' ;;
         h)
             help
             exit 0
             ;;
         l) log="${OPTARG}" ;;
+        L) log2="${OPTARG}" ;;
         *)
             printf "invalid options\n"
             help
