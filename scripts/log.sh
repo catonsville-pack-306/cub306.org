@@ -40,6 +40,7 @@ page_counts ()
         | grep ' 200 ' \
         | grep -v '\.css' \
         | grep -v '\.js' \
+        | grep -v '\.png' \
         | gawk 'BEGIN { FPAT="([^ ]+)|(\"[^\"]+\")|(\\[[^\\]]+\\])" } { print $5 }' \
         | sed 's/ HTTP\/1\.1//' \
         | sort \
