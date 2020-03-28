@@ -26,7 +26,7 @@ page_counts ()
     log_path=$1
     #grep ' 200 ' "${log_path}"
     grep ' 200 ' "${log_path}" \
-        | awk 'BEGIN { FPAT="([^ ]+)|(\"[^\"]+\")|(\\[[^\\]]+\\])" } { print $5 }'
+        | awk 'BEGIN { FPAT="([^ ]+)|(\"[^\"]+\")|(\\[[^\\]]+\\])" } { print $5 }' \
         | sort \
         | uniq -c
 }
