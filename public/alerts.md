@@ -1,6 +1,5 @@
-1. [Coronavirus](/blog/2020-03-12-to-2020-03-31.md)
-1. [Lattest Email](/announcements/2019-2020/2020-03-18.md)
-1. [Race Results](/events/2019-2020/pinewood-derby/results/results.md)
+1. [Coronavirus](/events/2019-2020/covid/)
+1. [Latest Email](/announcements/2019-2020/2020-04-22.md)
 
 ----
 
