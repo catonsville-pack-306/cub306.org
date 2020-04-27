@@ -1,4 +1,4 @@
-## <i class="fas fa-hand-holding-heart"></i> Music
+## <i class="fas fa-guitar"></i> Music
 
 <style>
 [alt=sears]{width:500px;}
@@ -14,7 +14,7 @@ She also write profoundly personal, poetic, percussive original songs, intended 
 
 You can see more from this artist on iTunes, youtube, and facebook.
 
-* [Facebook](https://www.facebook.com/acaciasearsband/)
-* [Youtube](https://www.youtube.com/user/acaciasears/videos)
-* [iTunes](https://music.apple.com/us/artist/acacia-sears/160884724)
+* [<i class="fab fa-facebook-square"></i> Facebook](https://www.facebook.com/acaciasearsband/)
+* [<i class="fab fa-youtube-square"></i> Youtube](https://www.youtube.com/user/acaciasears/videos)
+* [<i class="fab fa-itunes"></i> iTunes](https://music.apple.com/us/artist/acacia-sears/160884724)
 
