@@ -65,7 +65,7 @@ Tiger Den Leaders (Boy and Girl Dens)</td> <td>Den</td>
 
 <tr>
 <td>
-<img width="64" src="images/dens/Tiger.png"><br>
+<img width="64" src="images/dens/tiger.png"><br>
 Assistant Tiger Den Leaders (Boy and Girl Dens)</td> <td>Den</td>
 <td>
 <ul>
@@ -77,7 +77,7 @@ Assistant Tiger Den Leaders (Boy and Girl Dens)</td> <td>Den</td>
 
 <tr>
 <td>
-<img width="64" src="images/dens/Wolf.png"><br>
+<img width="64" src="images/dens/wolf.png"><br>
 Wolf Assistant Den Leader</td> <td>Den</td>
 <td>
 <ul>
