@@ -44,74 +44,87 @@ We understand that everyone is busy and we are working hard to break up tasks in
 ## <i class="fas fa-sign-in-alt"></i> How to volunteer ##
 
 1. Contact [cubmaster@cub360.org](mailto:cubmaster@cub360.org) or [comchair@cub306.org](mailto:comchair@cub306.org)
-1. Attend parent meetings
+1. Attend leader meetings
 	* Second Thursday every month
 	* [Catonsville Presbyterian Church](http://www.catonsvillepresb.org/)
 1. Take the [Youth Protection](https://www.scouting.org/training/youth-protection/) training. We must train and register all adults in [Scout Book](https://www.scoutbook.com) even if they are not expected to have direct contact with scouts (committee members for example).
 
 ## <i class="fas fa-binoculars"></i> Unfilled Positions ##
-Many of these rolls are currently handled by existing leaders, however a
-dedicated person would provided better service to all. Many of these are not
-full time positions requiring the holder to attend every meeting.
 
-### <i class="fas fa-user-plus"></i> New Member Coordinator ###
+### Den Leaders
+
+Requirements
+
+* Plan and Run Den meetings delegating to assistants when possible
+* Attend Leader Meetings once a month
+* Provided Award lists to Advancement Chair
+* Award achievements to Scouts
+
+#### Lion and Tiger Den Leaders
+Every year we need to find a new Lion Coordinator and Tiger Den Leaders as these age groups are when many scouts join.All den leaders are asked to help manage the awards lists and to hand out awards in meetings.
+
+* Lion Coordinator - kindergarten
+* Tiger **Den** Leaders - First graders
+
+#### Other Dens
+
+* Wolf Assistant Den Leaders (two) - Second graders
+* Bear Assistant Den Leader (one) - Third graders
+
+### Pack Leaders 
+
+#### <i class="fas fa-binoculars"></i> Fund Raising Committee member
+
+Job Description:
+
+* Assist Committee Chair with fund raising events
+* Help with Social Media Accounts
+
+#### <i class="fas fa-user-plus"></i> New Member Coordinator
+
 Job Description:
 
 * Greet new members and describe key information (calendars, contact lists, ...)
 * Help Setup and Assist at Back to School Nights
 * Check on application progress and update scout book
-* Promote recruitment and award "Recruter" badges
+* Promote recruitment and award "Recruiter" badges
 
-### <i class="far fa-check-square"></i> ~~<i class="fas fa-medal"></i> Unit Advancement Chair~~ ###
+#### <i class="far fa-check-square"></i> <i class="fas fa-calendar-alt"></i> Events/Party Coordinator
 
-<span style="color:red">Filled by Sparky Zivin</span>
-
-~~Job Description:~~
-
-* ~~Keep track of Den progress~~
-* ~~Manage and Advice on Scout Book Software~~
-* ~~Generate Award Shopping list for leadership team~~
-* ~~Purchase Awards from Scout Shop, distribute to Den leaders~~
-
-### <i class="far fa-check-square"></i> ~~<i class="fas fa-calendar-alt"></i> Events/Party Coordinator~~ ###
-<span style="color:red">Filled by Tracy Soltesz</span>
-
-~~Job Description:~~
-
-* ~~Assist and organize field trips for Pack or Dens~~
-* ~~Manage Pack Calendar~~
-* ~~Plan and organize or delegate~~
-    * ~~Holiday Party~~
-    * ~~Pinewood Durby~~
-    * ~~Blue & Gold~~
-    * ~~"We Remember"~~
-    * ~~Last Meeting~~
-
-### <i class="far fa-check-square"></i> ~~Social Media Manager~~ ###
-<span style="color:red">Filled by Tracy Soltesz</span>
-
-~~Job Description:~~
-
-* ~~Manage Facebook~~
-* ~~Manage Mailing Lists~~
-* ~~Collect and maintain talent release status on scouts~~
-* ~~Take/collect pictures at events~~
-* ~~Create end of year slide show~~
-
-### <i class="fas fa-user-md"></i> Health Form Manager ###
 Job Description:
 
-* Collect health forms
-* Advice the pack on how to manage Health forms
-* Maintain a list of known allergies and other health concerns
+* Assist and organize field trips for Pack or Dens
+* Manage Pack Calendar
+* Plan and organize or delegate
+    * Holiday Party
+    * Pinewood Durby
+    * Blue & Gold
+    * "We Remember"
+    * Last Meeting
 
-### <i class="fas fa-leaf"></i> Outdoor Ethics Guide ###
+
+#### <i class="fas fa-user-md"></i> Health and Safety Officer
+
+We were calling this a health forms manager, but with all that is going on in the world we are expanding this role to include all Health and Safety issues. Role is an advisory position to help guide the Pack as we navigate our new world.
+
+Job Description:
+
+* Assist with making in-person events safe
+* Collect and maintain BSA health forms
+* Maintain a list of known allergies and other health concerns
+* Attend events and assist with safety policies (hand washing station, ...)
+
+#### <i class="fas fa-leaf"></i> Outdoor Ethics Guide
 <!--Global warming and environmental change will impact the youth more than adults.
 Help focus scouts on positive age appropriate actions that can be taken to protect
 the environment, fight global warming, and disseminate knowledge amongst their
 peers. Many of todays youth want to take action for the environment but do not
 know how to start. BSA is uniquely positioned to create future leaders
 and it is up to us to guide them on their path.-->
+
+Like we do with the Nova Award, we would like someone to coordinate across the pack to help our Scouts earn the World Conservation Award.
+
+<span style="color:red">Open</span>
 
 Job Description:
 
@@ -120,19 +133,39 @@ Job Description:
 * Coordinate Conservation Service Projects (primarily with Church)
 * Encourage and Assist Scouts to earn the [Cub Scout World Conservation Award][cons_award_req]
 
+#### Committee Members at Large
+* Attend Leader Meetings once a month and take on projects/events from time to time
+
 ### Other Jobs ###
 
 Don't see something you like, want to contribute in a different way....
 
 ----
 
-## Rolls needing a leader/Coordinator ##
+## Events needing a leader/Coordinator
 
-* ~~CPC Service Project Coordinator ( November 24, 2018)~~
-* ~~Holiday Party (December, 2018) - December 19, 2018~~
-* ~~Pinewood Durby Coordinator (~ Febuary 23, 2019)~~
-* ~~Blue & Gold Dinner Coordinator (~ March 23, 2019)~~
-* "We Remember Flags" Coordinator (May 24, 2019)
+* CPC Service Project Coordinator (November)
+* Laser Tag (November)
+* Holiday Party (December)
+* Snow Tubing (January)
+* Pinewood Durby Coordinator (~ February)
+* Blue & Gold Dinner Coordinator (March)
+* "We Remember Flags" Coordinator (May)
+
+## Filled Positions
+* Pack Leaders
+    * Committee Chair - Melissa Cherry
+    * Cub Master - Thomas Cherry
+    * Assistant Cub Master - Eric Silva
+    * Treasure - Eric Silva (tentative)
+    * Fund Raising Chair - Tracy
+    * Advancement Coordinator - Sparky Zivin
+    * Camping Coordinator - Wil
+    * Assistant Camping Coordinator - Dustin MacBraye (tentative)
+* Dens Leaders
+    * Wolf 1 - Kat Peach
+    * Wolf 2 - Jen Horwath
+    * Wolf Assistant 
 
 [cons_award_req]: https://filestore.scouting.org/filestore/cubscouts/pdf/512-036_WB.pdf
 [two_deep]: https://scoutingwire.org/marketing-and-membership-hub/social-media/youthprotection/ (Two Deep Leadership)
