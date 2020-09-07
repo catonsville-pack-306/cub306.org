@@ -16,12 +16,12 @@ header
 
 header h2
 {
-    background-image:url(/images/dens/arrowoflightinsignia.png);
+    /*background-image:url(/images/dens/arrowoflightinsignia.png);
     opacity: 0.5;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-origin: content-box, padding-box;
-    position : center;
+    position : center;*/
     margin:0;
     margin-left:1em;
 }
