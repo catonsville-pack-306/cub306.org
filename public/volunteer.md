@@ -44,14 +44,16 @@ We understand that everyone is busy and we are working hard to break up tasks in
 ## <i class="fas fa-sign-in-alt"></i> How to volunteer ##
 
 1. Contact [cubmaster@cub360.org](mailto:cubmaster@cub360.org) or [comchair@cub306.org](mailto:comchair@cub306.org)
-1. Attend leader meetings
-	* Second Thursday every month
-	* [Catonsville Presbyterian Church](http://www.catonsvillepresb.org/)
-1. Take the [Youth Protection](https://www.scouting.org/training/youth-protection/) training. We must train and register all adults in [Scout Book](https://www.scoutbook.com) even if they are not expected to have direct contact with scouts (committee members for example).
+1. Attend leader meetings on the Second Thursday every month
+1. Fill out an adult application - [Adult Application][adult_app]
+1. Pay Dues - [Web Store][adult_dues]
+1. Take the [Youth Protection](https://www.scouting.org/training/youth-protection/) training. We must train and register all adults in [Scout Book](https://www.scoutbook.com) even if they are not expected to have direct contact with scouts.
 
 ## <i class="fas fa-binoculars"></i> Unfilled Positions ##
 
 ### Den Leaders
+
+<span style="color:red">Open</span>
 
 Requirements
 
@@ -68,6 +70,9 @@ Every year we need to find a new Lion Coordinator and Tiger Den Leaders as these
 
 #### Other Dens
 
+<span style="color:red">Open</span>
+
+* Tiger Assistent Den Leaders (two) - First graders
 * Wolf Assistant Den Leaders (two) - Second graders
 * Bear Assistant Den Leader (one) - Third graders
 
@@ -82,6 +87,8 @@ Job Description:
 
 #### <i class="fas fa-user-plus"></i> New Member Coordinator
 
+<span style="color:red">Open</span>
+
 Job Description:
 
 * Greet new members and describe key information (calendars, contact lists, ...)
@@ -89,6 +96,7 @@ Job Description:
 * Check on application progress and update scout book
 * Promote recruitment and award "Recruiter" badges
 
+<!--
 #### <i class="far fa-check-square"></i> <i class="fas fa-calendar-alt"></i> Events/Party Coordinator
 
 Job Description:
@@ -101,11 +109,13 @@ Job Description:
     * Blue & Gold
     * "We Remember"
     * Last Meeting
-
+-->
 
 #### <i class="fas fa-user-md"></i> Health and Safety Officer
 
 We were calling this a health forms manager, but with all that is going on in the world we are expanding this role to include all Health and Safety issues. Role is an advisory position to help guide the Pack as we navigate our new world.
+
+<span style="color:red">Open</span>
 
 Job Description:
 
@@ -152,21 +162,8 @@ Don't see something you like, want to contribute in a different way....
 * Blue & Gold Dinner Coordinator (March)
 * "We Remember Flags" Coordinator (May)
 
-## Filled Positions
-* Pack Leaders
-    * Committee Chair - Melissa Cherry
-    * Cub Master - Thomas Cherry
-    * Assistant Cub Master - Eric Silva
-    * Treasure - Eric Silva (tentative)
-    * Fund Raising Chair - Tracy
-    * Advancement Coordinator - Sparky Zivin
-    * Camping Coordinator - Wil
-    * Assistant Camping Coordinator - Dustin MacBraye (tentative)
-* Dens Leaders
-    * Wolf 1 - Kat Peach
-    * Wolf 2 - Jen Horwath
-    * Wolf Assistant 
-
+[adult_dues]: https://cub306.square.site/leader-dues "Adult Dues Payment Site"
+[adult_app]: https://filestore.scouting.org/filestore/pdf/524-501.pdf "Adult Application"
 [cons_award_req]: https://filestore.scouting.org/filestore/cubscouts/pdf/512-036_WB.pdf
 [two_deep]: https://scoutingwire.org/marketing-and-membership-hub/social-media/youthprotection/ (Two Deep Leadership)
 

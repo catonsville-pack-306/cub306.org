@@ -19,16 +19,14 @@ What is cub scouts and what do we do? Games, activities, crafts, STEM, leadershi
 ## Links ##
 
 * [Scouting](https://www.scouting.org)
-    * [Baltimore Area Council](http://www.baltimorebsa.org)
-        * [Arrow Head District](http://www.baltimorebsa.org/2409)
+    > [Baltimore Area Council](http://www.baltimorebsa.org)
+    > [Arrow Head District](http://www.baltimorebsa.org/2409)
 * [Scout Book](https://www.scoutbook.com)
-    * [iOS](https://itunes.apple.com/us/app/scouting/id1218464473?mt=8)
-    * [Google Play](https://play.google.com/store/apps/details?id=com.bsa.sbm&hl=en)
-* Scout training
-    * [Cyber Chip](https://www.scouting.org/training/youth-protection/cyber-chip/)
+    > [iOS](https://itunes.apple.com/us/app/scouting/id1218464473?mt=8)
+    > [Google Play](https://play.google.com/store/apps/details?id=com.bsa.sbm&hl=en)
 * [Local Scout Shops][shops]
-    * [7502 Connelley Dr, Hanover, MD 21076][shop_map]
-    * [5 Bel Air S Pkwy J1009, Bel Air, MD 21015][shop_map_2]
+    > [7502 Connelley Dr, Hanover, MD 21076][shop_map]
+    > [5 Bel Air S Pkwy J1009, Bel Air, MD 21015][shop_map_2]
 <br clear="both">
 
 <!-- image links -->
