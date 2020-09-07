@@ -69,7 +69,9 @@ Cub Scouts is broken down into "Dens" by grade and given names:
 ![Pine Wood Derby][cars]
 ![A Pine Wood Derby Winner][win]
 
-We meet every Wednesday during the school year and once a month durring the summer. In our weekly Den meetings scouts learn citizenship, character, and leadership. Once a month we also meet as a whole Pack. These Pack Meetings
+We meet every Wednesday during the school year and once a month durring the summer. In our weekly Den meetings scouts learn citizenship, character, and leadership. Once a month we also meet as a whole Pack. These are called Pack Meetings.
+
+NOTE: we are currently meeting on line for the first half of the year, however our plans will change quickly if the world improves. See our [Covid News](/events/2020-2021/covid/) page for details.
 <br style="clear:both">
 
 ![Pack Meeting][pack]
@@ -85,6 +87,7 @@ We meet every Wednesday during the school year and once a month durring the summ
 * Conservation Projects
 * Field Trips
 
+
 <br style="clear:both">
 
 ### <i class="fas fa-campground"></i> Camping ###
@@ -96,12 +99,12 @@ Twice a year we do "family camping". These take place in the fall and the spring
 <br style="clear:both">
 
 ## <i class="fas fa-sign-in-alt"></i> Becoming a Scout ##
+![Racing Day][race]
 
-Joining happens after:
-
-1. filling out an [application form][signup_form],
+1. filling out an [signup questionnaire][signup_form],
+1. filling out an [application form][signup_form] (new scouts only),
 2. filling out a [health form][health_form],
-3. paying yearly dues.
+3. pay dues on our [web store][web_store].]
 
 After joining, all Scouts should own a cub scout handbook for their Den. This book show all the requirements needed to achieve the "rank" award for the age of the scout. There are required "adventures" and electives. Parents and Scouts are free to work on as many of the electives as they can. In fact, many kids are already doing qualifying activities (like learning to swim) towards awards.
 
@@ -114,8 +117,7 @@ They will also need a uniform. Cub scouts are color coordinated by Den (grade) b
 * Den hat,
 * and Den scarf.
 
-![Cub Scout Uniform][blue_uniform]
-![Webelos Uniform][web_uniform]
+![Cub Scout Uniform][uniforms]
 
 Uniforms come in long sleeve and short sleeve options. Most parents get the short sleeve and put the kid in a long sleeve undershirt.
 
@@ -140,6 +142,7 @@ Fall registration is simple. Just show up on sign up night (first Wednesday of S
 [join][join]
 
 * [Sign up form][signup_form]
+* [Application Form](bsa_app) - new scouts only
 * [Health Form][health_form] - we do play with knifes and fire in the woods (safety first)
 * Parent Email Contact information
     * we never email cub scouts, only parents
@@ -189,14 +192,18 @@ If your interested in joining us outside of a signup event, by all means contact
 [pack]: /events/2018_2019/pack_meetings/March_Pack_Meeting_Fire.jpg "A Pack Meeting"
 [win]: /events/2018_2019/pinewood-derby/a_winner.jpg "A Pine Wood Derby winner"
 [cars]: /events/2018_2019/blue-and-gold/slides/cars.jpg "Pine Wood Derby"
+[race]: /events/2019-2020/pinewood-derby/pinewood-2020.png "Pine Wood Derby"
 [fire]: /events/2018_2019/blue-and-gold/slides/fire.jpg "Camping"
 [foodme]: /events/2018_2019/blue-and-gold/slides/food_me.jpg "Camping"
 [science]: /events/2018_2019/blue-and-gold/slides/science_it_up.jpg "Science"
 
 [blue_uniform]: https://meritbadge.org/wiki/images/3/3b/Cub_Scout_Uniform.jpg "Cub Scout Uniform"
 [web_uniform]: https://meritbadge.org/wiki/images/7/77/Webelos_uniform.jpg "Webelos Uniform"
+[uniforms]: /images/all_uniforms_2019.jpg "Uniforms"
 
-[signup_form]: https://filestore.scouting.org/filestore/pdf/524-406.pdf "Signup Form"
+[signup_form]: https://airtable.com/shru6EJqfC1BuEJ99 "Signup Form"
+[bsa_app]: https://filestore.scouting.org/filestore/pdf/524-406.pdf "BSA Application Form"
+[web_store]: https://cub306.square.site/
 [health_form]: https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_AB.pdf "Health Form"
 
 [shops]: http://www.baltimorebsa.org/scout-shops/30010 "Local Scout Shops"

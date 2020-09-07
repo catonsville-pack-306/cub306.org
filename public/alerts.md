@@ -1,5 +1,7 @@
-1. [Coronavirus](/events/2019-2020/covid/)
-1. [Latest Email](/announcements/2019-2020/2020-04-22.md)
+1. [Fall Coronavirus News](/events/2020-2021/covid/)
+1. [Signup Form](https://airtable.com/shru6EJqfC1BuEJ99)
+1. [BSA Application](https://filestore.scouting.org/filestore/pdf/524-406.pdf)
+1. [Pay Dues](https://cub306.square.site/)
 
 ----
 

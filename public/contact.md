@@ -14,32 +14,39 @@ You can also email us directly with one of the following emails:
  
 | Position            | Name             | Contact                              |
 | ------------------- | ---------------  | ------------------------------------ |
-| Cub Master          | Thomas Cherry    | [cubmaster@cub306.org](mailto:cubmaster@cub306.org) |
 | Committee Chair     | Melissa Cherry   | [comchair@cub306.org](mailto:comchair@cub306.org)|
+| Cub Master          | Thomas Cherry    | [cubmaster@cub306.org](mailto:cubmaster@cub306.org) |
+| Assistant Cub Master| Eric Silva       | [den4@cub306.org](mailto:den4@cub306.org) |
 | **Den Leaders:**    |                  | |
-| Webelos Year 2      | Matt Straffin    | [arrowolight1@cub306.org](mailto:webelos1@cub306.org) |
-| Webelos Year 1      | Melissa Cherry   | [webelo1s@cub306.org](mailto:webelos1@cub306.org) |
-| Bear Den Leader     | Eric Silva       | [bear1@cub306.org](mailto:bear@cub306.org) |
-| Wolf Den Leader     | Eric Fielding    | [wolf1@cub306.org](mailto:wolf@cub306.org) |
-| Tiger Den 1 Leader  | Katherine Peach  | [tiger1@cub306.org](mailto:tiger1@cub306.org) |
-| Tiger Den 2 Leader  | Jennifer Horwath | [tiger2@cub306.org](mailto:tiger2@cub306.org)
-| Lion Den Leader     | James Marthe     | [lion1@cub306.org](mailto:lion@cub306.org) |
-| **Assistant Den Leaders:** |           | |
-| Webelos Year 2      | n/a              | [arrowolight1.asst1@cub306.org](mailto:webelos2@cub306.org)
-| Webelos Year 1      | Thomas Cherry    | [cubmaster@cub306.org](mailto:cubmaster@cub306.org) 
-| Bear                | Wil Heslop       | [camping@cub306.org](mailto:camping@cub306.org) |
-| Wolf                | Ryan Horwath     | wolf1.asst1 |
-| Wolf                | Gregory Emrick   | [wolf1.asst1@cub306.org](mailto:tiger2@cub306.org) |
-| Tiger               | Mathew Galeone   | tiger1.asst1 |
-| Lion                | n/a              | |
-| 
-| **Other Roals:**    |                 | |
-| "Popcorn Kernel"    | Tracy Soltesz   | [popcorn@cub306.org](mailto:popcorn@cub306.org) |
-| Outdoor Coordinator | Wil Heslop      | [camping@cub306.org](mailto:camping@cub306.org) |
-| Treasurer           | Christy Cherry  | [treasurer@cub306.org](mailto:treasurer@cub306.org) |
-| Advancement Coordinator| Sparky Zivin | awards@cub306.org |
-| Events Coordinator  | Tracy Soltesz   | [events@cub306.org](mailto:events@cub306.org) |
+| Arrow of Light      | Melissa Cherry   | [den5@cub306.org](mailto:den5@cub306.org) |
+| Webelos Den Leader  | Eric Silva       | [den4@cub306.org](mailto:den4@cub306.org) |
+| Bear Den Leader     | Greg Emrick      | [den3@cub306.org](mailto:den3@cub306.org) |
+| Wolf Den Leader     | Jennifer Horwath | [den6@cub306.org](mailto:den6@cub306.org)
+| Wolf Den Leader     | Dustin MacBrayne | [den2@cub306.org](mailto:den2@cub306.org) |
+| Tiger Den Leader    | Open             | [den1@cub306.org](mailto:den1@cub306.org) |
+| Lion Den Leader     | Open             | [lion@cub306.org](mailto:lion@cub306.org) |
+| **Assistant Den Leaders:** |           |
+| AoL                 | Thomas Cherry    | [cubmaster@cub306.org](mailto:cubmaster@cub306.org)
+| AoL                 | Paul Stanley     |
+| Webelos             | Wil Heslop       | [camping@cub306.org](mailto:camping@cub306.org) |
+| Bear                | Ryan Horwath     |
+| Bear                | Eric Fielding    |
+| Wolf                | Katherine Peach  |
+| Tiger               | open
+| &nbsp;
+| **Other Roals:**    |                  | |
+| "Popcorn Kernel"    | Tracy Soltesz    | [popcorn@cub306.org](mailto:popcorn@cub306.org) |
+| Outdoor Coordinator | Wil Heslop       | [camping@cub306.org](mailto:camping@cub306.org) |
+| Asst Outdoor Coord. | Katherine Peach  | [camping@cub306.org](mailto:camping@cub306.org) |
+| Asst Outdoor Coord. | Dustin MacBrayne | [den2@cub306.org](mailto:den2@cub306.org) |
+| Outdoor Coordinator | Wil Heslop       | [camping@cub306.org](mailto:camping@cub306.org) |
+| Treasurer           | Melissa Cherry   | [treasurer@cub306.org](mailto:treasurer@cub306.org) |
+| Advancement Coordinator| Sparky Zivin  | [awards@cub306.org](mailto:awards@cub306.org) |
+| Events Coordinator  | Tracy Soltesz    | [events@cub306.org](mailto:events@cub306.org) |
 | Events Coordinator  | Dawn Wolfe | pending |
+|
+| Wolf Den 1 Leader  | Katherine Peach  | [tiger1@cub306.org](mailto:tiger1@cub306.org) |
+| Webelos Year 2      | Matt Straffin    | [arrowolight1@cub306.org](mailto:webelos1@cub306.org) |
 
 ----
 

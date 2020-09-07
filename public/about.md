@@ -11,6 +11,7 @@ Cub Scout Pack 306 as originally Pack 65. Pack 65 had moved over to the Catonsvi
 1. Richard Pearl - 2017-2018
 1. Thomas Cherry (current) 2018-
 
-Notable members
+Notable Past Members
 
 * Hope Riley - Tiger Den Leader 2015-2018
+* Matthew Straffin - Den Leader 2013-2020
