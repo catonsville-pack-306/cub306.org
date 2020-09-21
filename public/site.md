@@ -2,6 +2,7 @@
 
 * [index](/index.md) - main page
     * [about](/about.md) - about our pack
+    * [announcements](/announcements/) - past anouncments
     * [alerts](/alerts.md) - some tools and alerts
     * [contact](/contact.md) - contact info
     * [dens](/dens)
@@ -13,8 +14,10 @@
         * [Webelos](/dens/webelos)
         * [Arrow of Light](/dens/arrow_of_light)
     * [join](/join.md) - joining the pack (kids/adults)
-    * [schedule](/schedule) - what is coming up
-    * [volunteer](/volunteer.md)
+    * [popcorn](/popcorn/popcorn2019.md) - fund raising
+    * [schedule](/schedule) - what events are coming up
+    * [volunteer](/volunteer.md) - Join us, one of us, one of us...
+    * [ypt](/ypt/) - Youth Protection Training
     * site - this page
 
 # This site Software #
