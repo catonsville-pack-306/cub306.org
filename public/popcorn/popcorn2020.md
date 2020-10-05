@@ -58,7 +58,7 @@ Popcorn Patch: Every Pack 306 scout that makes at least one popcorn sale will re
 
 Additional BAC specific rewards include Scout Shop gift cards, Dave & Buster Experience, and Free Scout Camp. Stay tuned for more details!
 
-* [Price Flyer](popcorn_2020_prize_flyer.pdf)
+* [Prize Flyer](popcorn_2020_prize_flyer.pdf)
 
 ## Questions
 
