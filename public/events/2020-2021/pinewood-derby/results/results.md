@@ -22,12 +22,12 @@ H2{clear:both;}
 
 ## Speed Results
 
-| Rank | AVG Time | AVG MPH | Scout       | Car # | Car           |
-| ---- | -------- | ------- | ----------- | ----- | ------------- |
-| 1    | 3.1672   | 242.29  | M. Sam      | 1     | Smasher       |
-| 2    | 3.206    | 239.25  | Z. Benjamin | 28    | Creeper Car   |
-| 3    | 3.2082   | 239.09  | Z. Oliver   | 9     | Fox Force One |
-| 4    | 3.2293   | 237.34  | S. Kellen   | 10    | Flame Thrower |
+| Rank | AVG Time | AVG MPH | Scout    | Car # | Car           |
+| ---- | -------- | ------- | -------- | ----- | ------------- |
+| 1    | 3.1672   | 242.29  | Kellen   | 1     | Smasher       |
+| 2    | 3.206    | 239.25  | Alex     | 28    | Creeper Car   |
+| 3    | 3.2082   | 239.09  | Benjamin | 9     | Fox Force One |
+| 4    | 3.2293   | 237.34  | Vincent  | 10    | Flame Thrower |
 
 * [Full list](FinalStandings.csv) as a [CSV file](https://en.wikipedia.org/wiki/Comma-separated_values)
 * [Full list](FinalStandings.pdf) as a PDF.
