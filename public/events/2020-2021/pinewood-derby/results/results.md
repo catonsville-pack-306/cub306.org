@@ -41,7 +41,6 @@ The PDF contains a chart of rankings vs time:
 For full race results you can download these files:
 
 * [Raw data](RaceResults.csv) as a CSV
-* [Data](RaceResults.pdf) as a PDF plus some charts
 
 In the PDF is a chart like the one below. The chart shows how your scouts car did for each of its runs. Each row is one scout and is listed by car number. A night grouping means the care preformed pretty much the same regardless of run, a wider gap shows more erratic results.
 
