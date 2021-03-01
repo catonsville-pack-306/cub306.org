@@ -11,21 +11,21 @@ H2{clear:both;}
 
 ## Categories
 
-| Category        | Scout | Car Num. | Car |
-| --------------- | ----- | -------- | --- |
-| Best 2020       | | | 
-| Fantasy Car     | | | 
-| Fastest Looking | | | 
-| Not a Car       | | | 
-| Scout's Choice  | | | 
-| Leader's Choice | | | 
+| Category        | Scout  | Car # | Car                |
+| --------------- | ------ | ----- | ------------------ |
+| Best 2020       | Meena  | 26    | Clean Streak       |
+| Fantasy Car     | Aras   | 31    | Minion             |
+| Fastest Looking | Oliver | 11    | Red Alert          |
+| Not a Car       | Wyatt  | 20    | Super Ravens Racer |
+| Scout's Choice  | Leif   | 32    | Chaos Racer        |
+| Leader's Choice | Dorian | 30    | Aldrin             |
 
 ## Speed Results
 
-| Rank | AVG Time | AVG MPH | Scout       | Car # | Car |
-| ---- | -------- | ------- | ----------- | ----- | --- |
-| 1    | 3.1672   | 242.29  | M. Sam      | 1     | Smasher |
-| 2    | 3.206    | 239.25  | Z. Benjamin | 28    | Creeper Car |
+| Rank | AVG Time | AVG MPH | Scout       | Car # | Car           |
+| ---- | -------- | ------- | ----------- | ----- | ------------- |
+| 1    | 3.1672   | 242.29  | M. Sam      | 1     | Smasher       |
+| 2    | 3.206    | 239.25  | Z. Benjamin | 28    | Creeper Car   |
 | 3    | 3.2082   | 239.09  | Z. Oliver   | 9     | Fox Force One |
 | 4    | 3.2293   | 237.34  | S. Kellen   | 10    | Flame Thrower |
 
@@ -47,6 +47,8 @@ In the PDF is a chart like the one below. The chart shows how your scouts car di
 [![RaceResults](RaceResults.png)](RaceResults.png)
 
 ## Track
-Plotting all the results by track shows a slight advantage to track 1 and a disadvantage on 3. This could just be either the track or the ground not being perfect.
+Plotting all the results by track shows a slight advantage to track 1 and a disadvantage on 3. This could just be either the track or the ground not being perfect, however it may have more to do with the ground as this year was not as bad as last.
+
+This is why we make sure to run the cars evenly over all tracks.
 
 [![Tracks](lanes.png)](lanes.png)
