@@ -7,16 +7,17 @@ p{margin-bottom:0.25em;margin-top:0.25em;}
  
 | Position            | Name             | Contact                              |
 | ------------------- | ---------------  | ------------------------------------ |
-| Committee Chair     | Melissa Cherry   | [comchair@cub306.org](mailto:comchair@cub306.org)|
-| Cub Master          | Thomas Cherry    | [cubmaster@cub306.org](mailto:cubmaster@cub306.org) |
-| Assistant Cub Master| Eric Silva       | [assistant.cub.master@cub306.org](mailto:assistant.cub.master@cub306.org) |
+| Committee Chair     | Jenn Horwath     | [comchair@cub306.org](mailto:comchair@cub306.org)|
+| Cub Master          | Eric Silva       | [cubmaster@cub306.org](mailto:cubmaster@cub306.org) |
+| Assistant Cub Master| Open             | [assistant.cub.master@cub306.org](mailto:assistant.cub.master@cub306.org) |
 | **Den Leaders:**    |                  | |
-| Arrow of Light      | Melissa Cherry   | [den5@cub306.org](mailto:den5@cub306.org) |
-| Webelos Den Leader  | Eric Silva       | [den4@cub306.org](mailto:den4@cub306.org) |
-| Bear Den Leader     | Greg Emrick      | [den3@cub306.org](mailto:den3@cub306.org) |
-| Wolf Den Leader     | Jennifer Horwath | [den6@cub306.org](mailto:den6@cub306.org)
-| Wolf Den Leader     | Dustin MacBrayne | [den2@cub306.org](mailto:den2@cub306.org) |
-| Tiger Den Leader    | Open             | [den1@cub306.org](mailto:den1@cub306.org) |
+| Arrow of Light      | Wil Heslop       | [den4@cub306.org](mailto:den4@cub306.org) |
+| Webelos Den Leader  | Greg Emrick      | [den3@cub306.org](mailto:den3@cub306.org) |
+| Bear Den Leader F   | Open             | [den6@cub306.org](mailto:den6@cub306.org) |
+| Bear Den Leader M   | Open             | [den2@cub306.org](mailto:den2@cub306.org) |
+| Wolf Den Leader     | Open             |
+| Tiger Den Leader F  | Preeti Emrick    |
+| Tiger Den Leader M  | Brian Luoma      |
 | Lion Den Leader     | Open             | [lion@cub306.org](mailto:lion@cub306.org) |
 | **Group Emails**    |                  |
 |                     | | aol-leaders@cub306.org
@@ -25,31 +26,27 @@ p{margin-bottom:0.25em;margin-top:0.25em;}
 |                     | | wolf-leaders@cub306.org
 |                     | | tiger-leaders@cub306.org
 | **Assistant Den Leaders:** |           |
-| AoL                 | Thomas Cherry    | [cubmaster@cub306.org](mailto:cubmaster@cub306.org)
-| AoL                 | Paul Stanley     |
-| Webelos             | Wil Heslop       | [camping@cub306.org](mailto:camping@cub306.org) |
-| Bear                | Ryan Horwath     | 
-| Bear                | Eric Fielding    |
-| Wolf                | Katherine Peach  |
-| Tiger               | open
+| AoL                 | Eric Silva       | [cubmaster@cub306.org](mailto:cubmaster@cub306.org)
+| Webelos             | Eric Fielding    |
+| Bear                | Filled by M/F DL |
+| Wolf                | Open             |
+| Tiger               | Filled by M/F DL |
 | &nbsp;
 | **Other Roals:**    |                  |
-| "Popcorn Kernel"    | Tracy Soltesz    | [popcorn@cub306.org](mailto:popcorn@cub306.org) |
+| Fundraising Chair   | Tracy Soltesz    | [popcorn@cub306.org](mailto:popcorn@cub306.org) |
 | Outdoor Coordinator | Wil Heslop       | [camping@cub306.org](mailto:camping@cub306.org) |
-| Asst Outdoor Coord. | Katherine Peach  | [camping@cub306.org](mailto:camping@cub306.org) |
-| Asst Outdoor Coord. | Dustin MacBrayne | [den2@cub306.org](mailto:den2@cub306.org) |
-| Outdoor Coordinator | Wil Heslop       | [camping@cub306.org](mailto:camping@cub306.org) |
-| Treasurer           | Melissa Cherry   | [treasurer@cub306.org](mailto:treasurer@cub306.org) |
+| Asst Outdoor Coord. | Open             | 
+| Treasurer           | Open             | [treasurer@cub306.org](mailto:treasurer@cub306.org) |
 | Advancement Coordinator| Sparky Zivin  | [awards@cub306.org](mailto:awards@cub306.org) |
 | Events Coordinator  | Tracy Soltesz    | [events@cub306.org](mailto:events@cub306.org) |
-| Events Coordinator  | Dawn Wolfe       | pending |
+| Events Coordinator  | Dawn Wolfe       |
 
 ## Email Lists
 
 * For our announcement email list you can subscribe [here](subscribe.md)
 * You can manage your subscribe [here](http://lists.cub306.org/listinfo.cgi/talk-cub306.org)
 
-(these are Electronic mailing list, for more information see [wikipedia](https://en.wikipedia.org/wiki/Electronic_mailing_list)).
+(these are Electronic mailing lists, for more information see [wikipedia](https://en.wikipedia.org/wiki/Electronic_mailing_list)).
 
 | Den     | Active | Email will come from          | Manage your registration |
 | ------- | ------ | ----------------------------- | ------------------------ |
