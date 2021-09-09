@@ -35,27 +35,32 @@ Format for addresses:
 | Position             | Name             | Personal Email             | Pack Email                 | Note |
 | -------------------- | ---------------- | -------------------------- | -------------------------- | ---- |
 | **Lions**            |                  |                            | lion-leaders@cub306.org    | Group
-| Den Leader           | *open*           | *open*                     | lion@cub306.org            | Open
+| Cordinator          | Thomas Cherry    | thomas.cherry@gmail.com    | lion@cub306.org            | 
 | &nbsp;
 | **Tiger**            |                  |                            | tiger-leaders@cub306.org   | Group
-| Den Leader           | *open*           | *open*                     | den1@cub306.org            | Open
+| Den Leader           | *open*           | *open*                     | den5@cub306.org ???        | Open
+| Den Leader (g)
 | &nbsp;
 | **Wolf**             |                  |                            | wolf-leaders@cub306.org    | Group
-| Den Leader (**g**)   | Jennifer Horwath | jphorwath@gmail.com        | den6@cub306.org
-| Den Leader (b)       | Dustin MacBrayne | dustin.macbrayne@gmail.com | den2@cub306.org
+| Den Leader (b)       | *open*           | *open*                     | den1@cub306.org            | Open
+| Den Leader (g)
 | &nbsp;
 | **Bear**             |                  |                            | bear-leaders@cub306.org    | Group
+| Den Leader (b)       | *open*           |                            | den2@cub306.org
+| Den Leader (**g**)   | *open*           |                            | den6@cub306.org
+| &nbsp;
+| **Webelos**          |                  |                            | webelos-leaders@cub306.org | Group
 | Den Leader (b)       | Greg Emrick      | emrickg@gmail.com          | den3@cub306.org
 | Asst Den Leader (b)  | Eric Fielding    | drericfielding@gmail.com   | eric.fielding@cub306.org   | Pending
-| Asst Den Leader (b)  | Ryan Horwath     | ryan.horwath@gmail.com     | ryan.horwath@cub306.org    | Pending
+| Asst Den Leader (b)  | *open*           |                            |                            | open
 | &nbsp;   
-| **Webelos**          |                  |                            | webelos-leaders@cub306.org | Group
-| Den Leader (b)       | Eric Silva       |                            | den4@cub306.org
-| Asst Den Leader (b)  | Wil Heslop       |                            | camping@cub306.org
-| &nbsp; 
 | **Arrow Of Light**   |                  |                            | aol-leaders@cub306.org     | Group
+| Den Leader (b)       | Wil Heslop       |                            | den4@cub306.org /camping@cub306.org
+| Asst Den Leader (b)  | Eric Silva       |                            | 
+| &nbsp; 
+| **Retired**          |
 | Den Leader (b)       | Melissa Cherry   |                            | den5@cub306.org
-| Asst. Den Leader (b) | Thomas Cherry    | thomas.cherry@gmail.com    | cubmaster@cub306.org
+| Asst. Den Leader (b) | Thomas Cherry    |    | cubmaster@cub306.org
 | Asst. Den Leader (b) | Paul Stanley     | stanleyp02@gmail.com       | paul.stanley@cub306.org    | Pending
 
 
