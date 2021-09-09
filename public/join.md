@@ -102,9 +102,9 @@ Twice a year we do "family camping". These take place in the fall and the spring
 ![Racing Day][race]
 
 1. filling out an [signup questionnaire][signup_form],
-1. filling out an [application form][signup_form] (new scouts only),
-2. filling out a [health form][health_form],
-3. pay dues on our [web store][web_store].]
+2. filling out an [application form][bsa_app] (new scouts only),
+3. filling out a [health form][health_form],
+4. pay dues on our [web store][web_store].]
 
 After joining, all Scouts should own a cub scout handbook for their Den. This book show all the requirements needed to achieve the "rank" award for the age of the scout. There are required "adventures" and electives. Parents and Scouts are free to work on as many of the electives as they can. In fact, many kids are already doing qualifying activities (like learning to swim) towards awards.
 
@@ -201,7 +201,7 @@ If your interested in joining us outside of a signup event, by all means contact
 [web_uniform]: https://meritbadge.org/wiki/images/7/77/Webelos_uniform.jpg "Webelos Uniform"
 [uniforms]: /images/all_uniforms_2019.jpg "Uniforms"
 
-[signup_form]: https://airtable.com/shru6EJqfC1BuEJ99 "Signup Form"
+[signup_form]: https://airtable.com/shrtIYmBXErUK0z8j "Signup Form"
 [bsa_app]: https://filestore.scouting.org/filestore/pdf/524-406.pdf "BSA Application Form"
 [web_store]: https://cub306.square.site/
 [health_form]: https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_AB.pdf "Health Form"
