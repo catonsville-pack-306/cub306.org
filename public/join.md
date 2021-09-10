@@ -52,7 +52,7 @@ Visit [us](https://goo.gl/maps/4m8ACB65TAn), meet our Scouts and [Leaders](/cont
 ## <i class="fas fa-paw"></i> What is Cub Scouts ##
 ![Webelos][webs2]
 ![Lions][lion]
-Cub scouts is an extension of BSA Scouts and is focused on elementary age kids. BSA Scouts is what most people think about when they hear "Scouts" and that program is focussed on Middle School and High School kids.
+Cub scouts is an extension of Scouts BSA and is focused on elementary age kids. Scouts BSA is what most people think about when they hear "Scouts" and that program is focused on Middle School and High School kids.
 
 Cub Scouts is broken down into "Dens" by grade and given names:
 
@@ -62,16 +62,16 @@ Cub Scouts is broken down into "Dens" by grade and given names:
 | ![shield][str] | Tiger     | First        | Required | Participation
 | ![shield][swf] | Wolf      | Second       | Drop off | Apply the principles of scoutings
 | ![shield][sbr] | Bear      | Third        | Drop off | Hands on intro to tools, cooking, fire, others
-| ![shield][sws] | Webelos 1 | Forth grade  | Drop off | Transition to BSA Scouting
-| ![shield][sws] | Webelos 2 | Firth grade  | Drop off | Transition to BSA Scouting
+| ![shield][sws] | Webelos 1 | Forth grade  | Drop off | Transition to Scouts BSA
+| ![shield][sws] | Webelos 2 | Firth grade  | Drop off | Transition to Scouts BSA
 
 ## <i class="fas fa-hiking"></i> Our Activities ##
 ![Pine Wood Derby][cars]
 ![A Pine Wood Derby Winner][win]
 
-We meet every Wednesday during the school year and once a month durring the summer. In our weekly Den meetings scouts learn citizenship, character, and leadership. Once a month we also meet as a whole Pack. These are called Pack Meetings.
+We meet every Wednesday during the school year and once a month durring the summer. In our weekly Den meetings scouts learn citizenship, build character, and practice leadership. Once a month we also meet as a whole Pack. These are called Pack Meetings.
 
-NOTE: we are currently meeting on line for the first half of the year, however our plans will change quickly if the world improves. See our [Covid News](/events/2020-2021/covid/) page for details.
+COVID NOTE: we are currently meeting in person through October 2021, however we meet monthly to update our policy and our plans will change as guidance is updated. See our [Covid News](/events/2020-2021/covid/) page for details.
 <br style="clear:both">
 
 ![Pack Meeting][pack]
@@ -115,13 +115,13 @@ They will also need a uniform. Cub scouts are color coordinated by Den (grade) b
 * The "Class-A" Blue Uniform shirt, tan for Webelos,
 * Cub Scout belt,
 * Den hat,
-* and Den scarf.
+* and Den neckerchief.
 
 ![Cub Scout Uniform][uniforms]
 
 Uniforms come in long sleeve and short sleeve options. Most parents get the short sleeve and put the kid in a long sleeve undershirt.
 
-Pants and socks are optional. Awards are warn on both Shirt and Belt so these really are a must. The color coordinated scarf and hat help the scout feel as since of belonging to their Den and it helps the adults know where the scout belongs.
+Pants and socks are optional. Awards are worn on both Shirt and Belt so these really are a must. The color coordinated neckerchief and hat help the scout feel a sense of belonging to their Den and it helps the adults guide the scout to where he/she belongs.
 
 Each year we also provided a "class-b" tee-shirt for use at events and activities where scouts might get dirty (we try to have many of these).
 
@@ -129,18 +129,17 @@ Each year we also provided a "class-b" tee-shirt for use at events and activitie
 
 <br style="clear:both">
 
-## <i class="fas fa-cloud-sun"></i> Spring Signup ##
-We will be having a spring signup this year (2019). Unlike the fall event, we are not planning to meet for a specific day. Starting in April your can sign up for 2019-2020 program year and begin participating right away. We are a year long pack and will have at least one event per month over the summer.
-
-Send an email to [join@cub306.org](mailto:join@cub306.org?spring+sign+up) and we will help you get started.
-
-[join][join]
-
 ## <i class="fas fa-snowflake"></i> Fall Signup ##
 Fall registration is simple. Just show up on sign up night (first Wednesday of September) and fill out the required forms, pay dues and that is it. if you have any questions, by all means send us an email.
 
 [join][join]
 
+## <i class="fas fa-cloud-sun"></i> Any Time Signup ##
+You can sign up for scouts at any time. Unlike the fall event, all you have to do is fill in the forms below for your scout and come to a den event, where you can begin participating right away. We are a year long pack and will have at least one event per month over the summer.
+
+Send an email to [join@cub306.org](mailto:join@cub306.org?spring+sign+up) and we will help you get started.
+
+[join][join]
 * [Sign up form][signup_form]
 * [Application Form](bsa_app) - new scouts only
 * [Health Form][health_form] - we do play with knifes and fire in the woods (safety first)
@@ -151,7 +150,7 @@ Fall registration is simple. Just show up on sign up night (first Wednesday of S
 
 ## <i class="far fa-calendar-alt"></i> Late Registrations or Transfers ##
 
-If your interested in joining us outside of a signup event, by all means contact us. We accept scouts year round, however after December it may be very hard to catch scouts up with award requirements without a bit of work at home on the scouts and parents side. 
+If your interested in joining us outside of a signup event, by all means contact us. We accept scouts year round, however after December it may be challenging to catch scouts up with award requirements without a bit of work at home on the scout's and parents' side. 
 
 [join][join]
 
@@ -160,9 +159,9 @@ If your interested in joining us outside of a signup event, by all means contact
     <label>Subject</label>
     <select name="subject">
         <option>How do we join</option>
-        <option>Transfere from another pack</option>
+        <option>Transfer from another pack</option>
         <option>What is the cost</option>
-        <option>General Questions</option>
+        <option>FAQ Frequently Asked Questions</option>
         <option>Other</option>
     </select>
     <br>
