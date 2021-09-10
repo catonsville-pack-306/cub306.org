@@ -7,11 +7,11 @@ p{margin-bottom:0.25em;margin-top:0.25em;}
  
 | Position            | Name             | Contact                              |
 | ------------------- | ---------------  | ------------------------------------ |
-| Committee Chair     | Jenn Horwath     | [comchair@cub306.org](mailto:comchair@cub306.org)|
+| Committee Chair     | Sparky Zivin     | [comchair@cub306.org](mailto:comchair@cub306.org)|
 | Cub Master          | Eric Silva       | [cubmaster@cub306.org](mailto:cubmaster@cub306.org) |
-| Assistant Cub Master| Open             | [assistant.cub.master@cub306.org](mailto:assistant.cub.master@cub306.org) |
+| Assistant Cub Master| Greg Emrick      | [assistant.cub.master@cub306.org](mailto:assistant.cub.master@cub306.org) |
 | **Den Leaders:**    |                  | |
-| Arrow of Light      | Wil Heslop       | [den4@cub306.org](mailto:den4@cub306.org) |
+| Arrow of Light      | Wil Heslop       | [camping@cub306.org](mailto:camping@cub306.org) |
 | Webelos Den Leader  | Greg Emrick      | [den3@cub306.org](mailto:den3@cub306.org) |
 | Bear Den Leader F   | Open             | [den6@cub306.org](mailto:den6@cub306.org) |
 | Bear Den Leader M   | Open             | [den2@cub306.org](mailto:den2@cub306.org) |
