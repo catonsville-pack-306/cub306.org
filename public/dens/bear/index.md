@@ -1,10 +1,17 @@
-# Bear Den 2018-2019 #
+# Bear Den 2021-2022 #
 
 ![alt text](../../images/dens/bear.png "cub scout bear rank")
 
 <br clear="both">
 
-**Den Leader**: Melissa Cherry - [bear@cub306.org](mailto:bear2cub306.org)
+## Den 2 and Den 6
+
+**Den Leader**: Open - [bear-leaders@cub306.org](mailto:bear-leaders@cub306.org)
+
+<!--
+Den Leader (b)	open		den2@cub306.org	
+Den Leader (g)	open		den6@cub306.org
+-->
 
 ## For more information ##
 

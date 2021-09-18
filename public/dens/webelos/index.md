@@ -1,8 +1,14 @@
-# Webelos 1 Den 2018-2019 #
+# Webelos 1 Den 2021-2022 #
 
 ![alt text](../../images/dens/webelos_oval.png "cub scout webelos rank")
 
-**Den Leader**: Matt Straffin  - [webelos1@cub306.org]](mailto:webelos1@cub306.org])
+## Den 3
+
+**Den Leader**: Greg Emric  - [den3@cub306.org]](mailto:den3@cub306.org])
+
+Asst Den Leader (b)	Eric Fielding
+
+webelos-leaders@cub306.org
 
 ## For more information ##
 
