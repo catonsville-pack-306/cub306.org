@@ -1,4 +1,4 @@
-1. [Pinewood Derby Results](/events/2020-2021/pinewood-derby/results/results.md)
+1. [Pay Dues Here](https://cub306.square.site/)
 1. [Fall Coronavirus News](/events/2020-2021/covid/)
 
 ----

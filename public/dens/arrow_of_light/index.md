@@ -1,12 +1,12 @@
-# Webelos 2 Den 2018-2019 #
+# Webelos 2 Den 2021-2022 #
 
 ![alt text](../../images/dens/arrowoflightinsignia.png "cub scout webelos rank")
 
 <br clear="both">
 
-**Den Leader**: Kim Mason - [webelos2@cub306.org](mailto:webelos2@cub306.org)
+## Den 4
 
-## For more information ##
+**Den Leader**: Wil Heslop - [den4@cub306.org](mailto:den4@cub306.org)
 
 * [Arrow of Light Award](https://meritbadge.org/wiki/index.php/Arrow_of_Light_award)
 * [Webelos 2](https://cubscouts.org/library/welcome-to-arrow-of-light-cub-scouting/) - fifth grade

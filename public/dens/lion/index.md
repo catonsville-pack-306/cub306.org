@@ -1,16 +1,13 @@
-# Lion Den 2018-2019 #
-
+# Lion Den 2021-2022 #
+<!-- started in 2018 -->
 ![alt text](../../images/dens/lion.png "cub scout lion rank")
 
 <br clear="both">
 
-**Den Leader**: Katherine Peach - [lion@cub306.org](mailto:lion@cub306.org)
-
-**NEW** - we are just starting up a Lion Den this year. 
+**Den Cordinator**: Thomas Cherry - [lion@cub306.org](mailto:lion@cub306.org)
 
 Lions meet once a month and currently do not have a fixed schedule. Their
 meeting dates will be posted here:
-
 
 <!--
 | Date       | Event | Notes | &nbsp;&nbsp;&nbsp;  | Date | Event | Notes |
