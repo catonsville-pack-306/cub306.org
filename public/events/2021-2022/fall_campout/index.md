@@ -25,10 +25,10 @@ Saturday, October 16 to Sunday, October 17, 2021
 ## Meal Plan
 (no prep, cooking or KP on site):
 
-* Dinner - Assorted sandwiches, chips, cookies, bottled water and juice boxes
+* Dinner: Assorted sandwiches, chips, cookies, bottled water and juice boxes
     * Webelos 1 Den will make tinfoil dinners at the Leonard campsite.
     * Pack will eat out of the Pindel campsite.
-* Breakfast – Assorted breakfast bars and juice boxes
+* Breakfast: Assorted breakfast bars and juice boxes
 
 ## Other Details
 
