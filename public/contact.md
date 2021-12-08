@@ -36,7 +36,7 @@ p{margin-bottom:0.25em;margin-top:0.25em;}
 | Fundraising Chair   | Tracy Soltesz | [popcorn@cub306.org](mailto:popcorn@cub306.org) |
 | Outdoor Coordinator | Wil Heslop    | [camping@cub306.org](mailto:camping@cub306.org) |
 | Asst Outdoor Coord. | Open          | 
-| Treasurer           | Open          | [treasurer@cub306.org](mailto:treasurer@cub306.org) |
+| Treasurer           | Nancy Stevens | [treasurer@cub306.org](mailto:treasurer@cub306.org) |
 |Advancement Coordinator| Sparky Zivin | [awards@cub306.org](mailto:awards@cub306.org) |
 | Events Coordinator  | Tracy Soltesz | [events@cub306.org](mailto:events@cub306.org) |
 
