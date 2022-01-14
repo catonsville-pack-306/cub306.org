@@ -29,36 +29,34 @@ Cars should be built by the scout according to their age. As scouts age up, they
 
 ## <i class="far fa-calendar-alt"></i> Dates ##
 
-* <i class="fas fa-cut"></i> Main Bandsaw Cutting: 2022-??-??
-    * Bandsaw rain date: 2022-??-??
-* <i class="fas fa-weight"></i> Official Weigh In: 2022-??-??
-* <i class="fas fa-car"></i> **Race Day** : 2022-??-??
+* <i class="fas fa-cut"></i> Main Bandsaw Cutting: 2022-01-19
+    * Bandsaw rain date: 2022-02-09
+* <i class="fas fa-weight"></i> Official Weigh In: 2022-02-23
+* <i class="fas fa-car"></i> **Race Day** : 2022-02-26
 
 ## <i class="fas fa-cut"></i>Bandsaw Cutting ##
-2022-??-?? - 
-Like in years past, we will have some bandsaws set up and available for cutting blocks. Please come in with a design in hand and drawn in pencil on the block itself. Be prepared to change your design if the bandsaw operator does not feel the design is posible, or safe.
+2022-01-19 - 
+Like in years past, we will have some bandsaws set up and available for cutting blocks. Please come in with a design in hand and drawn in pencil on the block itself. Alternatively, a side and top view of the car can be submitted on paper. Be prepared to change your design if the bandsaw operator does not feel the design is posible, or safe.
 
 We will offer only one day for cutting this year and you **must** signup for a timeslot on the signup sheet.
 
 * [Required bandsaw signup sheet][signup] - google sheet
 
 ## <i class="fas fa-weight"></i> Official Weigh In ##
-2021-??-?? - Den Meeting - Drop-off
-Process to be defined!
+2021-02-23 - Den Meeting - Drop-off
+On the way into your den meeting, come in through the scout door (the one under the columns) and there will be a sign-in table there for weighing and collecting the vehicles operated by adult leaders. This is your last chance to add final weights and graphite to wheels on vehicles, as they will be packed away until Saturday's race after that!
 
 * [Required Driver Registration Form][registration] - airtable
 
 ## <i class="fas fa-car"></i> Race Day ##
 
-Race day starts at 9:00 AM on the 27th (Saturday) and will go till Noon or until all the races have been completed and awards announced. This year we will be streaming the event on youtube live. We may not be able to archive the event for latter viewer, but stay tuned. To make the event feel more interactive, please use the [driver registration][registration] form and populate as much of the info as you can. Please provided an image/avatar/family crest and we will try to use it in the program.
+Race day starts at 9:00 AM on the 26th (Saturday) and will go till Noon or until all the races have been completed and awards announced. This year we will be streaming the event on youtube live. To make the event feel more interactive, please use the [driver registration][registration] form and populate as much of the info as you can. Please provided an image/avatar/family crest and we will try to use it in the program.
 
 ## <i class="fas fa-trophy"></i> Categories ##
-This section to be finalized in the next couple of days
+First through Fourth place for speed
 
 * Voted by attendees
-    * <i class="fas fa-biohazard"></i> Best 2020
-    * <i class="fas fa-dragon"></i> Fantasy
-    * <i class="fas fa-shipping-fast"></i> Fastest Looking
+    * <i class="fas fa-shipping-fast"></i> Best Online Car
     * <i class="fas fa-horse"></i> Not a Car
     * <i class="fas fa-users"></i> Scout Choice
 
