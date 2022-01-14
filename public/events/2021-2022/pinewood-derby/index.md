@@ -11,8 +11,6 @@ padding:0;
 </style>
 [toc](toc)
 
- -> **NOTE:** Draft <-
-
 ## <i class="fas fa-pencil-ruler"></i> Rules ##
 
 ![QR Code to Rules](/cgi-bin/qrc.cgi?size=128&path=events/2020-2021/pinewood-derby/rules.md)
