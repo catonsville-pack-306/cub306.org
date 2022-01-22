@@ -13,9 +13,9 @@ p{margin-bottom:0.25em;margin-top:0.25em;}
 | **Den Leaders:**    |               | |
 | Arrow of Light      | Wil Heslop    | [den4@cub306.org](mailto:camping@cub306.org) |
 | Webelos Den Leader  | Greg Emrick   | [den3@cub306.org](mailto:den3@cub306.org) |
-| Bear Den Leader F   | Open          | [den6@cub306.org](mailto:den6@cub306.org) |
-| Bear Den Leader M   | Open          | [den2@cub306.org](mailto:den2@cub306.org) |
-| Wolf Den Leader     | Open          | [den1@cub306.org](mailto:den1@cub306.org)
+| Bear Den Leader F   | Jenny Spencer | [den6@cub306.org](mailto:den6@cub306.org) |
+| Bear Den Leader M   | Danny Salemie | [den2@cub306.org](mailto:den2@cub306.org) |
+| Wolf Den Leader     | Jenny Spencer | [den1@cub306.org](mailto:den1@cub306.org)
 | Tiger Den Leader F  | Preeti Emrick | [den10@cub306.org](mailto:den10@cub306.org)
 | Tiger Den Leader M  | Brian Luoma   | [den5@cub306.org](mailto:den5@cub306.org) |
 | Lion Den Cordinator | Thomas Cherry | [lion@cub306.org](mailto:lion@cub306.org) |
