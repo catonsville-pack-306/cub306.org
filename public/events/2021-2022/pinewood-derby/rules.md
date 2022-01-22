@@ -34,5 +34,5 @@ Cub Scout Pack 306
 <div class="print print_footer">
 
 ----
-https://cub306.org/ - 2018-12-19
+https://cub306.org/ - 2022-01-13
 </div>
