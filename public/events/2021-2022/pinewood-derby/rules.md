@@ -25,6 +25,9 @@ Cub Scout Pack 306
 * Wheel bearings, washers and bushings are prohibited.
 * The car shall not ride on springs.
 * Only official Cub Scout Grand Prix Pinewood Derby wheels and axles are permitted.
+* Official BSA wheels must be used. The wheels may not be cut, drilled, beveled or
+rounded. You may remove the seams and imperfections from the wheels.
+* The axles may be altered, polished and lubricated.
 * Only dry lubricant is permitted.
 * Details, such as steering wheel and driver are permissible as long as these details do not exceed the maximum length, width and weight specifications.
 * The car must be free-wheeling, with no starting devices.
@@ -34,5 +37,5 @@ Cub Scout Pack 306
 <div class="print print_footer">
 
 ----
-https://cub306.org/ - 2022-01-13
+https://cub306.org/ - 2022-01-26
 </div>
