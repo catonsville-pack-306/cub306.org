@@ -2,6 +2,10 @@
 
 [toc](toc)
 
+## Reimbursement ##
+
+For reimbursement please fill out the [Reimbursement form](https://airtable.com/shr2GIK4ZIKfK0iaE) and email [treasurer@cub306.org](mailto:treasurer@cub306.org?subject=Reimbursement).
+
 ## E-Mail ##
 The Pack News is run by an [Electronic mailing list](https://en.wikipedia.org/wiki/Electronic_mailing_list) run by software called [Mailman](http://www.list.org). We do not currently have an expert on running this kind of email system.
 
