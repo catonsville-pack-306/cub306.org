@@ -66,8 +66,7 @@ First through Fourth place for speed
 
 [science]: https://www.youtube.com/watch?v=-RjJtO51ykY "EASY Pinewood Derby Car WINS using Science!!!"
 [signup]: https://docs.google.com/spreadsheets/d/125vg8uPbod_mQLMIsw96yBC53sB7thEWLfdhNpFNcGY/edit#gid=0 "Google Signup Sheet"
-[registration]: https://airtable.com/shr5lUHswYeHcbsmw "Car Registration"
-
+[registration]: https://airtable.com/shrKWvNAOidw2WUIy "Car Registration - 2022"
 ----
 
 <i class="fas fa-tree"></i>
