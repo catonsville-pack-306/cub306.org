@@ -1,5 +1,5 @@
-1. [Pinewood Derby Info](http://cub306.org/events/2021-2022/pinewood-derby/)
-1. [Driver Registration](https://airtable.com/shrKWvNAOidw2WUIy)
+1. [Spring Camping Signup](https://airtable.com/shrxA5SQHxc3DByVL)
+1. [Spring Camping Payment](https://cub306.square.site/2022-spring-camping)
 
 ----
 1. [Fall Coronavirus News](/events/2020-2021/covid/)
