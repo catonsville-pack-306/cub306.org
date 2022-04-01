@@ -58,7 +58,6 @@ div#sections div {width:50%;float:left;}
 ## Family Gear ##
 * Lawn chairs
 * Cot or sleeping pad
-* Cooking equipment/food as outlined by outdoor camping coordinator (see [Google Sheet](https://docs.google.com/spreadsheets/d/1IAuq2qHt56jJ-GRMijWZ3MTtM-7Ol4he-tMJhk79JZw/edit#gid=390737748))
 </div><div>
 
 ## Toilet Kit ##

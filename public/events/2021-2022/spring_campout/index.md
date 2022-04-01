@@ -1,36 +1,28 @@
-# Pack 306 Fall Campout 2022 #
+# Pack 306 Spring 2022 Campout
 
-**NOTE: This document is DRAFT**
-
-## Where
-Calvert Cliffs State Park
-
-## When
-Saturday, April 30 to Sunday, May 1, 2022
+## Location
+Calvert Cliffs State Park Lusby, MD
 
 ## Schedule
+Saturday, April 30 to Sunday, May 1, 2022
 
 * Saturday, April 30:
-    * 10:00am to 1:00pm	Arrival and Set-up
-    * 1:15pm 		Flag Ceremony and Camp Welcome
-    * 1:30pm to 4:00pm	Den Activities
-    * 4:00pm to 5:00pm	Free Time
-    * 5:00pm        Dinner
-    * 7:30pm			Campfire
-    * 9:00pm			Lights out
+    * 10:00am to 1:00pm - Arrival and Set-up
+    * 1:15pm - Flag Ceremony and Camp Welcome
+    * 1:30pm to 4:00pm - Pack Hike to Beach/Fossil Hunting
+    * 4:00pm to 5:00pm - Free Time
+    * 5:00pm - Dinner
+    * 7:30pm - Campfire
+    * 9:00pm - Lights out
 * Sunday, May 1:
-    * 7:30am			Wake up
-    * 8:00am			Breakfast
-    * 8:30am			Break camp
-    * 9:30am			Flag and Closing Ceremony
+    * 7:00am - Wake up
+    * 8:00am - Breakfast
+    * 8:30am - Break camp
+    * 9:30am - Flag and Closing Ceremony
 
 ## Meal Plan
-(no prep, cooking or KP on site):
-
-* Dinner: Assorted sandwiches, chips, cookies, bottled water and juice boxes
-    * Webelos 1 Den will make tinfoil dinners at the Leonard campsite.
-    * Pack will eat out of the Pindel campsite.
-* Breakfast: Assorted breakfast bars and juice boxes
+* Dinner: Tinfoil dinners, juice boxes, cookies
+* Breakfast: Pancakes, sausage, juice boxes
 
 ## Other Details
 
