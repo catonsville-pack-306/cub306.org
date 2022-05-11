@@ -60,7 +60,6 @@ class ReadIcal
         lines = []
         input = File.exists?(@events_file) ? File.open(@events_file) : STDIN
         puts "did not find #{@events_file}" unless File.exists?(@events_file)
-
         input.read.split("\r\n").each do |text|
             unless text.empty? then
                 if text.start_with?(' ') then
@@ -79,9 +78,6 @@ class ReadIcal
                 lines << text
             end
         end
-        #rescue Exception => error
-        #   print error
-        #end
         calender_hash lines
     end
 
