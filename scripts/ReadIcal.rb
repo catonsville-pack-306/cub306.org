@@ -60,25 +60,32 @@ class ReadIcal
         lines = []
         input = File.exists?(@events_file) ? File.open(@events_file) : STDIN
         puts "did not find #{@events_file}" unless File.exists?(@events_file)
-        input.read.split("\r\n").each do |text|
-            unless text.empty? then
-                if text.start_with?(' ') then
-                    # this is a continued line
-                    before = lines.pop()
-                    text[0] = ''
-                    text = "#{before}#{text}"
+
+        begin
+           input.read.split("\r\n").each do |text|
+                unless text.empty? then
+                    if text.start_with?(' ') then
+                        # this is a continued line
+                        before = lines.pop()
+                        text[0] = ''
+                        text = "#{before}#{text}"
+                    end
+                    #un-escape things
+                    text.gsub! '\\;', ';'
+                    text.gsub! '\\,', ','
+                    text.gsub! '\,', ','
+                    text.gsub! '\\N', '\n'
+                    text.gsub! '\\n', '\n'
+                    text.gsub! '\\\\', '\\'
+                    lines << text
+
                 end
-                #un-escape things
-                text.gsub! '\\;', ';'
-                text.gsub! '\\,', ','
-                text.gsub! '\,', ','
-                text.gsub! '\\N', '\n'
-                text.gsub! '\\n', '\n'
-                text.gsub! '\\\\', '\\'
-                lines << text
             end
         end
-        calender_hash lines
+       rescue Exception => error
+           print error
+       end
+       calender_hash lines
     end
 
     # recursivly convert an array of ical tags to a hash table. Lines are
