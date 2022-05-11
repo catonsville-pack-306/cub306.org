@@ -61,7 +61,7 @@ class ReadIcal
         input = File.exists?(@events_file) ? File.open(@events_file) : STDIN
         puts "did not find #{@events_file}" unless File.exists?(@events_file)
 
-       input.read.split("\r\n").each do |text|
+        input.read.split("\r\n").each do |text|
             unless text.empty? then
                 if text.start_with?(' ') then
                     # this is a continued line
