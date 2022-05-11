@@ -79,9 +79,9 @@ class ReadIcal
                 lines << text
             end
         end
-        rescue Exception => error
-           print error
-        end
+        #rescue Exception => error
+        #   print error
+        #end
         calender_hash lines
     end
 
