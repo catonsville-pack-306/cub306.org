@@ -154,7 +154,7 @@ class ReadIcal
                     details['start'] = value
                     unless value.nil?
                         if value.end_with?("Z")
-                            details['start_date'] = DateTime.parse(value).new_offset('-5')
+                            details['start_date'] = DateTime.parse(value).new_offset('-4')
                         else
                             details['start_date'] = Date.parse value unless value.nil?
                         end
@@ -164,7 +164,7 @@ class ReadIcal
                     details['stop'] = value
                     unless value.nil?
                         if value.end_with?("Z")
-                            details['end_date'] = DateTime.parse(value).new_offset('-5')
+                            details['end_date'] = DateTime.parse(value).new_offset('-4')
                         #else
                             #details['stop_date'] = Date.parse value unless value.nil?
                         end
