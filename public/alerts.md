@@ -1,6 +1,5 @@
-1. [Spring Camping Info](/events/2021-2022/spring_campout/)
-1. [Spring Camping Signup](https://airtable.com/shrxA5SQHxc3DByVL)
-1. [Spring Camping Payment](https://cub306.square.site/2022-spring-camping)
+1. [Fall Registration](https://airtable.com/shrd90T9hPYfOp21I)
+1. [Fall Camping Info](/events/2022-2023/fall_campout/)
 
 ----
 1. [Cyber Chip](https://www.scouting.org/training/youth-protection/cyber-chip/ "Internet Safter for Scouts")

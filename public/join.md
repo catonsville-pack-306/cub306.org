@@ -101,7 +101,6 @@ Twice a year we do "family camping". These take place in the fall and the spring
 ## <i class="fas fa-sign-in-alt"></i> Becoming a Scout ##
 ![Racing Day][race]
 
-1. filling out an [signup questionnaire][signup_form],
 2. filling out an [application form][bsa_app] (new scouts only),
 3. filling out a [health form][health_form],
 4. pay dues on our [web store][web_store].]
