@@ -139,7 +139,8 @@ You can sign up for scouts at any time. Unlike the fall event, all you have to d
 Send an email to [join@cub306.org](mailto:join@cub306.org?spring+sign+up) and we will help you get started.
 
 [join][join]
-* [Sign up form][signup_form]
+
+* [Sign up form][signup_form] - new scouts only
 * [Application Form](bsa_app) - new scouts only
 * [Health Form][health_form] - we do play with knifes and fire in the woods (safety first)
 * Parent Email Contact information
@@ -199,7 +200,7 @@ If your interested in joining us outside of a signup event, by all means contact
 [web_uniform]: https://meritbadge.org/wiki/images/7/77/Webelos_uniform.jpg "Webelos Uniform"
 [uniforms]: /images/all_uniforms_2019.jpg "Uniforms"
 
-[signup_form]: https://airtable.com/shrtIYmBXErUK0z8j "Signup Form"
+[signup_form]: https://my.scouting.org/online-registration/6929ea10-92e0-4f30-b88f-97cbb56abc88/applicant-type "Signup Form"
 [bsa_app]: https://filestore.scouting.org/filestore/pdf/524-406.pdf "BSA Application Form"
 [web_store]: https://cub306.square.site/
 [health_form]: https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_AB.pdf "Health Form"
