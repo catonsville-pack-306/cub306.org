@@ -1,0 +1,12 @@
+[
+
+	{"Key": "hike", "Icon": "fas fa-leaf"},
+	{"Key": "walk", "Icon": "fas fa-leaf"},
+	
+	{"Key": "camping", "Icon": "fas fa-campground"},
+	{"Key": "camp", "Icon": "fas fa-campground"},
+	
+	{"Key": "meeting", "Icon": "fas fa-user-friends"},
+	{"Key": "meetings", "Icon": "fas fa-user-friends"}
+
+]

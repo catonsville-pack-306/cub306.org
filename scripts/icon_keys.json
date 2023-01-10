@@ -1,0 +1,10 @@
+[
+
+	{"Keys": ["hike", "walk"],
+	 "Icon": "<i class=\"fas fa-leaf\"></i>"},
+	{"Keys": ["camp", "camping"],
+	 "Icon": "<i class=\"fas fa-campground\"></i>"},
+	{"Keys": ["meeting", "mappings"],
+	 "Icon": "<i class=\"fas fa-user-friends\"></i>"},
+	{"Keys": [], "Icon": "<i class=\"far fa-calendar-alt\"></i>"}
+]
