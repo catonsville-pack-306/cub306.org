@@ -16,6 +16,8 @@ require 'json'
 
 # ******************************************************************************
 
+$offset = '-4'
+
 class String
     def on_list? (list)
         list.any? { |word| self.include?(word) }
@@ -158,7 +160,7 @@ class ReadIcal
                     details['start'] = value
                     unless value.nil?
                         if value.end_with?("Z")
-                            details['start_date'] = DateTime.parse(value).new_offset('-4')
+                            details['start_date'] = DateTime.parse(value).new_offset($offset)
                         else
                             details['start_date'] = Date.parse value unless value.nil?
                         end
@@ -168,7 +170,7 @@ class ReadIcal
                     details['stop'] = value
                     unless value.nil?
                         if value.end_with?("Z")
-                            details['end_date'] = DateTime.parse(value).new_offset('-4')
+                            details['end_date'] = DateTime.parse(value).new_offset($offset)
                         #else
                             #details['stop_date'] = Date.parse value unless value.nil?
                         end
@@ -213,6 +215,11 @@ end
 
 if __FILE__ == $PROGRAM_NAME
     destination = ARGV[0]
+    if ARGV.length()>1
+        $offset = ARGV[1]
+    else
+        $offset = '-4'
+    end
 
     #remove previouse events
     Dir.glob("#{destination}/calendar-*-to-*.md").each{ |f| File.delete(f)}
