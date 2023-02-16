@@ -123,6 +123,30 @@ type IconKeys struct {
     Icon string
 }
 
+/**
+Filter out lines from a stream, used to remove apple specific tags from a
+calendar as it confuses the library
+*/
+func filterStream (input io.Reader, output *io.PipeWriter, matchList []string) {
+	scanner := bufio.NewScanner(input)
+	defer output.Close()
+	for scanner.Scan() {
+		line := scanner.Text()
+		skip := false
+		for _, match := range matchList {
+			if len(match)>0 && strings.Contains(line, match) {
+				skip = true
+				break
+			}
+		}
+		if skip {continue}
+		output.Write([]byte(line + "\n"))
+	}
+	if err := scanner.Err(); err != nil {
+		fmt.Fprintln(os.Stderr, "reading standard input:", err)
+	}
+}
+
 /* ************************************************************************** */
 // MARK: - dependency functions
 
@@ -638,6 +662,10 @@ func main() {
     }
 
 	// go to work
-    reader := bufio.NewReader(os.Stdin)
+        
+    //golang-ical seams to choke on tags from Apple, so filter them out
+    reader, writer := io.Pipe()
+    go filterStream(os.Stdin, writer, []string{"X-APPLE-"})
+    
     work(reader, today, app_data)
 }
