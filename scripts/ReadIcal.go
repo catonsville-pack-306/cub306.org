@@ -19,6 +19,7 @@ import (
     "fmt"
     "bufio"
     "encoding/json"
+    "errors"
     "flag"
     "github.com/arran4/golang-ical"
     "gitlab.com/golang-commonmark/markdown"
@@ -64,11 +65,11 @@ const DEFAULT_MAPPINGS string = `[
 Default markdown template for each event
 */
 var FILE_TEMPLATE string = `
-## {{ .Icon }} {{ .When }} - {{ .Summary }}
+## {{ .Icon }} {{ .WhenHuman }} - {{ .Summary }}
 {{ if .Description}}
 {{ .Description}}
 {{end}}
-{{if .WhenHuman}}* When: {{ .WhenHuman }}{{end}}
+{{if .When}}* When: {{ .When }}{{end}}
 {{if .Where}}* {{ .Where }}{{end}}
 `
 
@@ -252,9 +253,12 @@ Not Tested
 */
 func load_icon_keys(icon_file string) []IconKeys {
     var icon_keys []IconKeys
-    data := readFile(icon_file)
-    if len(data)<1 {
-        data = DEFAULT_MAPPINGS
+    data := DEFAULT_MAPPINGS
+    if testFile(icon_file) {
+        file_data := readFile(icon_file)
+        if len(file_data)>0 {
+            data = file_data
+        }
     }
     icon_keys = icon_keys_from_string(data)
     return icon_keys
@@ -449,6 +453,15 @@ Not tested!
 func writeFileByDate(path string, prefix string, start time.Time, end time.Time, content string) {
     name := outputFileName(prefix, start, end)
     writeFile(path + "/" + name, content)
+}
+
+/**
+Util/ Function to Test if a file exists
+NOT tested!
+*/
+func testFile(file string) bool {
+    _, err := os.Stat(file)
+    return ! errors.Is(err, os.ErrNotExist)
 }
 
 /**
