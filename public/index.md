@@ -25,6 +25,7 @@ What is cub scouts and what do we do? Games, activities, crafts, STEM, leadershi
 
 ## Links ##
 
+* [Troop 306](https://ourtroop306.org) - For grades 6-12
 * [Scouting](https://www.scouting.org)
     * [Baltimore Area Council](http://www.baltimorebsa.org)
         * [Arrow Head District](http://www.baltimorebsa.org/2409)

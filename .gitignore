@@ -5,6 +5,7 @@ public/out.html
 public/tmp
 *.swp
 *.off
+ReadIcal
 
 # common Macintosh files to ignore
 .DS_Store

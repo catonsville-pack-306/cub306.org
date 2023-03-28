@@ -19,6 +19,7 @@ import (
     "fmt"
     "bufio"
     "encoding/json"
+    "errors"
     "flag"
     "github.com/arran4/golang-ical"
     "gitlab.com/golang-commonmark/markdown"
@@ -34,6 +35,9 @@ import (
 /* ************************************************************************** */
 // MARK: Consts
 
+const APP_BY = "ReadIcal by Thomas.Cherry@gmail.com"
+const APP_VERSION = "1.0.0"
+
 /**
 Raw JSON containing a a default list of maps containing a list of keywords and
 an HTML snip-it representing the topic of a message. Used to apply a custom icon
@@ -45,14 +49,15 @@ const DEFAULT_MAPPINGS string = `[
     {"Keys": ["camp", "camping"],
      "Icon": "<i class=\"fas fa-campground\"></i>"},
     {"Keys": ["meeting", "mappings"],
-     "Icon": "<i class=\"fas fa-user-friends\"></i>"}
+     "Icon": "<i class=\"fas fa-user-friends\"></i>"},
     {"Keys": ["happy", "smile"],
-     "Icon": "<i class=\"far fa-smile\"></i>}"
+     "Icon": "<i class=\"far fa-smile\"></i>"},
     {"Keys": ["flag", "usa"],
-     "Icon": "<i class=\"fas fa-flag-usa\"></i>}"
+     "Icon": "<i class=\"fas fa-flag-usa\"></i>"},
     {"Keys": ["world", "travel"],
-     "Icon": "<i class=\"fas fa-passport\"></i>}",
-    {"Keys": [], "Icon": "<i class=\"far fa-calendar-alt\"></i>"}
+     "Icon": "<i class=\"fas fa-passport\"></i>"},
+    {"Keys": [],
+     "Icon": "<i class=\"far fa-calendar-alt\"></i>"}
 ]
 `
 
@@ -60,16 +65,27 @@ const DEFAULT_MAPPINGS string = `[
 Default markdown template for each event
 */
 var FILE_TEMPLATE string = `
-## {{ .Icon }} {{ .When }} - {{ .Summary }}
+## {{ .Icon }} {{ .WhenHuman }} - {{ .Summary }}
 {{ if .Description}}
 {{ .Description}}
 {{end}}
-{{if .WhenHuman}}* When: {{ .WhenHuman }}{{end}}
+{{if .When}}* When: {{ .When }}{{end}}
 {{if .Where}}* {{ .Where }}{{end}}
 `
 
 /* ************************************************************************** */
 // MARK: - Data Types
+
+type ExitCode int
+const (
+    EXIT_NORMAL ExitCode = iota //0
+    EXIT_VERSION
+    EXIT_SHOW_ICONS
+)
+func (ec ExitCode) int() int {
+    return int(ec)
+}
+
 
 /** App Data holding the current state of the application */
 type AppData struct {
@@ -121,6 +137,30 @@ type template_data struct {
 type IconKeys struct {
     Keys []string
     Icon string
+}
+
+/**
+Filter out lines from a stream, used to remove apple specific tags from a
+calendar as it confuses the library
+*/
+func filterStream (input io.Reader, output *io.PipeWriter, matchList []string) {
+    scanner := bufio.NewScanner(input)
+    defer output.Close()
+    for scanner.Scan() {
+        line := scanner.Text()
+        skip := false
+        for _, match := range matchList {
+            if len(match)>0 && strings.Contains(line, match) {
+                skip = true
+                break
+            }
+        }
+        if skip {continue}
+        output.Write([]byte(line + "\n"))
+    }
+    if err := scanner.Err(); err != nil {
+        fmt.Fprintln(os.Stderr, "reading standard input:", err)
+    }
 }
 
 /* ************************************************************************** */
@@ -213,9 +253,12 @@ Not Tested
 */
 func load_icon_keys(icon_file string) []IconKeys {
     var icon_keys []IconKeys
-    data := readFile(icon_file)
-    if len(data)<1 {
-        data = DEFAULT_MAPPINGS
+    data := DEFAULT_MAPPINGS
+    if testFile(icon_file) {
+        file_data := readFile(icon_file)
+        if len(file_data)>0 {
+            data = file_data
+        }
     }
     icon_keys = icon_keys_from_string(data)
     return icon_keys
@@ -408,8 +451,17 @@ func outputFileName(prefix string, start time.Time, end time.Time) string {
 Not tested!
 */
 func writeFileByDate(path string, prefix string, start time.Time, end time.Time, content string) {
-	name := outputFileName(prefix, start, end)
+    name := outputFileName(prefix, start, end)
     writeFile(path + "/" + name, content)
+}
+
+/**
+Util/ Function to Test if a file exists
+NOT tested!
+*/
+func testFile(file string) bool {
+    _, err := os.Stat(file)
+    return ! errors.Is(err, os.ErrNotExist)
 }
 
 /**
@@ -557,21 +609,23 @@ func work(reader io.Reader, today time.Time, app_data AppData) {
 
 /** command line interface */
 func main() {
-	//overwrite the usage function
+    //overwrite the usage function
     flag.Usage = func() {
-        fmt.Fprintf(flag.CommandLine.Output(), "ReadIcal by thomas.cherry@gmail.com\n\n")
+        fmt.Fprintf(flag.CommandLine.Output(), APP_BY + "n\n")
         fmt.Fprintf(flag.CommandLine.Output(), "Usage of %s:\n", os.Args[0])
         flag.PrintDefaults()
     }
 
     //process command line arguments
+    version := flag.Bool("version", false, "Report application version information")
     verbose := flag.Bool("verbose", false, "send more text to err")
 
     outPath := flag.String("out", "out", "directory to write output to")
     timezone := flag.Int("timezone", -4, "timezone offset")
     date := flag.String("date", "", "date to use")
     template := flag.String("template", "", "Event Template File")
-    icon_file := flag.String("icons","icon_keys.json","File defining icon maps")
+    icon_file := flag.String("icons",
+        "icon_keys.json","File defining icon maps, - to output internal file")
     limit := flag.Int("limit", 0, "max number of events to return")
     no_html := flag.Bool("no-html", false, "Do not convert markdown to HTML")
 
@@ -584,8 +638,13 @@ func main() {
 
     app_data := InitApp(time.Now())
 
-	//process verbose
-	if *verbose {app_data.Verbose = *verbose}
+    if *version {
+        fmt.Printf("%s\nVesion %s\n", APP_BY, APP_VERSION)
+        os.Exit(EXIT_VERSION.int())
+    }
+
+    //process verbose
+    if *verbose {app_data.Verbose = *verbose}
 
     //process no_html
     if *no_html {app_data.Markdown = false}
@@ -599,13 +658,25 @@ func main() {
     if -12 < *after_months && *after_months < 12 {app_data.AfterMonths = *after_months}
     if -365 < *after_days && *after_days < 365 {app_data.AfterDays = *after_days}
 
-	//process icon key file
-    if 0<len(*icon_file) {app_data.IconKeyFile = *icon_file}
+    //process icon key file
+    if 0<len(*icon_file) {
+        if *icon_file == "-" || *icon_file == "internal" {
+            fmt.Println (DEFAULT_MAPPINGS)
+            os.Exit(EXIT_SHOW_ICONS.int())
+        } else if *icon_file == "ignore" {
+            app_data.IconKeyFile = ""
+            if app_data.Verbose {
+                fmt.Fprintln(os.Stderr, "ignoring external file, using internal")
+            }
+        } else {
+            app_data.IconKeyFile = *icon_file
+        }
+    }
 
-	//process out path
+    //process out path
     if 0<len(*outPath) { app_data.OutputPath = *outPath}
 
-	//process timezone
+    //process timezone
     if -12 < *timezone && *timezone < 12 {app_data.TimeZone = *timezone}
 
     //process template
@@ -637,7 +708,11 @@ func main() {
         fmt.Println (today)
     }
 
-	// go to work
-    reader := bufio.NewReader(os.Stdin)
+    // go to work
+        
+    //golang-ical seams to choke on tags from Apple, so filter them out
+    reader, writer := io.Pipe()
+    go filterStream(os.Stdin, writer, []string{"X-APPLE-"})
+    
     work(reader, today, app_data)
 }
