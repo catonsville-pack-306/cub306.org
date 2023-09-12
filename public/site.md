@@ -24,7 +24,7 @@
 
 This site is created using a Ruby CGI script that converts [Markdown][markdown] into HTML. You can find all the source code and web content on [<i class="fab fa-github"></i>Github][github].
 
-You can contribute by either forking the project and making pull requests or by contacting the [Author](thomas.cherry@cub306.org).
+You can contribute by either forking the project and making pull requests or by contacting the [Author](mailto:thomas.cherry@cub306.org).
 
 To request a change, create an issue on [github.com][github-issues]
 
