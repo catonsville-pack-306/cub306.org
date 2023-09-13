@@ -29,7 +29,6 @@ What is cub scouts and what do we do? Games, activities, crafts, STEM, leadershi
 * [Scouting](https://www.scouting.org)
     * [Baltimore Area Council](http://www.baltimorebsa.org)
         * [Arrow Head District](http://www.baltimorebsa.org/2409)
-            * [2019 Day Camp](http://www.baltimorebsa.org/registration/calendardetail.aspx?activitykey=2461585)
 * [Scout Book](https://www.scoutbook.com)
 * [Adult training](https://www.scouting.org/training/adult/)
     * [Youth Protection](https://www.scouting.org/training/youth-protection/)

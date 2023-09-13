@@ -22,8 +22,13 @@
 
 # This site Software #
 
-This site is created using a Ruby CGI script that converts [Markdown](https://daringfireball.net/projects/markdown/syntax) into HTML. You can find all the source code and web content on [<i class="fab fa-github"></i>Github](https://github.com/catonsville-pack-306/cub306.org).
+This site is created using a Ruby CGI script that converts [Markdown][markdown] into HTML. You can find all the source code and web content on [<i class="fab fa-github"></i>Github][github].
 
-You can contribute by either forking the project and making pull requests or by contacting the [Cub Master](cubmaster@cub306.org).
+You can contribute by either forking the project and making pull requests or by contacting the [Author](mailto:thomas.cherry@cub306.org).
 
-To request a change, create an issue on [github.com](https://github.com/catonsville-pack-306/cub306.org/issues)
+To request a change, create an issue on [github.com][github-issues]
+
+<!-- reference links -->
+[markdown]: https://daringfireball.net/projects/markdown/syntax "Markdown syntax"
+[github]: https://github.com/catonsville-pack-306/cub306.org "Website project on github"
+[github-issues]: https://github.com/catonsville-pack-306/cub306.org/issues "Website tickets on github"
