@@ -71,9 +71,6 @@ Cub Scouts is broken down into "Dens" by grade and given names:
 
 We meet every Wednesday during the school year and once a month durring the summer. In our weekly Den meetings scouts learn citizenship, build character, and practice leadership. Once a month we also meet as a whole Pack. These are called Pack Meetings.
 
-COVID NOTE: we are currently meeting in person through October 2021, however we meet monthly to update our policy and our plans will change as guidance is updated. See our [Covid News](/events/2020-2021/covid/) page for details.
-<br style="clear:both">
-
 ![Pack Meeting][pack]
 ![Science][science]
 ### Activities ###

@@ -7,18 +7,16 @@ p{margin-bottom:0.25em;margin-top:0.25em;}
  
 | Position            | Name          | Contact                              |
 | ------------------- | ------------- | ------------------------------------ |
-| Committee Chair     | Sparky Zivin  | [comchair@cub306.org](mailto:comchair@cub306.org)|
+| Committee Chair     | Preeti Emrick  | [comchair@cub306.org](mailto:comchair@cub306.org)|
 | Cub Master          | Eric Silva    | [cubmaster@cub306.org](mailto:cubmaster@cub306.org) |
 | Assistant Cub Master| Greg Emrick   | [assistant.cub.master@cub306.org](mailto:assistant.cub.master@cub306.org) |
 | **Den Leaders:**    |               | |
-| Arrow of Light      | Wil Heslop    | [den4@cub306.org](mailto:camping@cub306.org) |
-| Webelos Den Leader  | Greg Emrick   | [den3@cub306.org](mailto:den3@cub306.org) |
-| Bear Den Leader F   | Jenny Spencer | [den6@cub306.org](mailto:den6@cub306.org) |
-| Bear Den Leader M   | Danny Salemie | [den2@cub306.org](mailto:den2@cub306.org) |
-| Wolf Den Leader     | Jenny Spencer | [den1@cub306.org](mailto:den1@cub306.org)
-| Tiger Den Leader F  | Preeti Emrick | [den10@cub306.org](mailto:den10@cub306.org)
-| Tiger Den Leader M  | Brian Luoma   | [den5@cub306.org](mailto:den5@cub306.org) |
-| Lion Den Cordinator | Thomas Cherry | [lion@cub306.org](mailto:lion@cub306.org) |
+| Den 4 (Wolf) Leader      | Wil Heslop    | [den4@cub306.org](mailto:camping@cub306.org) |
+| Den 3 (Tiger) Leader  | Greg Emrick   | [den3@cub306.org](mailto:den3@cub306.org) |
+| Den 2 (Arrow of Light) Leader   | Jenny Spencer | [den2@cub306.org](mailto:den2@cub306.org) |
+| Den 1 (Webelo) Leader     | Jenny Spencer | [den1@cub306.org](mailto:den1@cub306.org)
+| Den 5 (Bear) Leader | Brian Luoma   | [den5@cub306.org](mailto:den5@cub306.org) |
+| Lion Den Cordinator | Eric Silva | [lion@cub306.org](mailto:lion@cub306.org) |
 | **Group Emails**    |               |
 |                     | | aol-leaders@cub306.org
 |                     | | webelos-leaders@cub306.org
@@ -26,11 +24,11 @@ p{margin-bottom:0.25em;margin-top:0.25em;}
 |                     | | wolf-leaders@cub306.org
 |                     | | tiger-leaders@cub306.org
 | **Assistant Den Leaders:** |        |
-| AoL                 | Eric Silva    | 
-| Webelos             | Eric Fielding |
-| Bear                | Open          |
+| AoL                 | Danny Salemie    | 
+| Webelos             | Open |
+| Bear                | Brennan Kuhns, Preeti Emrick |
 | Wolf                | Open          |
-| Tiger               | Both Leaders  |
+| Tiger               | Open  |
 | &nbsp;
 | **Other Roals:**    |               |
 | Fundraising Chair   | Tracy Soltesz | [popcorn@cub306.org](mailto:popcorn@cub306.org) |

@@ -12,7 +12,7 @@ What is cub scouts and what do we do? Games, activities, crafts, STEM, leadershi
 
 (links to cub scouts)
 
-* [Lion](dens/lion/) - Kindergarten grade - **NEW**
+* [Lion](dens/lion/) - Kindergarten grade
 * [Tiger](dens/tiger/) - first grade
 * [Wolf](dens/wolf/) - second grade
 * [Bear](dens/bear/) - third grade
