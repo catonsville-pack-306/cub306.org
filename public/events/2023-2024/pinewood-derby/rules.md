@@ -14,8 +14,9 @@ Cub Scout Pack 306
 
 ## CAR SPECIFICATIONS ##
 
-* Width - 2 3/4"
-* Length - 7"
+* Width - max 2 3/4 inches
+* Length - max 7 inches
+* Height - max 5 inches
 * Weight - Not over 5 ounces
 * Width between wheels - 1 3/4"
 * Bottom clearance between car and track - 3/8"
@@ -37,5 +38,5 @@ rounded. You may remove the seams and imperfections from the wheels.
 <div class="print print_footer">
 
 ----
-https://cub306.org/ - 2023-01-10
+https://cub306.org/ - 2024-01-19
 </div>
