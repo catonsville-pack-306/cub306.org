@@ -58,14 +58,13 @@ First through Fourth place for speed
     * <i class="fas fa-users"></i> Scout's Choice
 
 ## Resources ##
-<!--* [Print Flyer](PinewoodDerbyFlyer2020.pdf)-->
 * [EASY Pinewood Derby Car WINS using Science!!!][science] - youtube
-<!--* [Bandsaw Signup Sheet][signup] - google sheets TBD-->
 * [Driver Registration Form][registration] - airtable TBD
 
 [science]: https://www.youtube.com/watch?v=-RjJtO51ykY "EASY Pinewood Derby Car WINS using Science!!!"
 [signup]: https://docs.google.com/spreadsheets/d/125vg8uPbod_mQLMIsw96yBC53sB7thEWLfdhNpFNcGY/edit#gid=0 "Google Signup Sheet"
 [registration]: https://airtable.com/shrKWvNAOidw2WUIy "Car Registration - 2023"
+
 ----
 
 <i class="fas fa-tree"></i>
