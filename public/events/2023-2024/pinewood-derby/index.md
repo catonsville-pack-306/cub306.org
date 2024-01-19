@@ -38,29 +38,29 @@ Like in years past, we will have some bandsaws set up and available for cutting 
 You will be tapped den-by-den to go to get your car cut.
 
 ## <i class="fas fa-weight"></i> Official Weigh In ##
-2024-02-21 - Den Meeting - Drop-off
-On the way into your den meeting, come in through the scout door (the one under the columns) and there will be a sign-in table there for weighing and collecting the vehicles operated by adult leaders. This is your last chance to add final weights and graphite to wheels on vehicles, as they will be packed away until Saturday's race after that!
+2024-02-21 - Drop-off
+Come in through the scout door (the one under the columns) and there will be a sign-in table there for weighing and collecting the vehicles operated by adult leaders. This is your last chance to add final weights and graphite to wheels on vehicles, as they will be packed away until Saturday's race after that!
 
 * [Required Driver Registration Form][registration] - airtable
 
 ## <i class="fas fa-car"></i> Race Day ##
 
-Race day starts at 9:00 AM on the 25th (Saturday) and will go till Noon or until all the races have been completed and awards announced. This year we will be streaming the event on youtube live. To make the event feel more interactive, please use the [driver registration][registration] form and populate as much of the info as you can. Please provide an image/avatar/family crest and we will try to use it in the program.
+Race day starts at 9:00 AM on the 24th (Saturday) and will go till Noon or until all the races have been completed and awards announced. This year we will be streaming the event on youtube live. To make the event feel more interactive, please use the [driver registration][registration] form and populate as much of the info as you can. Please provide an image/avatar/family crest and we will try to use it in the program.
 
 ## <i class="fas fa-trophy"></i> Categories ##
 First through Fourth place for speed
 
 * Voted by attendees
-    * <i class="fas fa-shipping-fast"></i> ~~Fastest Looking Car~~
-    * <i class="fas fa-horse"></i> ~~Not a Car~~
-    * <i class="fas fa-users"></i> ~~Coolest Paint Job~~
-    * <i class="fas fa-users"></i> ~~Best Movie Car~~
-    * <i class="fas fa-users"></i> Scout Choice
+    * <i class="fas fa-mask"></i> Most Heroic Car
+    * <i class="fas fa-horse"></i> Not a Car
+    * <i class="fas fa-clock"></i> Time Traveling Car
+    * <i class="fas fa-users"></i> Scout-iest Car
+    * <i class="fas fa-users"></i> Scout's Choice
 
 ## Resources ##
 <!--* [Print Flyer](PinewoodDerbyFlyer2020.pdf)-->
 * [EASY Pinewood Derby Car WINS using Science!!!][science] - youtube
-* [Bandsaw Signup Sheet][signup] - google sheets TBD
+<!--* [Bandsaw Signup Sheet][signup] - google sheets TBD-->
 * [Driver Registration Form][registration] - airtable TBD
 
 [science]: https://www.youtube.com/watch?v=-RjJtO51ykY "EASY Pinewood Derby Car WINS using Science!!!"
