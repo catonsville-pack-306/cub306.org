@@ -59,11 +59,11 @@ First through Fourth place for speed
 
 ## Resources ##
 * [EASY Pinewood Derby Car WINS using Science!!!][science] - youtube
-* [Driver Registration Form][registration] - airtable TBD
+* [Driver Registration Form][registration] - airtable
 
 [science]: https://www.youtube.com/watch?v=-RjJtO51ykY "EASY Pinewood Derby Car WINS using Science!!!"
 [signup]: https://docs.google.com/spreadsheets/d/125vg8uPbod_mQLMIsw96yBC53sB7thEWLfdhNpFNcGY/edit#gid=0 "Google Signup Sheet"
-[registration]: https://airtable.com/shrKWvNAOidw2WUIy "Car Registration - 2023"
+[registration]: https://airtable.com/appjByVlBt7bvO1gU/shr2lXigVOHJgktdv "Car Registration - 2023"
 
 ----
 
