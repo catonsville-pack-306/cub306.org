@@ -5,9 +5,10 @@
 <br clear="both">
 
 ## Den 5
-
-**Den Leader**: Brian Luoma - [den5@cub306.org](mailto:den5@cub306.org)
-**Assistant Den Leaders**: Brennan Kuhns and Preeti Emrick
+| Position             | Name          | Email |
+| -------------------- | ------------- | ----- |
+|Den Leader|Brian Luoma | [den5@cub306.org](mailto:den5@cub306.org)|
+|Assistant Den Leaders| Brennan Kuhns and Preeti Emrick|
 
 <!--
 Den Leader (b)	open		den2@cub306.org	

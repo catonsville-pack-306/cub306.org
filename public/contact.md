@@ -56,6 +56,5 @@ p{margin-bottom:0.25em;margin-top:0.25em;}
 
 ----
 
-So do you know what [slack](https://slack.com) is, well we have an account and we would like to try it out with everyone:
-[<i class="fab fa-slack-hash"></i>Pack 306 Slack](https://cubscoutpack306.slack.com/)
+
 
