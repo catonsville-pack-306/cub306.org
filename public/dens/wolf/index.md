@@ -1,14 +1,14 @@
-# Wolf Den 2021-2022 #
+# Wolf Den 2023-2024 #
 
 ![alt text](../../images/dens/wolf.png "cub scout wolf rank")
 
 <br clear="both">
 
-Wolf - Den 1
+Wolf - Den 4
 
 | Position             | Name          | Email |
 | -------------------- | ------------- | ----- |
-| Wolf Den Leader      | Open          | [den1@cub306.org](mailto:den1@cub306.org) |
+| Wolf Den Leader      | Wil Heslop         | [den4@cub306.org](mailto:den4@cub306.org) |
 | All Wolf Leaders     | All of them   | [wolf-leaders@cub306.org](mailto:wolf-leaders@cub306.org) |
 
 ## Parents ##
@@ -16,6 +16,5 @@ You can join the parent email list for this den by sending email to [wolfs-join@
 
 ## For more information ##
 
-* https://meritbadge.org/wiki/index.php/Wolf_Cub_Scout
-* [Wolf](https://cubscouts.org/library/welcome-to-wolf-cub-scouting/) - second grade
+ [Wolf](https://cubscouts.org/library/welcome-to-wolf-cub-scouting/) - second grade
 * [Wolf Requirement Addendum](https://filestore.scouting.org/filestore/cubscouts/pdf/Wolf_Addendum.pdf)
