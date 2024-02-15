@@ -1,4 +1,4 @@
-![outlawlogo]("C:\Users\brian\Documents\GitHub\cub306.org\public\images\outlaw derby lOGO.png")
+![outlawlogo](outlaw_derby_logo.png)
 
 
 # 2024 PACK 306 OUTLAW DERBY
@@ -47,17 +47,19 @@ Then the Outlaw Derby is your chance to build your own car and race. The best pa
 
 
 ### [Click here to register](https://cub306.square.site/outlaw-derby-2024)
-![outlaw2024qr]("C:\Users\brian\Documents\GitHub\cub306.org\public\images\outlaw derby qr code.png")
+![outlaw2024qr](outlaw_derby_qr_code.png)
 
 
 
 ## Car Creation Guidelines
 **For safety purposes and to protect the race track from damage, cars:**
 
-1) May not interfere with any other cars in the race;
-2) May not use any type of combustion (e.g. no rockets, no internal combustion engines, nothing burning);
-3) Must fit under the timing gate at the end of the track (we will get you the dimensions ASAP);
-4) May only use dry lubricants (e.g. powdered graphite)
+
+
+1. May not interfere with any other cars in the race
+1. May not use any type of combustion (e.g. no rockets, no internal combustion engines, nothing burning) 
+1. Must fit under the timing gate at the end of the track (we will get you the dimensions ASAP)
+1. May only use dry lubricants (e.g. powdered graphite)
 
 
 
