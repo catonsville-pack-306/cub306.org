@@ -1,4 +1,11 @@
-![outlawlogo](outlaw_derby_logo.png)
+# 2024 OutLaw Derby
+
+<style>
+img[src="outlaw_derby_logo.png"]{width:600px;}
+img[src="outlaw_derby_qr_code.png"]{width:300px;}
+</style>
+
+![outlaw logo](outlaw_derby_logo.png)
 
 ## 2024 PACK 306 OUTLAW DERBY
 
@@ -7,12 +14,12 @@
 * Are you a racing fan that just wants to compete and win a prize?
 * Are you a local business owner that is looking for a fun different way to promote your business?
 
-Then the Outlaw Derby is your chance to build your own car and race. The best part is there are very little rules. There are two ways to enter, as a business sponsor or as an individual.
+Then the Outlaw Derby is your chance to buil your own car and race. The best part is there are very little rules. There are two ways to enter, as a business sponsor or as an individual.
 
 ---
 
 * What: "No" rules pinewood derby open to scouts, adults, members of the community, and local businesses
-* When: Saturday May 11th 1 to 4p
+* When: Saturday May 11th 1 to 4pm
 * Where: CPC Pavilion, 1400 Frederick Road, Catonsville
 * Why: Raise funds for the pack, support local scouting, and most importantly to share the fun with our community!
 * More Info: cub306outlawderby@gmail.com
@@ -29,9 +36,9 @@ Then the Outlaw Derby is your chance to build your own car and race. The best pa
 * 1 PWD car kit
 * Registration
 
-### [Click here to register](https://cub306.square.site/outlaw-derby-2024)
+**[Click here to register](https://cub306.square.site/outlaw-derby-2024)**
 
-![outlaw2024qr](outlaw_derby_qr_code.png)
+![outlaw 2024 QRcode](outlaw_derby_qr_code.png)
 
 ## Car Creation Guidelines
 
