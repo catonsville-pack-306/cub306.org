@@ -17,7 +17,7 @@ What is cub scouts and what do we do? Games, activities, crafts, STEM, leadershi
 * [Wolf](dens/wolf/) - second grade
 * [Bear](dens/bear/) - third grade
 * [Webelos 1](dens/webelos1) - fourth grade
-* [Webelos 2](dens/webelos2/) (arrow of light cub scouting) - fifth grade
+* [AArrow of Light](dens/webelos2/) - fifth grade
 
 <br clear="both">
 
