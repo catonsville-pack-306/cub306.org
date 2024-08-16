@@ -18,7 +18,6 @@ p{margin-bottom:0.25em;margin-top:0.25em;}
 | Den 5 (Webelo) Leader | Brian Luoma   | [den5@cub306.org](mailto:den5@cub306.org) |
 | Lion Den Cordinator | Brennan Kuhns | [lion@cub306.org](mailto:lion@cub306.org) |
 
-
 ## Email Lists
 
 * For our announcement email list you can subscribe [here](subscribe.md)
@@ -34,8 +33,3 @@ p{margin-bottom:0.25em;margin-top:0.25em;}
 | Bears   |        | bears@lists.cub306.org        | [Self Service Join/Leave Page](http://lists.cub306.org/listinfo.cgi/bears-cub306.org)   |
 | Webelos |        | webelos@lists.cub306.org      | [Self Service Join/Leave Page](http://lists.cub306.org/listinfo.cgi/webelos-cub306.org) |
 | AoL     |        | arrowoflight@lists.cub306.org | [Self Service Join/Leave Page](http://lists.cub306.org/listinfo.cgi/wolfs-cub306.org)   |
-
-----
-
-
-
