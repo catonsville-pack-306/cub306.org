@@ -10,7 +10,8 @@ Cub Scout Pack 306 has a long history, including a sad time when the pack was cl
 1. Jon Bartel (founder) 2013-2017
 2. Richard Pearl - 2017-2018
 3. Thomas Cherry - 2018-2021
-4. Eric Silva - 2021-current
+4. Eric Silva - 2021-2024
+5. Brennan Kuhns - 2024-Current
 
 Notable Past Members
 
