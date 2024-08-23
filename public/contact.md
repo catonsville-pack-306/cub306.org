@@ -13,7 +13,7 @@ p{margin-bottom:0.25em;margin-top:0.25em;}
 | **Den Leaders:**    |               | |
 | Den 4 (Bear) Leader      | Wil Heslop    | [den4@cub306.org](mailto:camping@cub306.org) |
 | Den 3 (Wolf) Leader  | Greg Emrick   | [den3@cub306.org](mailto:den3@cub306.org) |
-| Den 2 (Tiger) Leader  Leader   | Open | [den2@cub306.org](mailto:den2@cub306.org) |
+| Den 2 (Tiger) Leader  | Open | [den2@cub306.org](mailto:den2@cub306.org) |
 | Den 1 (Arrow of Light)  Leader     | Laurie Imhoff | [den1@cub306.org](mailto:den1@cub306.org)
 | Den 5 (Webelo) Leader | Brian Luoma   | [den5@cub306.org](mailto:den5@cub306.org) |
 | Lion Den Cordinator | Brennan Kuhns | [lion@cub306.org](mailto:lion@cub306.org) |
