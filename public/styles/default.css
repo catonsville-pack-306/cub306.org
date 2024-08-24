@@ -92,8 +92,7 @@ article
 {
     margin:0.55em;
     padding:0.5em;
-    /*margin-right:5em;*/
-    border:1px solid grey;
+    /*border:1px solid grey;*/
     text-align: Justify;
     margin-bottom:1em;
 }
@@ -112,24 +111,24 @@ aside
 
 aside ol{padding:0;margin:0em 0em 0em 1em;}
 
+/** call out boxes for blog */
+
 section.blog
 {
     margin-left:0;
     margin-right:0;
     padding-left:0;
     padding-right:0;
-    column-count:2;
+    /*column-count:2;*/
 }
 section.blog article
 {
-    break-inside:avoid-column;
-    /*padding:0.25em;*/
+    /*break-inside:avoid-column;*/
     margin:0px;
     padding:2px;
     padding-bottom:0em;
     margin-bottom:0.25em;
-    /*margin-bottom:0.5em;*/
-    background-color:white;
+    /*background-color:white;*/
 }
 section.blog article .content
 {
@@ -205,7 +204,7 @@ footer
     padding-left: 0.5em;
 }
 
-#foot_copy {float:left;padding-left:1em;}
+#foot_copy #foot_links {float:left;padding-left:1em;}
 #foot_contact {float:right;padding-right:1em;}
 
 table, td, th{border:1px solid black;}

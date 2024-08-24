@@ -43,11 +43,14 @@
     td img[alt="shield"]{width:3em;height:3em}
 </style>
 
-[toc](toc)
+If you have an elementary age kid, visit [us](https://goo.gl/maps/4m8ACB65TAn), meet our Scouts and Leaders. For information on joining you can send an email to us.
 
-Visit [us](https://goo.gl/maps/4m8ACB65TAn), meet our Scouts and [Leaders](/contact.md). For information on joining you can send an email to us.
+[email][join].
 
-[join][join].
+For middle school and highschool age scouts, please visit one of our other units:
+
+* [Boys Troop 306](https://ourtroop306.org/)
+* [Girls Troop 306](https://catonsville306.org)
 
 ## <i class="fas fa-paw"></i> What is Cub Scouts ##
 ![Webelos][webs2]
