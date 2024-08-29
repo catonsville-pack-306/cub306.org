@@ -90,9 +90,9 @@ class MarkdownToHTML
         end
         content
     end
-    
+
     # #mark - Human Readable Comment
-    
+
     # extract a title from the content of markdown
     # @param contents markdown text
     # @param title default title to use, assumes nil
@@ -148,18 +148,24 @@ class MarkdownToHTML
         Time.now.strftime('%Y-%m-%d %H:%M:%S')
     end
 
+    def has_content(path)
+        return false unless File.exists?(@root + path)
+        contents = load_file(@root, path)
+        not contents.strip.empty?
+    end
+
     # loads a markdown file, translates it, processes ERB commands
     # @param path URI for the markdown file to load
     # @return HTML content
     def inject(path)
         return "#{path} does not exist" unless File.exists?(@root + path)
-        
+
         contents = load_file(@root, path)
-        
+
         # try first
         wrapper_erb = ERB.new contents
         contents = wrapper_erb.result(binding)
-        
+
         page = markdown(contents)
 
         wrapper_erb = ERB.new page
@@ -167,13 +173,13 @@ class MarkdownToHTML
 
         result
     end
-    
+
     def include(name = "extra", debug=false)
         content = ""
-        
+
         base_dir = @file_path
         base_dir = "/" if base_dir.end_with?("index.md")
-        
+
         begin
             if File.exists?(@root + base_dir + "#{name}.erb")
                 content = render_erb "#{name}.erb"
@@ -199,15 +205,15 @@ class MarkdownToHTML
         uri = @req_uri
         File.directory?(@root + uri + "blog")
     end
-    
+
     def blog_here
         blog(@file_dirname + "/blog")
     end
-    
+
     def blog_path file
         @file_dirname + "/blog/" + file
     end
-    
+
     def blog(path)
         result = ""
         todays_file = Time.now.strftime("%Y-%m-%d")
@@ -239,7 +245,7 @@ class MarkdownToHTML
         end
         result
     end
-    
+
     def helper_wrap_in_article(inject_file)
         c = inject(inject_file)
         inject_file["//"] = "/"

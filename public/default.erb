@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <title><%=title%></title>
-    
+
     <meta name="apple-mobile-web-app-title" content="Pack 306">
     <meta name="viewport" content="width=device-width" />
-    
+
     <link rel="apple-touch-icon" href="touch-icon-iphone.png">
     <link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png" />
     <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png" />
@@ -17,30 +17,17 @@
         media="only screen and (max-device-width: 480px)"
         href="styles/default-ios.css" /-->
     <link rel="stylesheet" href="/styles/default-print.css" media="print">
-    
+
     <script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js"
         integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ"
         crossorigin="anonymous"></script>
-    
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="/scripts/default.js"></script>
-    
-    <!--
-    req_uri=<%=@req_uri%>
-    doc_uri=<%=@doc_uri%>
-    accept=<%=@accept%>
-    now=<%=now%>
-
-    base=<%=@file_base_name %>
-    path=<%=@file_path %>
-    ext=<%=@file_extname %>
-    dir=<%=@file_dirname %>
-    -->
 </head>
 <body>
 <header>
     <h1 id="header_title">Cub Scout Pack 306</h1>
-    <h2 id="sub-head">2023-2024 Scouting Season</h2>
+    <h2 id="sub-head">"Do your best"</h2>
     <menu>
         <menuitem>
             <a href="/index.md"><i class="fas fa-home"></i> Home</a>
@@ -61,11 +48,11 @@
             <a href="/contact.md"><i class="far fa-address-card"></i> Contact Us</a>
         </menuitem>
         <menuitem>
-            <a href="https://cub306.square.site/">
+            <a href="https://cub306.square.site/" target="_new">
                 <i class="fab fa-squarespace"></i> Payments</a>
         </menuitem>
         <menuitem>
-            <a href="https://www.facebook.com/CatonsvilleCub306">
+            <a href="https://www.facebook.com/CatonsvilleCub306" target="_new">
                 <i class="fab fa-facebook"></i> Facebook</a>
 			<!-- https://www.facebook.com/groups/1638534726165407/ -->
         </menuitem>
@@ -73,18 +60,14 @@
     <!--div id="construction">This site is under development</aside-->
 </header>
 
+<% if has_content("/alerts.md") %>
 <aside>
     <div>Tools</div>
     <div>
         <%=inject "/alerts.md"%>
     </div>
 </aside>
-
-<!--
-<h1>include</h1>
-<%=include "test", true%>
-<hr>
--->
+<% end %>
 
 <main>
     <% if blog_exists %>
@@ -104,15 +87,25 @@
 <br style="clear:both;">
 
 <footer>
+    <div id="foot_contact">
+        About this site <a href="/site.md">software</a>.
+        For more information contact the <a href="mailto:cubmaster@cub306.org">Cub Master</a>.
+    </div>
     <div id="foot_copy">
         Copyright &copy; <%=DateTime.now.strftime("%Y")%> -
         Catonsville Cub Scout Pack 306. All rights reserved.
         Images of scouts can only be reused with permission!
     </div>
-    <div id="foot_contact">
-        About this site <a href="/site.md">software</a>.
-        For more information contact the <a href="mailto:cubmaster@cub306.org">Cub Master</a>.
+
+    <div id="foot_links">
+        For our other sites, see
+    <ul>
+        <li>Cub Scout Pack 306 : <a href="https://cub306.org">Cub306.org</a></li>
+        <li>Boys Troop 306 : <a target="_new" href="https://OurTroop306.org">OurTroop306.org</a></li>
+        <li>Girls Troop 306 : <a target="_netw" href="https://Catonsville306.org">Catonsville306.org</a></li>
+    </ul>
     </div>
+
     <br clear="both">
     <div id="footer_debug">
         <div id="ios8">iPhone 8 plus</div>

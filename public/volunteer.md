@@ -19,8 +19,6 @@ h2 {clear:both;}
 
 </style>
 
-[toc](toc)
-
 There is no shortage of interested youth who want to join scouts. Kids love scouts. On the other hand, parents with extra time is **very** hard to come by. As such we always need people for both large and small roles.
 
 ## <i class="fas fa-hands-helping"></i> Why Become a Leader ##
